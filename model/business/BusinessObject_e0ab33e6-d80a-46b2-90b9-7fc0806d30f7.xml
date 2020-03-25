@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berichte (???)"
+    id="e0ab33e6-d80a-46b2-90b9-7fc0806d30f7"
+    documentation="Berichte sind Darstellungen aus allen anwendbaren Lebenszyklusprozessen. Sie umfassen Berichte zu System-Analyse, Umsetzung, Integration, Verifikation, Übergaben, Validierung, Betrieb, Wartung, Entsorgung, Entscheidungen, Risiken, Konfigurationsmanagement, Informationsmanagement, Messungen, Qualitätssicherung, Beschaffungen, Zulieferungen. (Informationen zu anderen Berichten und werden nicht hier aufgeführt).">
+  <properties
+      key="English Name"
+      value="Reports"/>
+</archimate:BusinessObject>

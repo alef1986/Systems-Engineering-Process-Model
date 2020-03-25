@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entscheidungsmanagementstrategie"
+    id="b0adc531-6844-4c5f-b322-0341f317d870"
+    documentation="Die Entscheidungsmanagement-Strategie umfasst die die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das Entscheidungsmanagement im Rahmen eines Projekts durchzuführen.">
+  <properties
+      key="English Name"
+      value="Decision management strategy"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betriebsbericht"
+    id="e3948655-b140-409e-ae79-bafb235f620c"
+    documentation="Der Betriebsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Betriebsaktivitäten zu kommunizieren.">
+  <properties
+      key="English Name"
+      value="Operation report"/>
+</archimate:BusinessObject>

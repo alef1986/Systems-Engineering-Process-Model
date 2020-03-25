@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an die verifikationsunterstützenden Systeme"
+    id="e602b299-519f-48e5-a0be-777bea2bc9aa"
+    documentation="Die Anforderungen an die verifikationsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Verifikation des Zielsystems ermöglichen.">
+  <properties
+      key="English Name"
+      value="Verification enabling system requirements"/>
+</archimate:BusinessObject>

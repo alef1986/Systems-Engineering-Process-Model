@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betriebsbedingte Einschränkungen"
+    id="b727070e-8310-4c55-a6b1-6f27809a0f93"
+    documentation="Die betriebsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das Sysem, die sich aus der Betriebsstrategie ergeben, einschließlich der Kosten, des Zeitrahmens und der technischen Einschränkungen.">
+  <properties
+      key="English Name"
+      value="Operation constraints"/>
+</archimate:BusinessObject>

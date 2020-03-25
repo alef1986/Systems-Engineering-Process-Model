@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="entsorgungsbedingte Einschränkungen"
+    id="30fad58c-079d-481b-8c04-34797d1e1432"
+    documentation="Die entsorgungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Entsorgungsstrategie ergeben, einschließlich Kosten, Zeitrahmen und technischen Einschränkungen.">
+  <properties
+      key="English Name"
+      value="Disposal constraints"/>
+</archimate:BusinessObject>

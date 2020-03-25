@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definition der Systemfunktionen"
+    id="f68f2ec1-2ad4-49d7-899a-beba9d69a3d2"
+    documentation="Die Definition der Systemfunktionen umfasst die Definition der funktionalen Grenzen des Systems und der Funktionen die das System erfüllen muss.">
+  <properties
+      key="English Name"
+      value="System function definition"/>
+</archimate:BusinessObject>

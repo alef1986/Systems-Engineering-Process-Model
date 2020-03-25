@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an Unterstützungssysteme (???)"
+    id="2d727ded-5f99-4974-9298-a8e4090d3c77"
+    documentation="Die Anforderungen an die Unterstützungssysteme sind die Anforderungen an die Unterstützungssysteme in allen anwendbaren Lebenszyklusprozessen. Sie umfassen die Anforderungen an alle Systeme, die die Implementierung, die Integration, die Verifikation, die Übergabe, die Validierung, den Betriebs, die Wartung und die Entsorgung ermöglichen.">
+  <properties
+      key="English Name"
+      value="Enabling system requirements"/>
+</archimate:BusinessObject>

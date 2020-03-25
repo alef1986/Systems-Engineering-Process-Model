@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ausgeliefertes System"
+    id="8b9772f2-961f-44d3-a108-0d2193e5d41a"
+    documentation="Ein ausgeliefertes System ist ein System oder Systemelement (Produkt oder Service) das gemäß den Lieferbedingungen des Liefervertrages vom Zulieferen an den Besteller geliefert wird.">
+  <properties
+      key="English Name"
+      value="Supplied System"/>
+</archimate:BusinessObject>

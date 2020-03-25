@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entscheidungsprotokoll"
+    id="271f1dbb-7d05-4e65-b423-e6e564e0c9d1"
+    documentation="Ein Entscheidungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf Entscheidungen.">
+  <properties
+      key="English Name"
+      value="Decision record"/>
+</archimate:BusinessObject>

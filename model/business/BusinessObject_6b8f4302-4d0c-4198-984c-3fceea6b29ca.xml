@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an die betriebsunterstützenden Systeme"
+    id="6b8f4302-4d0c-4198-984c-3fceea6b29ca"
+    documentation="Die Anforderungen die betriebsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die den Betrieb des Zielsystems ermöglichen.">
+  <properties
+      key="English Name"
+      value="Operation enabling system requirements"/>
+</archimate:BusinessObject>

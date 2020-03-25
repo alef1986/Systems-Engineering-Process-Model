@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an die umsetzungsunterstützenden Systeme"
+    id="473f3955-3f2d-4090-bab2-88d18bb00770"
+    documentation="Die Anforderungen an die übergabeunterstützenden Systeme sind die Anforderungen an alle Systeme, die die Übergabe des Zielsystems ermöglichen.">
+  <properties
+      key="English Name"
+      value="Transition enabling system requirements"/>
+</archimate:BusinessObject>

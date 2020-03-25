@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschaffungsprotokoll"
+    id="2a70644d-1bcc-4efa-9475-388f7c45d741"
+    documentation="Ein Beschaffungsprotokoll enthält die die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Beschaffung.">
+  <properties
+      key="English Name"
+      value="Acquisition record"/>
+</archimate:BusinessObject>

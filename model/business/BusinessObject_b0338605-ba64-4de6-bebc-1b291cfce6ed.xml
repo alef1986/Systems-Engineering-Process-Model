@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="entsorgtes System"
+    id="b0338605-ba64-4de6-bebc-1b291cfce6ed"
+    documentation="Das entsorgte System ist das entsorgte, deaktivierte, zerlegte oder außer Betrieb genommene System.">
+  <properties
+      key="English Name"
+      value="Disposed system"/>
+</archimate:BusinessObject>

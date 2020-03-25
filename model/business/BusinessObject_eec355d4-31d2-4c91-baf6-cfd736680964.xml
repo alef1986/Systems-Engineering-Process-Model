@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an die validierungsunterstützenden Systeme"
+    id="eec355d4-31d2-4c91-baf6-cfd736680964"
+    documentation="Die Anforderungen an die validierungsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Validierung des Zielsystems ermöglichen.">
+  <properties
+      key="English Name"
+      value="Validation enabling system requirements"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschreibung des Systementwurfs"
+    id="9cd824a5-310f-47ca-995a-9934f027965c"
+    documentation="Die Beschreibung des Systementwurfs ist eine Darstellung des ausgewählten Systementwurfs. Darin sind die Systemelemente identifiziert und definiert.">
+  <properties
+      key="English Name"
+      value="System design description"/>
+</archimate:BusinessObject>

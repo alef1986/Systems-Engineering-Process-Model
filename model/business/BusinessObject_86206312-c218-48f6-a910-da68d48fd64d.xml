@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begründung des Systementwurfs"
+    id="86206312-c218-48f6-a910-da68d48fd64d"
+    documentation="Die Begründung des Systementwurfs ist die Erklärung für die Auswahl eines Entwurfs, die Auswahl der Systemelemente und die Zuweisung der Systemanforderungen zu den Systemelementen. Die Begründung enthält die Erklärung für die maßgeblichen gewählten Möglichkeiten und Mittel der Umsetzung.">
+  <properties
+      key="English Name"
+      value="System design rationale"/>
+</archimate:BusinessObject>

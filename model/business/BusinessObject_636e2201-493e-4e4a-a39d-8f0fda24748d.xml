@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschaffungsvertrag"
+    id="636e2201-493e-4e4a-a39d-8f0fda24748d"
+    documentation="Ein Beschaffungsvertrag ist eine Übereinkunft bezüglich des Verhältnisses und der Verpflichtungen zwischen der Projektorganisation und dem Zulieferer. Die Übereinkunft kann von formalen Verträgen bis hin zu weniger formalen unternehmensinternen Arbeitsanweisungen reichen.&#xD;&#xA;&#xD;&#xA;Verträge beinhalten typischerweise allgemeine Geschäfts- bzw. Auftragsbedingungen.">
+  <properties
+      key="English Name"
+      value="Acquisition agreement"/>
+</archimate:BusinessObject>

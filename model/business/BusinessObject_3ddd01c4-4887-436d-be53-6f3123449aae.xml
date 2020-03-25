@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an die entsorgungsunterstützenden Systeme"
+    id="3ddd01c4-4887-436d-be53-6f3123449aae"
+    documentation="Die Anforderungen an die entsorgungsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Entsorgung des Zielsystems ermöglichen.">
+  <properties
+      key="English Name"
+      value="Disposal enabling system requirements"/>
+</archimate:BusinessObject>

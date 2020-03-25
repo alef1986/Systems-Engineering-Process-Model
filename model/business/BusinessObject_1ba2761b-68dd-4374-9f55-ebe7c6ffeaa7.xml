@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entscheidungsbericht"
+    id="1ba2761b-68dd-4374-9f55-ebe7c6ffeaa7"
+    documentation="Der Entscheidungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Aktivitäten des Entscheidungsmanagements zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Er sollte eine Empfehlung für die weitere Vorgehensweise sowie einen damit verbundenen Umsetzungsplan und die gewonnenen, zentralen Erkenntnisse beinhalten. Diese sollten durch wirksame Visualisierungen des Handlungsraumes gewonnen und durch nicht-widerlegbare, wiederholbare und rückverfolgbare Analyseergebnisse gestützt werden.&#xD;&#xA;&#xD;&#xA;Entscheidungsträger möchten die grundlegenden Ursachen von übergeordneten Überlegungen verstehen und sich ihr eigenes Verständnis zu Vergleichsstudien bilden. Daher ist es von Vorteil wenn der Bericht so aufgebaut ist, dass er einfach verständlich von den übergeordneten Visualisierungen des Handlungsspielraumes bis in die detaillierten Analysen, die die Synthese stützen, führt.">
+  <properties
+      key="English Name"
+      value="Decision report"/>
+</archimate:BusinessObject>

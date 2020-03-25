@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschaffungsstrategie"
+    id="5594d13a-9743-4ba3-b07f-8771fcf425a8"
+    documentation="Die Beschaffungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Systemelemente zu beschaffen. Sie kann auch Eingaben beinhalten, um beschaffungsbedingte Einschränkungen des Systems festzulegen.">
+  <properties
+      key="English Name"
+      value="Acquisition strategy"/>
+</archimate:BusinessObject>

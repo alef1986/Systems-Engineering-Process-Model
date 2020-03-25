@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betriebsprotokoll"
+    id="20efbdce-14b8-49b0-9629-e78959697e7a"
+    documentation="Ein Betriebsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder Wissens bezogen auf den Betrieb.">
+  <properties
+      key="English Name"
+      value="Operation record"/>
+</archimate:BusinessObject>

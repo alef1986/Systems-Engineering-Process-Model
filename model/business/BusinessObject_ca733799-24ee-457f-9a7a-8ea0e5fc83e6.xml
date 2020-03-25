@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschreibungen der Systemelemente"
+    id="ca733799-24ee-457f-9a7a-8ea0e5fc83e6"
+    documentation="Die Beschreibungen der Systemelemente umfassen die Darstellung der Entwurfsmerkmale der im System enthaltenen Systemelemente. Der Umfang der Beschreibung ist abhängig von der Realisierungstechnologie (z. B. Datenblätter, Datenbanken, Dokumente, exportierte Dateien)">
+  <properties
+      key="English Name"
+      value="System element description"/>
+</archimate:BusinessObject>

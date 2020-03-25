@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Einschränkungen aufgrund der Validierung"
+    id="67b72b13-0ac1-42aa-9bc4-23ff8846867c"
+    documentation="Die Einschränkungen aufgrund der VValidierung umfassen sämtliche Einschränkungen an das System, die sich aus der Validerungsstrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben.">
+  <properties
+      key="English Name"
+      value="Validation constraints"/>
+</archimate:BusinessObject>

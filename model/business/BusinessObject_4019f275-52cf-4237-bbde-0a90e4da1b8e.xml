@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedarf an Leistungskennzahlen der Organisationsprozesse"
+    id="4019f275-52cf-4237-bbde-0a90e4da1b8e"
+    documentation="Der Bedarf an Leistungskennzahlen der Organisationsprozesse umfasst die Leistungsmessdaten der Organisationsprozesse, die messen, wie gut die Organisation ihre Ziele erfüllt.">
+  <properties
+      key="English Name"
+      value="Organizational process performance measures needs"/>
+</archimate:BusinessObject>

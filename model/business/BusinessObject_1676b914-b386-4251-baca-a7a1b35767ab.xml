@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anforderungen an die integrationsunterstützenden Systeme"
+    id="1676b914-b386-4251-baca-a7a1b35767ab"
+    documentation="Die Anforderungen an die integrationsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Integration des Zielsystems ermöglichen.">
+  <properties
+      key="English Name"
+      value="Integration enabling system requirements"/>
+</archimate:BusinessObject>

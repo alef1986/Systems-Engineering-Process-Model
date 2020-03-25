@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bezahlung der Beschaffung"
+    id="fdbac9c5-28bd-419e-b701-03b7a95b31d9"
+    documentation="Die Bezahlung der Beschaffung umfasst die Zahlungen oder andere Vergütungen für das beschaffte System. Das beinhaltet sowohl Zahlungsleistungen als auch Empfangsbestätigung der Bezahlung.">
+  <properties
+      key="English Name"
+      value="Acquisition payment"/>
+</archimate:BusinessObject>

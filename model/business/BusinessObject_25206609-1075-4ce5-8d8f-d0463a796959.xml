@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschaffungsbericht"
+    id="25206609-1075-4ce5-8d8f-d0463a796959"
+    documentation="Der Beschaffungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Beschaffungsaktivitäten zu kommunizieren.">
+  <properties
+      key="English Name"
+      value="Acquisition report"/>
+</archimate:BusinessObject>

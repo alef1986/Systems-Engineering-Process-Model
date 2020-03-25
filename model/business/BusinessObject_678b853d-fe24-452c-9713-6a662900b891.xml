@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentation der Systemelemente"
+    id="678b853d-fe24-452c-9713-6a662900b891"
+    documentation="Die Dokumentation eines Systemelements umfasst detaillierte Zeichnungen, Codes oder Materialangaben. Sie ergänzt die Entwurfsdokumentation und enthält Korrekturmaßnahmen oder Anpassungen, aufgrund von Beschaffungen oder dem Abgleich mit Vorschriften.">
+  <properties
+      key="English Name"
+      value="System element documentation"/>
+</archimate:BusinessObject>

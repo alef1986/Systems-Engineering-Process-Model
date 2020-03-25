@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschaffungsanfrage"
+    id="41f874c8-4e4b-4c71-880c-ccf8713a52fd"
+    documentation="Eine Beschaffungsanfrage ist eine Anfrage an einen externen Zulieferer, einen Lösungsvorschlag für den Bedarf zu einem System-Element oder System (Produkt oder Dienstleistung) vorzuschlagen. Die Projektorganisation kann mögliche Lieferanten, die diesen Bedarf befriedigen könnten, vorgeschlagen. Die Inhalte der Beschaffungsanfrage stammen von den Projektmitarbeitern der Organisation die den Bedarf hat.">
+  <properties
+      key="English Name"
+      value="Request for supply"/>
+</archimate:BusinessObject>

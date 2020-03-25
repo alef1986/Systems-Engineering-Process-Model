@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedarf an Projekt-Leistungskennzahlen"
+    id="90cf1423-3569-429a-a248-83baac38d066"
+    documentation="Der Bedarf an Projekt-Leistungskennzahlen umfasst die Projekt-Leistungskennzahlen, die messen, wie gut das Projekt seine Ziele erfüllt.">
+  <properties
+      key="English Name"
+      value="Project performance measures needs"/>
+</archimate:BusinessObject>

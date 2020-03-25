@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedarf an Wirksamkeitsmessungen"
+    id="f29abe8e-f911-46ed-b247-6eb48dbf0ba5"
+    documentation="Der Bedarf an Wirksamkeitsmessungen umfasst die Wirksamkeitskennzahlen (MOEs) (Roedler und Jones, 2006), die den Informationsbedarf der Entscheidungsträger in Bezug auf die Wirksamkeit des Systems definieren, die operativen Erwartungen zu erfüllen.">
+  <properties
+      key="English Name"
+      value="MOE needs"/>
+</archimate:BusinessObject>

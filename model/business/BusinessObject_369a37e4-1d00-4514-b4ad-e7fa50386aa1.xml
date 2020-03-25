@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="abgenommenes System oder Systemelement"
+    id="369a37e4-1d00-4514-b4ad-e7fa50386aa1"
+    documentation="Ein abgenommenes System oder - Systemelement entspricht einem vom Zulieferer an den Beschaffer übergebenen System oder Systemelement, das dann dem Projekt zur Verfügung steht.">
+  <properties
+      key="English Name"
+      value="Accepted system or system element"/>
+</archimate:BusinessObject>

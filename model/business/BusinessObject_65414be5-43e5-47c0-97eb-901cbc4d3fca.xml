@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architekturgestaltungsstrategie"
+    id="65414be5-43e5-47c0-97eb-901cbc4d3fca"
+    documentation="Die Architekturgestaltungsstrategue umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die Systemarchitektur festzulegen, die die Anforderungen erfüllt.">
+  <properties
+      key="English Name"
+      value="Architecture definition strategy"/>
+</archimate:BusinessObject>

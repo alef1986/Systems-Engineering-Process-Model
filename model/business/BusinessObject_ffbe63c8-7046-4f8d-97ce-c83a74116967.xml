@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Einschränkungen aufgrund der Verifikation"
+    id="ffbe63c8-7046-4f8d-97ce-c83a74116967"
+    documentation="Die Einschränkungen aufgrund der Verifikation umfassen sämtliche Einschränkungen an das System, die sich aus der Verifikationsstrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben.">
+  <properties
+      key="English Name"
+      value="Verification constraints"/>
+</archimate:BusinessObject>

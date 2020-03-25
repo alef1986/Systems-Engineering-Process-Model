@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architekturgestaltungsprotokoll"
+    id="59fc8b2f-647a-4c00-9859-f1e25773e843"
+    documentation="Ein Architekturgestaltungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Architekturgestaltung.">
+  <properties
+      key="English Name"
+      value="Architecture definition record"/>
+</archimate:BusinessObject>

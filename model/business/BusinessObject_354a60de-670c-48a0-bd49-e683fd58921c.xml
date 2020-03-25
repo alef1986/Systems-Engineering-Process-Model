@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beschafftes System"
+    id="354a60de-670c-48a0-bd49-e683fd58921c"
+    documentation="Ein beschafftes System (Produkt oder Dienstleistung) ist eine vom Zulieferer an den Beschaffer gemäß den Lieferbedingungen des Beschaffungsvertrages ausgeliefertes System oder Systemelement.">
+  <properties
+      key="English Name"
+      value="Acquired system"/>
+</archimate:BusinessObject>
