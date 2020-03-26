@@ -7,5 +7,6 @@ Source of information:
 - INCOSE Handbook 4.0
 
 For exported model report refer to: https://alef1986.github.io/ISO-15288-INCOSE-Handbook-GERMAN/
+(thanks to [Archi Single HTML Page Export](https://github.com/archi-contribs/jarchi-single-page-html-export))
 
-![github-large](https://alef1986.github.io/ISO-15288-INCOSE-Handbook-GERMAN/INCOSE15288-screen.png)
+![github-large](https://alef1986.github.io/ISO-15288-INCOSE-Handbook-GERMAN/INCOSE15288-screen.png) 
