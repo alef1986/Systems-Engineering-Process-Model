@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholder-Anforderungen"
-    id="6d9f7dee-dfa8-4b73-99f6-93f5a5ca73c5"/>
+    id="6d9f7dee-dfa8-4b73-99f6-93f5a5ca73c5"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Stakeholder-Anforderungen sind die Anforderungen verschiedener Stakeholder, die für das Projekt gelten werden. Sie umfassen die erforderlichen Fähigkeiten, Funktionen oder Dienstleistungen, Qualitätsstandards, Einschränkungen des Systems, Einschränkungen in Bezug auf Kosten und Zeit. Die Stakeholder-Anforderungen werden in der &quot;Spezifikation der Stakeholder-Anforderungen&quot; (Stakeholder Requirements Specifications, StRS) erfasst&quot;.">
+  <properties
+      key="en_Name"
+      value="Stakeholder requirements"/>
+</archimate:BusinessObject>

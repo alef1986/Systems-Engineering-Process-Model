@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identifikation der Systemfunktionen"
-    id="135953ff-fb8f-4beb-b5de-3673cf2ff47b"/>
+    id="135953ff-fb8f-4beb-b5de-3673cf2ff47b"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Identifikation der Systemfunktionen umfasst das Ermitteln der Systemfunktionen&quot;.">
+  <properties
+      key="en_Name"
+      value="System function identification"/>
+</archimate:BusinessObject>

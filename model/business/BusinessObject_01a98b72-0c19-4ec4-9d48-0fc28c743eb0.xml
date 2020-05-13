@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie zur Definition der Stakeholder-Bedarfe und -Anforderungen"
-    id="01a98b72-0c19-4ec4-9d48-0fc28c743eb0"/>
+    id="01a98b72-0c19-4ec4-9d48-0fc28c743eb0"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Definition de Stakeholder-Bedarfe und -Anforderungen umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Einigkeit zwischen den Stakeholder-Klassen über einen Katalog von angemessenen Anforderungen zu erzielen. Beinhaltet den Ansatz zur Aufnahme der Stakeholder-Bedarfe, zur Überführung in Stakeholder-Anforderungen und zur Verwaltung dieser über den gesamten Lebenszyklus hinweg&quot;.">
+  <properties
+      key="en_Name"
+      value="Stakeholder needs and requirements definition strategy"/>
+</archimate:BusinessObject>

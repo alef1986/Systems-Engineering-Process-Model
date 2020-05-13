@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lebenszykluskonzepte"
-    id="e65566b5-1d74-4440-91e1-bbbffae5fd4b"/>
+    id="e65566b5-1d74-4440-91e1-bbbffae5fd4b"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Lebenszykluskonzepte umfassen die Beschreibung und Verfeinerung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Dokumenten zum Lebenszykluskonzept, auf dem das Zielsystem basiert, es bewertet und ausgewählt wird.&#xD;&#xA;Die Architektur basiert auf diesen Lebenszykluskonzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Konzepts für die richtige Interpretation der Systemanforderungen.&#xD;&#xA;Typische Lebenszykluskonzepte beinhaltet:&#xD;&#xA;- Beschaffungskonzept,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;.">
+  <properties
+      key="en_Name"
+      value="Life cycle concepts"/>
+</archimate:BusinessObject>

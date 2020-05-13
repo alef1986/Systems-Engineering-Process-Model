@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rückverfolgbarkeit der Systemanforderungen"
-    id="5217608c-403c-4774-a042-ea9e9cd46d53"/>
+    id="5217608c-403c-4774-a042-ea9e9cd46d53"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Systemanforderungen bedeutet immer bidirektionale Nachverfolgbarkeit der Systemanforderungen&quot;.">
+  <properties
+      key="en_Name"
+      value="System requirements traceability"/>
+</archimate:BusinessObject>

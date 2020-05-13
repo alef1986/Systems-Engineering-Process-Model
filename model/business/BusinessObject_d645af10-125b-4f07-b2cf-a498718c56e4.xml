@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wirksamkeitsmessdaten"
-    id="d645af10-125b-4f07-b2cf-a498718c56e4"/>
+    id="d645af10-125b-4f07-b2cf-a498718c56e4"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Wirksamkeitsmessdaten sind die für die identifizierten Messbedarfe bereitgestellten Daten&quot;.">
+  <properties
+      key="en_Name"
+      value="Wirksamkeitsmessdaten"/>
+</archimate:BusinessObject>

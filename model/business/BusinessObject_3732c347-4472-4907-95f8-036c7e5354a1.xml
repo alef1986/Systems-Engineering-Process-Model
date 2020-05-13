@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protokoll zur Definition der Stakeholder-Bedarfe und -Anforderungen"
-    id="3732c347-4472-4907-95f8-036c7e5354a1"/>
+    id="3732c347-4472-4907-95f8-036c7e5354a1"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Definition der Stakeholder-Bedarfe und -Anforderungen enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Definition von Stakeholder-Bedarfen und -Anforderungen&quot;.">
+  <properties
+      key="en_Name"
+      value="Stakeholder needs and requirements definition record"/>
+</archimate:BusinessObject>

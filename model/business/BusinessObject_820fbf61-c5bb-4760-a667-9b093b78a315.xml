@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="initiale RVTM"
-    id="820fbf61-c5bb-4760-a667-9b093b78a315"/>
+    id="820fbf61-c5bb-4760-a667-9b093b78a315"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die initiale RVTM ist eine erste Auflistung von Anforderungen, deren Verifikationsattributen sowie deren Verweise aufeinander&quot;.">
+  <properties
+      key="en_Name"
+      value="Initial RVTM"/>
+</archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholder-Bedarfe"
-    id="2e33736a-044f-49c2-b14c-fbcf046aefc7"/>
+    id="2e33736a-044f-49c2-b14c-fbcf046aefc7"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Stakeholder-Bedarfe sind Bedarfe, die sich aus der Kommunikation mit externen und internen Stakeholdern ergeben. Sie dienen zum Verständnis der Erwartungen, Bedarfe, Anforderungen, Werte, Probleme, Fragen, sowie wahrgenommenen Risiken und Chancen der Stakeholder&quot;.">
+  <properties
+      key="en_Name"
+      value="Stakeholder needs"/>
+</archimate:BusinessObject>
