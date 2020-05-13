@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personalmanagement"
-    id="def60c92-d482-4f16-97a9-405f63db813a"/>
+    id="def60c92-d482-4f16-97a9-405f63db813a"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.4.1] Der Zweck des Prozesses &quot;Personalmanagement&quot; ist es, der Organisation das benötigte Personal bereitzustellen und dafür zu sorgen, dass die Fähigkeiten des Personals den Geschäftsbedarfen entsprechen&quot;."/>

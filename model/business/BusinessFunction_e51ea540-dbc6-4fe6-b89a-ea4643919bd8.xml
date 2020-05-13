@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschaffung"
-    id="e51ea540-dbc6-4fe6-b89a-ea4643919bd8"/>
+    id="e51ea540-dbc6-4fe6-b89a-ea4643919bd8"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.1.1.1] Der Zweck des Prozesses &quot;Beschaffung&quot; ist es, dass der Erwerber ein Produkt oder eine Dienstleistung gemäß seinen Anforderungen erhält&quot;."/>

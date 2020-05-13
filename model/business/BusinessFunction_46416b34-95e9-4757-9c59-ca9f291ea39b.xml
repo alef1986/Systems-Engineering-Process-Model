@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration"
-    id="46416b34-95e9-4757-9c59-ca9f291ea39b"/>
+    id="46416b34-95e9-4757-9c59-ca9f291ea39b"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.8.1] Der Zweck des Prozesses &quot;Integration&quot; ist das Zusammenfügen von Systemelementen zu einem fertigen System (Produkt oder Dienstleistung), das den Systemanforderungen, der Architektur und dem Entwurf entspricht&quot;."/>

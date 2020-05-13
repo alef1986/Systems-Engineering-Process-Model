@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Umsetzung"
-    id="dd630d51-558b-4ccc-9091-5f0822ff4d02"/>
+    id="dd630d51-558b-4ccc-9091-5f0822ff4d02"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.7.1] Der Zweck des Prozesses &quot;Umsetzung&quot; ist die Realisierung eines spezifiziertes Systemelements&quot;."/>

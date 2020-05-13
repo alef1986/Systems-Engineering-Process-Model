@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektbewertung und -steuerung"
-    id="029eec0c-36b5-42e0-8bed-96cd6d7182c4"/>
+    id="029eec0c-36b5-42e0-8bed-96cd6d7182c4"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.2.1] Der Zweck des Prozesses &quot;Projektbewertung und -steuerung&quot; ist es einzuschätzen, ob die Pläne abgestimmt und durchführbar sind. Darüber hinaus wird der Zustand des Projekts sowie die technische und die Prozessleistung ermittelt und das Projekt so gelenkt, dass die Ergebnisse den Aktivitäts- und Terminplänen entsprechen, innerhalb des geplanten Budgets liegen und die technischen Ziele erreicht werden&quot;."/>

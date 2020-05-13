@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lieferung"
-    id="d25855a7-e8a3-4aa1-9801-7adcd555a4e8"/>
+    id="d25855a7-e8a3-4aa1-9801-7adcd555a4e8"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.1.2.1] Der Zweck des Prozesses &quot;Lieferung&quot; ist die Versorgung des Erwerbers mit einem Produkt oder einer Dienstleistung, in Übereinstimmung mit den vereinbarten Anforderungen&quot;."/>

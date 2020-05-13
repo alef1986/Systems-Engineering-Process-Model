@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definition der Stakeholder-Bedarfe und -Anforderungen"
-    id="13e19b84-beca-474c-8ab9-9d006c72bffb"/>
+    id="13e19b84-beca-474c-8ab9-9d006c72bffb"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.2.1] Zweck des Prozesses &quot;Definition der Stakeholder-Bedarfe und -Anforderungen&quot; ist die Aufnahme sämtlicher Anforderungen an ein System, das die von Nutzern und anderen Stakeholdern benötigten Leistungen in einer definierten Umgebung erbringt&quot;."/>

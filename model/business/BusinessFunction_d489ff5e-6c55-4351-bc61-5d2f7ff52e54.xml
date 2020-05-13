@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wartung"
-    id="d489ff5e-6c55-4351-bc61-5d2f7ff52e54"/>
+    id="d489ff5e-6c55-4351-bc61-5d2f7ff52e54"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.13] Der Zweck des Prozesses &quot;Wartung&quot; besteht darin, die Fähigkeit des Systems, seine Dienste zu erbringen, aufrechtzuerhalten&quot;."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lebenszyklusmodell-Management"
-    id="67584c24-782b-4a6e-a73e-1302dd306ed1"/>
+    id="67584c24-782b-4a6e-a73e-1302dd306ed1"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.1.1] Der Zweck des Prozesses &quot;Lebenszyklusmodell-Management&quot; ist das Definieren, Pflegen und Sicherstellen der Verfügbarkeit von Richtlinien, Lebenszyklusprozessen, Lebenszyklusmodellen und Verfahren sowie deren Anwendung innerhalb der Organisation im Geltungsbereich der [ISO/IEC/IEEE 15288]&quot;."/>

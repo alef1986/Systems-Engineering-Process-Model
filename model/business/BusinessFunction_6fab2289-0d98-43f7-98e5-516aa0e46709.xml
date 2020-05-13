@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informationsmanagement"
-    id="6fab2289-0d98-43f7-98e5-516aa0e46709"/>
+    id="6fab2289-0d98-43f7-98e5-516aa0e46709"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.6.1] Der Zweck des Prozesses &quot;Informationsmanagement&quot; ist es, für festgelegte Stakeholder Informationen zu erzeugen, zu erhalten, zu bestätigen, umzuwandeln, zu sichern, abzufragen, zu verbreiten und zu löschen&quot;."/>

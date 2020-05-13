@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definition der Systemanforderungen"
-    id="9c83d5ef-01d7-4808-ad06-e4493fbf9cf6"/>
+    id="9c83d5ef-01d7-4808-ad06-e4493fbf9cf6"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.3.1] Zweck des Prozesses &quot;Definition der Systemanforderungen&quot; ist die Überführung der Stakeholder- bzw. Nutzersicht auf die gewünschten Fähigkeiten in eine technische Sicht auf eine Lösung, die die betriebsbezogenen Bedarfe der Nutzer erfüllt&quot;."/>

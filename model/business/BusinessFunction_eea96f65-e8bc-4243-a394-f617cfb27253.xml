@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konfigurationsmanagement"
-    id="eea96f65-e8bc-4243-a394-f617cfb27253"/>
+    id="eea96f65-e8bc-4243-a394-f617cfb27253"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.5.1] Der Zweck des Prozesses &quot;Konfigurationsmanagement&quot; ist das Verwalten und Steuern von Systemelementen und Konfigurationen während des gesamten Lebenszyklus. Das Konfiturationsmanagement sichert auch die Konsistenz zwischen einem Produkt und der zugehörigen Konfigurationsdefinition&quot;."/>

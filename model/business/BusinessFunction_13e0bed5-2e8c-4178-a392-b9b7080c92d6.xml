@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätsmanagement"
-    id="13e0bed5-2e8c-4178-a392-b9b7080c92d6"/>
+    id="13e0bed5-2e8c-4178-a392-b9b7080c92d6"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.5.1] Der Zweck des Prozesses &quot;Qualitätsmanagement&quot; besteht darin sicherzustellen, dass die Produkte und Dienstleistungen sowie die Anwendung des qualitätsmanagements die Qualitätsziele der Organisation erreichen und die Kunden zufriedenstellen&quot;."/>

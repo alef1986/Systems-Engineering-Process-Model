@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betrieb"
-    id="992bbd31-9b6a-4185-96a4-2f9aba857ac1"/>
+    id="992bbd31-9b6a-4185-96a4-2f9aba857ac1"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.12.1] Der Zweck des Prozesses &quot;Betrieb&quot; besteht darin, die Dienste des Systems zu nutzen. Dieser Prozess findet häufig parallel zum Prozess &quot;Wartung&quot; statt&quot;."/>

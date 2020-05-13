@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validierung"
-    id="9d02dcd8-dca7-42a2-9425-d2aaa7458fba"/>
+    id="9d02dcd8-dca7-42a2-9425-d2aaa7458fba"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.11.1] Der Zweck des Prozesses &quot;Validierung&quot; ist es, nachzuweisen, dass das System die beabsichtigten Dienste in seiner vorgesehenen Betriebsumgebung erbringt. Gleichzeitig wird nachgewiesen, dass die Geschäfts- bzw. Auftragsziele und die Stakeholder-Anforderungen erfüllt werden&quot;."/>

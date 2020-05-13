@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portfoliomanagement"
-    id="7095441f-861e-4a75-a5b7-5f65c9d58466"/>
+    id="7095441f-861e-4a75-a5b7-5f65c9d58466"
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.3.1] Zweck des Prozesses &quot;Portfoliomanagement&quot; ist es, notwendige, geeignete und hinreichend viele Projekte in die Wege zu leiten und aufrechtzuerhalten, damit die strategischen Ziele der Organisation erfüllt werden&quot;."/>
