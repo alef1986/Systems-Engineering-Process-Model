@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protokoll der Geschäfts- oder Auftragsanalyse"
-    id="dc79d9f2-b1ed-4277-9ec6-f0048c4c3921"/>
+    id="dc79d9f2-b1ed-4277-9ec6-f0048c4c3921"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Geschäfts- oder Auftragsanalyse enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Geschäfts- und Auftragsanalyse&quot;.">
+  <properties
+      key="en_Name"
+      value="Business or mission analysis record"/>
+</archimate:BusinessObject>

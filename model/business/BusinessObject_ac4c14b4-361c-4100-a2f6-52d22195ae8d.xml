@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="alternative Lösungsrahmen"
     id="ac4c14b4-361c-4100-a2f6-52d22195ae8d"
-    documentation="Der alternative Lösungsrahmen erfasst und beschreibt den Rahmen der möglichen Lösungen für ein Problem oder für die Nutzung einer Möglichkeit.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der alternative Lösungsrahmen erfasst und beschreibt den Rahmen der möglichen Lösungen für ein Problem oder für die Nutzung einer Möglichkeit&quot;.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="alternative solution classes"/>
 </archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lebenszyklusbedingte Einschränkungen (???)"
-    id="dc9bf07b-fc5f-4926-acae-ed53f0264ded"/>
+    id="dc9bf07b-fc5f-4926-acae-ed53f0264ded"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die lebenszyklusbedingten Einschränkungen umfassen Einschränkungen aus allen Lebenszyklusprozessen: umstzungsbedingte, integrationsbedingte, übergabebedingte, betriebsbedingte, wartungsbedingte und entsorgungsbedingte Einschränkungen sowie Einschränkungen aufgrund von Verifikation und Validierung&quot;.">
+  <properties
+      key="en_Name"
+      value="Life cycle constraints"/>
+</archimate:BusinessObject>

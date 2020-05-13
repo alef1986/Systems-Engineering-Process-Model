@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="vorläufige Velidierungskriterien"
-    id="f0672845-f672-4bae-80c0-f709a1eae564"/>
+    name="vorläufige Validierungskriterien"
+    id="f0672845-f672-4bae-80c0-f709a1eae564"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen Validierungskriterien (zu untersuchende Kennzahlen) umfassen die Validierungsaktivitäten und auch das Validierungsumfeld des Zielsystems&quot;.">
+  <properties
+      key="en_Name"
+      value="Preliminary validation criteria"/>
+</archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quelldokumente"
-    id="08bc4610-9cf0-47bf-a527-c774eb516a9c"/>
+    id="08bc4610-9cf0-47bf-a527-c774eb516a9c"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Quelldokumente sind externe Dokumente, die zu einer bestimmten Phase der Beschaffungen für das Zielsystem von Interesse sind. Dazu gehört auch die Abschrift von relevanten organisatorischen Strategien und Regelungen, die sich in den Quelldokumenten finden&quot;.">
+  <properties
+      key="en_Name"
+      value="Source documents"/>
+</archimate:BusinessObject>

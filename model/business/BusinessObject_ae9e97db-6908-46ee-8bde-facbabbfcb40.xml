@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Problem- oder Chancenfeststellung"
-    id="ae9e97db-6908-46ee-8bde-facbabbfcb40"/>
+    id="ae9e97db-6908-46ee-8bde-facbabbfcb40"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Problem- oder Chancenfeststellung umfasst die Beschreibung der Probleme oder der Chancen. Sie sollte aus der Strategie der Organisation abgeleitet werden und genügend Details darlegen, um Lücken oder die neue Funktion, die in Betracht gezogen werden, zu verstehen&quot;.">
+  <properties
+      key="en_Name"
+      value="Problem or opportunity statement"/>
+</archimate:BusinessObject>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vorläufige Lebenszykluskonzepte"
-    id="c6af653a-cd59-4bd5-967d-0f788c23a91b"/>
+    id="c6af653a-cd59-4bd5-967d-0f788c23a91b"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen Lebenszykluskonzepte umfassen die provisorische Beschreibung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Konzeptdokumenten zum Lebenszyklus, auf dem das Zielsystem basiert, bewertet und ausgewählt wird. Die Architektur beruht auf diesen Konzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Kontextes für die richtige Interpretation der Systemanforderungen. Die Konzepte beinhalten typischerweise:&#xD;&#xA;- Beschaffungskonzpet,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;."/>

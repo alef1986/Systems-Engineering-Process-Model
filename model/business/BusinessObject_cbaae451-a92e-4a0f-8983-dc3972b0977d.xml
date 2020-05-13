@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identifikation der Haupt-Stakeholder"
-    id="cbaae451-a92e-4a0f-8983-dc3972b0977d"/>
+    id="cbaae451-a92e-4a0f-8983-dc3972b0977d"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Identifikation der Haupt-Stakeholder umfasst eine Liste der berechtigten externen und internen Stakeholder, die ein Interesse an dem System haben. Wichtige Stakeholder können auch aus dem Vorgehenskonzept (ConOps) abgeleitet werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Major stakeholder identification"/>
+</archimate:BusinessObject>

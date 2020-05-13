@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategieplan der Organisation"
-    id="e22f055a-9433-4ee7-ae89-ecf17e132e79"/>
+    id="e22f055a-9433-4ee7-ae89-ecf17e132e79"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Strategieplan der Organisation beinhaltet die übergeordnete Unternehmensstrategie einschließlich des Geschäftsauftrags und der Geschäftsvision sowie strategische Ziele und Zielvorgaben&quot;.">
+  <properties
+      key="en_Name"
+      value="Organizational strategic plan"/>
+</archimate:BusinessObject>

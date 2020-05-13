@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rückverfolgbarkeit der Stakeholder-Anforderungen"
-    id="36d4a899-bde6-4e37-8fa6-79df485d155c"/>
+    id="36d4a899-bde6-4e37-8fa6-79df485d155c"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Stakeholde-Anforderungen bedeutet immer bidirektionale Nachverfolgbarkeit der Stakeholder-Anforderungen&quot;.">
+  <properties
+      key="en_Name"
+      value="Stakeholder requirements traceability"/>
+</archimate:BusinessObject>

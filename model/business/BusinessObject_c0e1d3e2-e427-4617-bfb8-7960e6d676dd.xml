@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="projektbedingte Einschränkungen"
-    id="c0e1d3e2-e427-4617-bfb8-7960e6d676dd"/>
+    id="c0e1d3e2-e427-4617-bfb8-7960e6d676dd"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die projektbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Strategie des technischen Managements sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben&quot;.">
+  <properties
+      key="en_Name"
+      value="Project constraints"/>
+</archimate:BusinessObject>

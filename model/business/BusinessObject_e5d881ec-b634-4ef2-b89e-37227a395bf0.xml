@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie der Geschäfts- oder Auftragsanalyse"
-    id="e5d881ec-b634-4ef2-b89e-37227a395bf0"/>
+    id="e5d881ec-b634-4ef2-b89e-37227a395bf0"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie der Geschäfts- oder Auftragsanalyse umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die Geschäfts- oder Auftragsanalyse durchzuführen und um sischerzustellen, dass die Geschäftsbedarfe ausgearbeitet und in Form von Geschäftsanforderungen vorliegen&quot;.">
+  <properties
+      key="en_Name"
+      value="Business or mission analysis strategy"/>
+</archimate:BusinessObject>
