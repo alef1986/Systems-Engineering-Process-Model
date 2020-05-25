@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rückverfolgbarkeit der Umsetzung"
-    id="d50512c9-df85-4cd8-9dd8-f7e33c4f0728"/>
+    id="d50512c9-df85-4cd8-9dd8-f7e33c4f0728"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Umsetzung umfasst die bidirektionale Rückverfolgbarkeit der Ergebnisse der Umsetzung&quot;.">
+  <properties
+      key="en_Name"
+      value="Implementation traceability"/>
+</archimate:BusinessObject>

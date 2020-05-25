@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschreibungen der Systemelemente"
     id="ca733799-24ee-457f-9a7a-8ea0e5fc83e6"
-    documentation="Die Beschreibungen der Systemelemente umfassen die Darstellung der Entwurfsmerkmale der im System enthaltenen Systemelemente. Der Umfang der Beschreibung ist abhängig von der Realisierungstechnologie (z. B. Datenblätter, Datenbanken, Dokumente, exportierte Dateien)">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Beschreibungen der Systemelemente umfassen die Darstellung der Entwurfsmerkmale der im System enthaltenen Systemelemente. Der Umfang der Beschreibung ist abhängig von der Realisierungstechnologie (z. B. Datenblätter, Datenbanken, Dokumente, exportierte Dateien)&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="System element description"/>
 </archimate:BusinessObject>

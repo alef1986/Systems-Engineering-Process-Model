@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schnittstellendefinition"
-    id="81b48bbc-5163-41b5-986d-f79cec1f99f8"/>
+    id="81b48bbc-5163-41b5-986d-f79cec1f99f8"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Schnittstellendefinition umfasst die logischen und physischen ASpekte von internen Schnittstellen (zwischen den Systemelementen aus denen das System besteht) und externen Schnittstellen (zwischen den Systemelementen und den Elementen außerhalb des Zielsystems)&quot;.">
+  <properties
+      key="en_Name"
+      value="Interface definition"/>
+</archimate:BusinessObject>

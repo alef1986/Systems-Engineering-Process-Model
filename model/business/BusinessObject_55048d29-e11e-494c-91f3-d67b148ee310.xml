@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entwurfsstrategie"
-    id="55048d29-e11e-494c-91f3-d67b148ee310"/>
+    id="55048d29-e11e-494c-91f3-d67b148ee310"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entwurfsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das System zu entwerfen, das stimmig mit der ausgewählten Systemarchitektur ist und die Anforderungen erfüllt&quot;.">
+  <properties
+      key="en_Name"
+      value="Design definition strategy"/>
+</archimate:BusinessObject>

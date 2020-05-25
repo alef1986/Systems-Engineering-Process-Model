@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedarf an Messung der technischen Leistungskennzahlen"
     id="c97c3a53-8622-4a96-bbf6-58c2014f22c4"
-    documentation="Die Bedarfe an der Messung von technischen Leistungskennzahlen (Technical Performance Measures, TPM) dienen dazu, die TPM zu ermitteln, die die Attribute eines System-Elements messen, um zu bestimmen, wie gut ein System oder Systemelement eine technische Anforderung oder ein Ziel erfüllt oder der entsprechenden Erwartung gerecht wird.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Bedarfe an der Messung von technischen Leistungskennzahlen (Technical Performance Measures, TPM) dienen dazu, die TPM zu ermitteln, die die Attribute eines System-Elements messen, um zu bestimmen, wie gut ein System oder Systemelement eine technische Anforderung oder ein Ziel erfüllt oder der entsprechenden Erwartung gerecht wird.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="TPM needs"/>
 </archimate:BusinessObject>

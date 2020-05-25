@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="technische Leistungsmessdaten"
-    id="71295167-90da-4086-9b97-0152ebcbc6ca"/>
+    id="71295167-90da-4086-9b97-0152ebcbc6ca"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die technischen Leistungsmessdaten sind die für die identifizierten Messbedarfe bereitgestellten Daten&quot;.">
+  <properties
+      key="en_Name"
+      value="TPM data"/>
+</archimate:BusinessObject>
