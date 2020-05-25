@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betriebsstrategie"
     id="a5c79d04-c69c-4725-8ae1-1a8c4f42da0f"
-    documentation="Die Betriebsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das System zu betreiben.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Betriebsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das System zu betreiben.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Operation strategy"/>
 </archimate:BusinessObject>

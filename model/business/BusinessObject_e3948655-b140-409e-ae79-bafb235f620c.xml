@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betriebsbericht"
     id="e3948655-b140-409e-ae79-bafb235f620c"
-    documentation="Der Betriebsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Betriebsaktivitäten zu kommunizieren.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Betriebsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Betriebsaktivitäten zu kommunizieren.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Operation report"/>
 </archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wartungsbericht"
-    id="06619237-98c0-49d5-8134-08b7400eafc3"/>
+    id="06619237-98c0-49d5-8134-08b7400eafc3"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Wartungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Wartungsaktivitäten zu kommunizieren&quot;.">
+  <properties
+      key="en_Name"
+      value="Maintenance report"/>
+</archimate:BusinessObject>
