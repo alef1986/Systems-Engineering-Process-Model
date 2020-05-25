@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validierungsprotokoll"
-    id="07a23880-408c-47ef-b046-c9e84dcdb9d2"/>
+    id="07a23880-408c-47ef-b046-c9e84dcdb9d2"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Validierungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Validierung&quot;.">
+  <properties
+      key="en_Name"
+      value="Validation record"/>
+</archimate:BusinessObject>

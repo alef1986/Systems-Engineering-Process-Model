@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validierungsbericht"
-    id="3793befa-68b0-41d4-be75-b1ccb189f430"/>
+    id="3793befa-68b0-41d4-be75-b1ccb189f430"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Validierungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Validierungsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Validierung und den objektiven Nachweis der bestätigt, dass das System die Anforderungen von Stakeholdern und die geschäftlichen Anforderungen erfüllt oder nicht erfüllt. Der Validierungsbericht sollte auch eine Bewertung der Verlässlichkeit dieser Ergebnisse bzw. Ergenntnisse umfassen&quot;.">
+  <properties
+      key="en_Name"
+      value="Validation report"/>
+</archimate:BusinessObject>
