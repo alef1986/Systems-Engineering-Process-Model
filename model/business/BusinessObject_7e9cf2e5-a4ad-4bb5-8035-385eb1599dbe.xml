@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Übergabestrategie"
-    id="7e9cf2e5-a4ad-4bb5-8035-385eb1599dbe"/>
+    id="7e9cf2e5-a4ad-4bb5-8035-385eb1599dbe"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Übergabestrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um das System in die Betriebsumgebung zu überführen&quot;.">
+  <properties
+      key="en_Name"
+      value="Transition strategy"/>
+</archimate:BusinessObject>

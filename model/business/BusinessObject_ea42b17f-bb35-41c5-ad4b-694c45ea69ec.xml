@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Übergabeprotokoll"
-    id="ea42b17f-bb35-41c5-ad4b-694c45ea69ec"/>
+    id="ea42b17f-bb35-41c5-ad4b-694c45ea69ec"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Übergabeprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen und des Wissens bezogen auf die Übergabe&quot;.">
+  <properties
+      key="en_Name"
+      value="Transition record"/>
+</archimate:BusinessObject>

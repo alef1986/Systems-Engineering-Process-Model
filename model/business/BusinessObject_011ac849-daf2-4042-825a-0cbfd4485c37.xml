@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Anforderungen an die übergabenunterstützenden Systeme"
     id="011ac849-daf2-4042-825a-0cbfd4485c37"
-    documentation="Die Anforderunge an die übergabeunterstützenden Systeme sind die Anforderungen an alle Systeme, die die Übergabe des Zielssystems ermöglichen.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Anforderunge an die übergabeunterstützenden Systeme sind die Anforderungen an alle Systeme, die die Übergabe des Zielssystems ermöglichen.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Transition enabling system requirements"/>
 </archimate:BusinessObject>

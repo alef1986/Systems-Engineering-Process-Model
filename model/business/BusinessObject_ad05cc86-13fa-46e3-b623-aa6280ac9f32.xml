@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="geschulte Betreiber und Instandhalter"
-    id="ad05cc86-13fa-46e3-b623-aa6280ac9f32"/>
+    id="ad05cc86-13fa-46e3-b623-aa6280ac9f32"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Geschulte Betreiber und Instandhalter sind für die Bedienung und Warung des Systems ausgebildete Menschen&quot;.">
+  <properties
+      key="en_Name"
+      value="Trained operators and maintainers"/>
+</archimate:BusinessObject>

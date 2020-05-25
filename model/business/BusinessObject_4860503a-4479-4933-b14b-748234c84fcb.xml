@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="installiertes System"
-    id="4860503a-4479-4933-b14b-748234c84fcb"/>
+    id="4860503a-4479-4933-b14b-748234c84fcb"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein installiertes System ist ein für die Validierung bereitstehendes, installiertes System&quot;.">
+  <properties
+      key="en_Name"
+      value="Installed system"/>
+</archimate:BusinessObject>
