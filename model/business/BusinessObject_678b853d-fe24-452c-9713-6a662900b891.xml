@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentation der Systemelemente"
     id="678b853d-fe24-452c-9713-6a662900b891"
-    documentation="Die Dokumentation eines Systemelements umfasst detaillierte Zeichnungen, Codes oder Materialangaben. Sie ergänzt die Entwurfsdokumentation und enthält Korrekturmaßnahmen oder Anpassungen, aufgrund von Beschaffungen oder dem Abgleich mit Vorschriften.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Dokumentation eines Systemelements umfasst detaillierte Zeichnungen, Codes oder Materialangaben. Sie ergänzt die Entwurfsdokumentation und enthält Korrekturmaßnahmen oder Anpassungen, aufgrund von Beschaffungen oder dem Abgleich mit Vorschriften.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="System element documentation"/>
 </archimate:BusinessObject>

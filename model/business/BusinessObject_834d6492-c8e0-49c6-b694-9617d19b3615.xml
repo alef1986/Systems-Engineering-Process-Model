@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Umsetzungsbedingte Einschränkungen"
-    id="834d6492-c8e0-49c6-b694-9617d19b3615"/>
+    id="834d6492-c8e0-49c6-b694-9617d19b3615"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die umsetzungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Umsetzungsstrategie ergeben, einschließlich Kosten, Zeitrahmen und technischen Einschränkungen&quot;.">
+  <properties
+      key="en_Name"
+      value="Implementation constraints"/>
+</archimate:BusinessObject>

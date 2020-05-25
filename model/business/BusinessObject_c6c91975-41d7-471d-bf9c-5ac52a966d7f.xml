@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schulungsmaterial für Betreiber bzw. Instandhalter"
-    id="c6c91975-41d7-471d-bf9c-5ac52a966d7f"/>
+    id="c6c91975-41d7-471d-bf9c-5ac52a966d7f"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Schulungsmaterial für Betreiber bzw. Instandhalter umfasst alle Einrichtungen und Dokumentationen zu Schulungen&quot;.">
+  <properties
+      key="en_Name"
+      value="Operator/maintainer training material"/>
+</archimate:BusinessObject>

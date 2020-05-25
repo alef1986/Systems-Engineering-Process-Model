@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Umsetzungsprotokoll"
-    id="d7c82732-b133-4ca7-967a-98aa0a8fb295"/>
+    id="d7c82732-b133-4ca7-967a-98aa0a8fb295"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Umsetzungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Umsetzung&quot;.">
+  <properties
+      key="en_Name"
+      value="Implementation record"/>
+</archimate:BusinessObject>

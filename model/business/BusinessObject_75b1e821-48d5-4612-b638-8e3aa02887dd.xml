@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Umsetzungsstrategie"
-    id="75b1e821-48d5-4612-b638-8e3aa02887dd"/>
+    id="75b1e821-48d5-4612-b638-8e3aa02887dd"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Umsetzungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um Systemelemente umzusetzen, die mit den Systemanforderungen, der Architektur und dem Entwurf übereinstimmen&quot;.">
+  <properties
+      key="en_Name"
+      value="Implementation strategy"/>
+</archimate:BusinessObject>
