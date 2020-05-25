@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entsorgungsprotokoll"
     id="9b21ff96-8373-451a-8c8c-cc5367fcfca0"
-    documentation="Ein Entsorgungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Entsorgung.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Entsorgungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Entsorgung.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Disposal record"/>
 </archimate:BusinessObject>

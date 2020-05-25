@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entsorgungsstrategie"
     id="1087d39a-f946-4bb7-9b49-a3cd16f63b78"
-    documentation="Die Entsorgungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um sicherzustellen, dass das System oder die Systemelemente deaktiviert, zerlegt bzw. außer Betrieb genommen wurden.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entsorgungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um sicherzustellen, dass das System oder die Systemelemente deaktiviert, zerlegt bzw. außer Betrieb genommen wurden.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Disposal strategy"/>
 </archimate:BusinessObject>

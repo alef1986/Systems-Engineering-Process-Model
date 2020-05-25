@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entsorgungsverfahren"
-    id="edb1c36b-e188-4c80-ab5f-75bd4a90ed70"/>
+    id="edb1c36b-e188-4c80-ab5f-75bd4a90ed70"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Entsorgungsverfahren umfasst eine Reihe von Aktivitäten zur Entsorgung eines Systems, die mittels spezieller Techniken und Hilfsmitteln dafür durchgeführt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Disposal procedure"/>
+</archimate:BusinessObject>
