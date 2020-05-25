@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysekontext"
     id="eb2c85b6-3ac7-4346-8c02-25be2b6a561c"
-    documentation="Der Analysekontext umfasst die Kontextinformationen für die Analyse, einschließlich der Lebenszyklusphase, Bewertungstreiber, Kostentreiber, Größentreiber, Teameigenschaften, Projektprioritäten und weiterer kennzeicnender Informationen und Parameter, die zum Verständnis der Analyse notwendig sind und die das zu analysierende Element beschreiben. Relevante Informationen aus dem Prozess, der die Analyse anstößt. Alle bereits vorhandenen Modelle zu dem Element, das analysiert werden soll. Sämtliche Daten über das Element, das analysiert werden soll, darunter auch Daten aus dem vergangenen, derzeitigen und anstehenden Projekten. Die Kontextinformationen können aus jeder Lebenszyklusphase herrühren.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Analysekontext umfasst die Kontextinformationen für die Analyse, einschließlich der Lebenszyklusphase, Bewertungstreiber, Kostentreiber, Größentreiber, Teameigenschaften, Projektprioritäten und weiterer kennzeicnender Informationen und Parameter, die zum Verständnis der Analyse notwendig sind und die das zu analysierende Element beschreiben. Relevante Informationen aus dem Prozess, der die Analyse anstößt. Alle bereits vorhandenen Modelle zu dem Element, das analysiert werden soll. Sämtliche Daten über das Element, das analysiert werden soll, darunter auch Daten aus dem vergangenen, derzeitigen und anstehenden Projekten. Die Kontextinformationen können aus jeder Lebenszyklusphase herrühren.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Analysis situations"/>
 </archimate:BusinessObject>

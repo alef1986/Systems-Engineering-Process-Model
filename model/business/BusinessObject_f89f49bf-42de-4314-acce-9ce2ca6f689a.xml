@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Systemanalysebericht"
-    id="f89f49bf-42de-4314-acce-9ce2ca6f689a"/>
+    id="f89f49bf-42de-4314-acce-9ce2ca6f689a"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Systemanalysebericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Systemanalyseaktivitäten zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Darin sind die Ergebnisse der Kosten-Analyse, der Risikoanalyse, der Wirksamkeits-Analyse und andere Analysen kritischer Merkmale enthalten. Er enthält auch alle Modelle oder Simulationen, die für diese Analysen entwickelt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="System analysis report"/>
+</archimate:BusinessObject>
