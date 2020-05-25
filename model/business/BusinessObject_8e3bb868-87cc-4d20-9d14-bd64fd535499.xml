@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vorläufige Schnittstellendefinition"
-    id="8e3bb868-87cc-4d20-9d14-bd64fd535499"/>
+    id="8e3bb868-87cc-4d20-9d14-bd64fd535499"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufige Schnittstellendefinition umfasst die vorläufigen logischen und physischen Aspekte zu internen Schnittstellen (zwischen den Systemelementen, aus denen das System besteht) und externen Schnittstellen (zwischen den System-Elementen des Systems und den Elementen außerhalb des Zielsystems)&quot;.">
+  <properties
+      key="en_Name"
+      value="Preliminary interface definition"/>
+</archimate:BusinessObject>

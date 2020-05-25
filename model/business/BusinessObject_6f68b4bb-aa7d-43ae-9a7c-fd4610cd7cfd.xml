@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentationsbaum"
     id="6f68b4bb-aa7d-43ae-9a7c-fd4610cd7cfd"
-    documentation="Der Dokumentationsbaum definiert die hierarchische Beschreibung einer Reihe von Arbeitsergebnissen der Systemdefinition für das sich in der Entwicklung befindliche System. Er basiert auf der sich herausbildenden Systemarchitektur.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Dokumentationsbaum definiert die hierarchische Beschreibung einer Reihe von Arbeitsergebnissen der Systemdefinition für das sich in der Entwicklung befindliche System. Er basiert auf der sich herausbildenden Systemarchitektur.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Documentation tree"/>
 </archimate:BusinessObject>

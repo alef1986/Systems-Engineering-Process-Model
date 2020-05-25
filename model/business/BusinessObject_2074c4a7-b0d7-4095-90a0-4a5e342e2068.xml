@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedarf an vorläufiger Messungen der technischen Leistungskennzahlen"
     id="2074c4a7-b0d7-4095-90a0-4a5e342e2068"
-    documentation="Der Bedarf an vorlöufiger Messung der technischen Leistungskennzahlen umfasst die vorläufigen technischen Leistungsmessdaten (TPM) (Roedler und Jones, 2006), die die Attribute eines System-Elements messen, um zu bestimmen, wie gut ein System oder Systemelement eine technische Anforderung oder ein Ziel erfüllt oder der entschprechenden Erwartung gerecht wird.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an vorlöufiger Messung der technischen Leistungskennzahlen umfasst die vorläufigen technischen Leistungsmessdaten (TPM) (Roedler und Jones, 2006), die die Attribute eines System-Elements messen, um zu bestimmen, wie gut ein System oder Systemelement eine technische Anforderung oder ein Ziel erfüllt oder der entschprechenden Erwartung gerecht wird.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Preliminary TPM needs"/>
 </archimate:BusinessObject>

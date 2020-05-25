@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vorläufige technische Leistungsmessdaten"
-    id="0765321e-ec00-471a-bd73-98fc3511562f"/>
+    id="0765321e-ec00-471a-bd73-98fc3511562f"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen technischen Leistungsmessdaten sind die für die identifizierten Messbedarfe vorab bereitgestellten Daten&quot;.">
+  <properties
+      key="en_Name"
+      value="Preliminary TPM data"/>
+</archimate:BusinessObject>
