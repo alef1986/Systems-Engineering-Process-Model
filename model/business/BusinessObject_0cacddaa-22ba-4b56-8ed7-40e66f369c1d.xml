@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verifikationsbericht"
-    id="0cacddaa-22ba-4b56-8ed7-40e66f369c1d"/>
+    id="0cacddaa-22ba-4b56-8ed7-40e66f369c1d"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Verifikationsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Verifikationsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Verifikation und den objektiven Nachweis der bestätigt, dass das System die Anforderungen, die Architektureigenschaften und Entwurfsmerkmale erfüllt oder nicht erfüllt. Der Verifikationsbericht sollte auch eine Bewertung der Verlässichkeit dieser Ergebnisse bzw. Erkenntnisse umfassen&quot;.">
+  <properties
+      key="en_Name"
+      value="Verification report"/>
+</archimate:BusinessObject>

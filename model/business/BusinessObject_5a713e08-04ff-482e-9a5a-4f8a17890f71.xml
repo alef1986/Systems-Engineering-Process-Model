@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="verifiziertes System"
-    id="5a713e08-04ff-482e-9a5a-4f8a17890f71"/>
+    id="5a713e08-04ff-482e-9a5a-4f8a17890f71"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein verifiziertes System (oder Systemelement) ist ein System oder ein Bestandteil davon, der zur Übergabe bereit ist&quot;.">
+  <properties
+      key="en_Name"
+      value="Verified system"/>
+</archimate:BusinessObject>

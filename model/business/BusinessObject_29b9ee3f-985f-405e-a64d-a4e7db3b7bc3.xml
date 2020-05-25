@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verifikationsverfahren"
-    id="29b9ee3f-985f-405e-a64d-a4e7db3b7bc3"/>
+    id="29b9ee3f-985f-405e-a64d-a4e7db3b7bc3"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Verifikationsverfahren umfasst eine Reihe von Aktivitäten zur Verifikation eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Verification procedure"/>
+</archimate:BusinessObject>

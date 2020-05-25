@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verifikationsstrategie"
-    id="17d08260-28d0-4381-a1bf-31ea252d918d"/>
+    id="17d08260-28d0-4381-a1bf-31ea252d918d"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Verifikationsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die ausgewählten Verifikationstätigkeiten durchzuführen, durch die Kosten und Risiken gesenkt und gleichzeitig das betriebsbezogene Systemverhalten maximal abdeckt wird&quot;.">
+  <properties
+      key="en_Name"
+      value="Verification strategy"/>
+</archimate:BusinessObject>

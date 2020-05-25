@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verifikationsprotokoll"
-    id="62780061-c5e6-47d1-9617-036308d3a40b"/>
+    id="62780061-c5e6-47d1-9617-036308d3a40b"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Verifikationsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Verifikation&quot;.">
+  <properties
+      key="en_Name"
+      value="Verification record"/>
+</archimate:BusinessObject>
