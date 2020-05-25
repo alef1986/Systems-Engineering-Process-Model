@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Anforderungen an die wartungsunterstützenden Systeme"
     id="526beb01-9add-4052-ab14-46b86ff72e87"
-    documentation="Die Anforderungen an die wartungsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Wartung des Zielsystems ermöglichen.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Anforderungen an die wartungsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Wartung des Zielsystems ermöglichen.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Maintenance enabling system requirements"/>
 </archimate:BusinessObject>

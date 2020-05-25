@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wartungsverfahren"
-    id="b9278f5f-b7c8-4d19-b87a-e97ea60d54bb"/>
+    id="b9278f5f-b7c8-4d19-b87a-e97ea60d54bb"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Wartungsverfahren umfasst eine Reihe von Aktivitäten zur Warung eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Maintenance procedure"/>
+</archimate:BusinessObject>

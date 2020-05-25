@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wartungsstrategie"
-    id="79348313-ecd9-4cf5-9d1a-4601ab702315"/>
+    id="79348313-ecd9-4cf5-9d1a-4601ab702315"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Wartungsstrategie umfasst Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um fehlerbehebende und vorbeugende Wartung zur Erfüllung der betriebsbezogenen Verfügbarkeitsanforderungen durchführen zu können&quot;.">
+  <properties
+      key="en_Name"
+      value="Maintenance strategy"/>
+</archimate:BusinessObject>

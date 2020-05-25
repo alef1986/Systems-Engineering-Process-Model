@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wartungsprotokoll"
-    id="78cd1fed-161f-4926-a98c-a8d99f3aef58"/>
+    id="78cd1fed-161f-4926-a98c-a8d99f3aef58"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Warungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Wartung&quot;.">
+  <properties
+      key="en_Name"
+      value="Maintenance record"/>
+</archimate:BusinessObject>
