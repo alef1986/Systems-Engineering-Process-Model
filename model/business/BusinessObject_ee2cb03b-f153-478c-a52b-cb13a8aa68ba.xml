@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="integriertes System oder Systemelement"
-    id="ee2cb03b-f153-478c-a52b-cb13a8aa68ba"/>
+    id="ee2cb03b-f153-478c-a52b-cb13a8aa68ba"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein integriertes System oder Systemelement ist ein für die Verifikation bereitstehendes, integriertes Systemelement oder System, bzw. das Ergebnis des Zusammenbaus der Systemelemente&quot;.">
+  <properties
+      key="en_Name"
+      value="Integrated system or system elements"/>
+</archimate:BusinessObject>

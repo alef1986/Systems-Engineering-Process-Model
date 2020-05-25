@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrationsprotokoll"
-    id="cf5748d8-90de-4c5d-9085-3f81f0d4a426"/>
+    id="cf5748d8-90de-4c5d-9085-3f81f0d4a426"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Integrationsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Integration&quot;.">
+  <properties
+      key="en_Name"
+      value="Integration record"/>
+</archimate:BusinessObject>

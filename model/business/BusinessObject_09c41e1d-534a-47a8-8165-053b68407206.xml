@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrationsbericht"
-    id="09c41e1d-534a-47a8-8165-053b68407206"/>
+    id="09c41e1d-534a-47a8-8165-053b68407206"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Integrationsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Integrationsaktivitäten zu kommunizieren. Er umfasst die Dokumentation der Integrationstests und Analyseergebnisse, Qualitätsmängel und validierten internen Schnittstellen&quot;.">
+  <properties
+      key="en_Name"
+      value="Integration report"/>
+</archimate:BusinessObject>

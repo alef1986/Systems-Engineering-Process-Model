@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Anforderungen an die integrationsunterstützenden Systeme"
     id="1676b914-b386-4251-baca-a7a1b35767ab"
-    documentation="Die Anforderungen an die integrationsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Integration des Zielsystems ermöglichen.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Anforderungen an die integrationsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Integration des Zielsystems ermöglichen.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Integration enabling system requirements"/>
 </archimate:BusinessObject>

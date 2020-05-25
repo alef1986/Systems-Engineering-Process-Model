@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="integrationsbedingte Einschränkungen"
-    id="f2982f29-5065-4577-85d7-184f273f73f9"/>
+    id="f2982f29-5065-4577-85d7-184f273f73f9"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die integrationsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Integrationsstrategie ergeben, einschließlich der Kosten, des Zeitrahnems und technischen Einschränkungen&quot;.">
+  <properties
+      key="en_Name"
+      value="Integration constraints"/>
+</archimate:BusinessObject>

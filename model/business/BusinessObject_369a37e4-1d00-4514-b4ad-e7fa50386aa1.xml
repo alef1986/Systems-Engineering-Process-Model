@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="abgenommenes System oder Systemelement"
     id="369a37e4-1d00-4514-b4ad-e7fa50386aa1"
-    documentation="Ein abgenommenes System oder - Systemelement entspricht einem vom Zulieferer an den Beschaffer übergebenen System oder Systemelement, das dann dem Projekt zur Verfügung steht.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein abgenommenes System oder - Systemelement entspricht einem vom Zulieferer an den Beschaffer übergebenen System oder Systemelement, das dann dem Projekt zur Verfügung steht.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Accepted system or system element"/>
 </archimate:BusinessObject>
