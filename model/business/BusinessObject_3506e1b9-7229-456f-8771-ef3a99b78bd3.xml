@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protokoll zur Definition der Systemanforderungen"
-    id="3506e1b9-7229-456f-8771-ef3a99b78bd3"/>
+    id="3506e1b9-7229-456f-8771-ef3a99b78bd3"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Definition der Systemanforderungen enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Definition der Systemanforderungen&quot;.">
+  <properties
+      key="en_Name"
+      value="System requirements definition record"/>
+</archimate:BusinessObject>

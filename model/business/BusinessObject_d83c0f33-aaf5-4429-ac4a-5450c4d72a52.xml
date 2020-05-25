@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedarf an Leistungsmessungen (!!!)"
     id="d83c0f33-aaf5-4429-ac4a-5450c4d72a52"
-    documentation="Der Bedarf an Leistungsmessungen umfasst die Leistungskennzahlen (MOPs) (Roedler und Jones, 2006), die die wichtigsten Leistungsmerkmale des Systems definieren, sobald es in seiner vorgesehenen Betriebsumgebung ist und verwendet wird.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Leistungsmessungen umfasst die Leistungskennzahlen (MOPs) (Roedler und Jones, 2006), die die wichtigsten Leistungsmerkmale des Systems definieren, sobald es in seiner vorgesehenen Betriebsumgebung ist und verwendet wird.&quot;">
   <properties
       key="English Name"
       value="MOP needs"/>

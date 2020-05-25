@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie zur Definition der Systemanforderungen"
-    id="cca11f71-f9e3-45f0-8352-7656cd0a581c"/>
+    id="cca11f71-f9e3-45f0-8352-7656cd0a581c"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Definition der Systemanforderungen umfasst die Vorgehensweisen, Zeitpläne,  Ressourcen und konkrete Überlegungen, um die Systemanforderungen zu erfassen, festzulegen und über den gesamten Lebenszyklus hinweg zu verwalten&quot;.">
+  <properties
+      key="en_Name"
+      value="System requirements definition strategy"/>
+</archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identifikation der funktionalen Systemschnittstellen"
-    id="1bb0180e-ad5a-46f1-856d-5278e5dac898"/>
+    id="1bb0180e-ad5a-46f1-856d-5278e5dac898"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Identifikation der funktionalen Systemschnittstellen umfasst das Ermitteln und Dokumentieren der funktionalen externen Schnittstellen des Systems sowie der dazugehörigen Anforderungen an den Informationsaustausch&quot;.">
+  <properties
+      key="en_Name"
+      value="System functional interface identification"/>
+</archimate:BusinessObject>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="finale RVTM"
-    id="926fc0a1-ebe5-4cf2-8d6a-ec647c7c6070"/>
+    id="926fc0a1-ebe5-4cf2-8d6a-ec647c7c6070"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die finale RVTM entspricht der endgültigen Liste von Anforderungen, deren Verifikationsattributen und deren Verweise aufeinander. Sie beinhaltet alle aufgrund von Verifikationsaktivitäten vorgeschlagenen Änderungen der Systemanforderungen&quot;."/>

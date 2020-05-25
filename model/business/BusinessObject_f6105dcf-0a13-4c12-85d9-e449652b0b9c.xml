@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="aktualisierte RVTM"
     id="f6105dcf-0a13-4c12-85d9-e449652b0b9c"
-    documentation="Die aktualisierte RVTM ist eine fortgeschriebene Auflistung von Anforderungen, deren Verifikationsattributen sowie deren Verweise aufeinander.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die aktualisierte RVTM ist eine fortgeschriebene Auflistung von Anforderungen, deren Verifikationsattributen sowie deren Verweise aufeinander.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Updated RVTM"/>
 </archimate:BusinessObject>
