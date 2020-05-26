@@ -191,4 +191,16 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_382d586f-0efe-4502-92e4-3cd7fe1a5de4.xml#382d586f-0efe-4502-92e4-3cd7fe1a5de4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="c0731a19-33a6-4c41-8185-92600073b09f">
+    <bounds
+        x="876"
+        y="24"
+        width="205"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_02456f7f-532d-4bde-bf64-09583bda0ef8.xml#02456f7f-532d-4bde-bf64-09583bda0ef8"/>
+  </children>
 </archimate:ArchimateDiagramModel>

@@ -213,4 +213,16 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_7b2edd1f-c574-4c6f-91cb-fbef7e39995a.xml#7b2edd1f-c574-4c6f-91cb-fbef7e39995a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="88c46529-0761-427a-bc81-a165b6440e91">
+    <bounds
+        x="888"
+        y="24"
+        width="205"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_02456f7f-532d-4bde-bf64-09583bda0ef8.xml#02456f7f-532d-4bde-bf64-09583bda0ef8"/>
+  </children>
 </archimate:ArchimateDiagramModel>
