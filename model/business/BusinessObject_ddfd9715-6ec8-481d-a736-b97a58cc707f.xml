@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Messstrategie"
-    id="ddfd9715-6ec8-481d-a736-b97a58cc707f"/>
+    id="ddfd9715-6ec8-481d-a736-b97a58cc707f"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Messstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um Messungen im Rahmen eines Projekts durchführen zu können. Die Messstrategie befasst sich mit dem Ansatz, wie eine Messung durchgeführt wird: sie beschreibt die Zielsetzung der Messung, identifiziert Infortmationsbedarfe und anwendbare Kennzahlen und legt Leistungs- und Auswertungsmethodiken fest&quot;.">
+  <properties
+      key="en_Name"
+      value="Measurement strategy"/>
+</archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Messungsbericht"
-    id="75fc9cd9-d84b-4606-a0e4-24e338efb490"/>
+    id="75fc9cd9-d84b-4606-a0e4-24e338efb490"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Messungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Messungsaktivitäten zu kommunizieren.&#xD;&#xA;Er umfasst die Dokumentation der Aktivitäten rund um die Messergebnisse, die Messdaten, die gesammelt und analysiert und die Ergebnisse, die übermittelt wurden, sowie jegliche Verbesserungen oder Korrekturmaßnahmen, die durch die Messungen oder deren unterstützenden Daten getrieben werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Measurement report"/>
+</archimate:BusinessObject>

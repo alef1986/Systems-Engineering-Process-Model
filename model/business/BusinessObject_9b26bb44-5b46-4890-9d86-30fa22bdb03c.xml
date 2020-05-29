@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Messprotokoll"
-    id="9b26bb44-5b46-4890-9d86-30fa22bdb03c"/>
+    id="9b26bb44-5b46-4890-9d86-30fa22bdb03c"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Messprotokoll enthält lesbaren Aufzeichnunge der Daten, Informationen oder des Wissens bezogen auf die Messung&quot;.">
+  <properties
+      key="en_Name"
+      value="Measurement record"/>
+</archimate:BusinessObject>

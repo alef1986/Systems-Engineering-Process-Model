@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Messdaten (???)"
-    id="ff8fd7c1-a76f-4078-a9aa-2008ca343591"/>
+    id="ff8fd7c1-a76f-4078-a9aa-2008ca343591"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Messdaten stammen aus allen angewendeten Lebenszyklusprozessen, einschließlich der Daten von Wirksamkeitskennzahlen (MOE), von Leistungskennzahlen (MOP), von technischen Leistungskennzahlen (TPM), zur Leistung des Projekts und der Prozesse der Organisation&quot;.">
+  <properties
+      key="en_Name"
+      value="Measurement data"/>
+</archimate:BusinessObject>

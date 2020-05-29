@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedarf an Messungen (???)"
     id="1f708dce-d754-4189-a82f-2c1b7b3e0616"
-    documentation="Der Bedarf an Messungen umfasst die von allen anwendbaren Lebenszyklusprozessen erforderlichen Bedarfe an Messungen, einschließlich der Bedarfe an Wirksamkeitskennzahlen (MOE), Leistungskennzahlen (MOP), technischen Leistungskennzahlen (TPM), Projektleistungskennzahlen und Leistungskennzahlen der Organisationsprozesse.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Messungen umfasst die von allen anwendbaren Lebenszyklusprozessen erforderlichen Bedarfe an Messungen, einschließlich der Bedarfe an Wirksamkeitskennzahlen (MOE), Leistungskennzahlen (MOP), technischen Leistungskennzahlen (TPM), Projektleistungskennzahlen und Leistungskennzahlen der Organisationsprozesse&quot;.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Measurement needs"/>
 </archimate:BusinessObject>
