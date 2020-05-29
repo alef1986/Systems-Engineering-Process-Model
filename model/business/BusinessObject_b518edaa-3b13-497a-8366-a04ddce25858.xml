@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="mögliche Risiken und Chancen"
-    id="b518edaa-3b13-497a-8366-a04ddce25858"/>
+    id="b518edaa-3b13-497a-8366-a04ddce25858"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Risiken und Chancen sind die Risiken sind die Risiken oder Möglichkeiten, die von jedem Stakeholder eingebracht werden können. Sie werden häufig im Rahmen des Prozesses &quot;Projektbewertung und -steuerung&quot; erkannt. Risiken bzw. Möglichkeiten können in jedem Lebenszyklusprozess entstehen&quot;.">
+  <properties
+      key="en_Name"
+      value="Candidate risks and opportunities"/>
+</archimate:BusinessObject>

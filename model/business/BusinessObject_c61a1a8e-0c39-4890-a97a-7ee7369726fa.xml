@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risikomanagementstrategie"
-    id="c61a1a8e-0c39-4890-a97a-7ee7369726fa"/>
+    id="c61a1a8e-0c39-4890-a97a-7ee7369726fa"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Risikomanagementstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um das Risikomanagement im Rahmen eines Projekts durchzuführen&quot;.">
+  <properties
+      key="en_Name"
+      value="Risk management strategy"/>
+</archimate:BusinessObject>

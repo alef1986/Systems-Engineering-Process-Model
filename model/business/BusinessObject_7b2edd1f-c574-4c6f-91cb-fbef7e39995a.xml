@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risikoprotokoll"
-    id="7b2edd1f-c574-4c6f-91cb-fbef7e39995a"/>
+    id="7b2edd1f-c574-4c6f-91cb-fbef7e39995a"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Risikoprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Risikomanagement&quot;.">
+  <properties
+      key="en_Name"
+      value="Risk record"/>
+</archimate:BusinessObject>
