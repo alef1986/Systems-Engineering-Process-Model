@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätsmanagementplan"
-    id="16119af6-d790-4d4a-a461-db9ee60ec2c5"/>
+    id="16119af6-d790-4d4a-a461-db9ee60ec2c5"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Qualitätsmanagementplan umfasst die übergreifende Orientierung, sozusagen die &quot;Qualitätsphilosophie&quot; der Unternehmung und somit die Organisation der Qualität. Er umfasst anwendbare Prüfungen, Audits und andere Überwachungsaktivitäten. Dazu gehört eine Reihe von Richtlinien und Verfahren, einschließlich der spezifischen Methoden und Techniken, die für QM-Praktiken innerhalb einer Unternehmung gelten. Der Qualitätsmanagementplan enthält auch die messbaren Qualitätsziele für Prozesse und Systeme, die zusammen mit den zugewiesenen Verantwortlichkeiten und Berechtigungen für das QM innerhalb der Organisation gelten. Der Katalog an QM-Projektaktivitäten bildet die Grundlage für die Qualitätssicherung im Projekt&quot;.">
+  <properties
+      key="en_Name"
+      value="Quality management plan"/>
+</archimate:BusinessObject>

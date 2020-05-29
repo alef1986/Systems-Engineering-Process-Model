@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätsmanagementbericht"
-    id="ebd0e90c-ec92-4125-a1ac-3f1b8cd278d7"/>
+    id="ebd0e90c-ec92-4125-a1ac-3f1b8cd278d7"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Qualitätsmanagementbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Qualitätsmanagementaktivitäten zu kommunizieren.&#xD;&#xA;Er umfasst die Ergebnisse von Kundenzufriedenheitsbefragungen sowie jegliche Probleme, die behoben werden müssen&quot;.">
+  <properties
+      key="en_Name"
+      value="Quality management report"/>
+</archimate:BusinessObject>

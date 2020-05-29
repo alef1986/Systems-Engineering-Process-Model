@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätsmanagementrichtlinien"
-    id="866fef9b-4d82-4c78-b499-02dc132acc56"/>
+    id="866fef9b-4d82-4c78-b499-02dc132acc56"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Qualitätsmanagement-Richtlinien umfassen die Vorgaben für alle Praktiken rund um die Qualität innerhalb des Unternehmens oder innerhalb einzelner Projekte sowie im Rahmen der Ausführung der Prozesse des Systemlebenszyklus&quot;.">
+  <properties
+      key="en_Name"
+      value="Quality management guidelines"/>
+</archimate:BusinessObject>

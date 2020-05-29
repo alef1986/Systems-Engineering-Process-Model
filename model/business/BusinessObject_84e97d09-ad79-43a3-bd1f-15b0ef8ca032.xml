@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätssicherungsbericht"
-    id="84e97d09-ad79-43a3-bd1f-15b0ef8ca032"/>
+    id="84e97d09-ad79-43a3-bd1f-15b0ef8ca032"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Qualitätssicherungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Qualitätssicherungsaktivitäten zu kommunizieren.&#xD;&#xA;Er enthält auch Informationen über Abweichungen von den vorgegebenen Bedingungen während des gesamten Produktlebenszyklus und weiterhin auch Maßnahmen die ergriffen werden sollen, wenn die Ziele der Qualitätssicherung nicht erreicht werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Quality assurance report"/>
+</archimate:BusinessObject>
