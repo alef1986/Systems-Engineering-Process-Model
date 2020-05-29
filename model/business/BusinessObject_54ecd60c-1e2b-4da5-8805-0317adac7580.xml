@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entscheidungssituation"
     id="54ecd60c-1e2b-4da5-8805-0317adac7580"
-    documentation="Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Decision situation"/>
 </archimate:BusinessObject>
