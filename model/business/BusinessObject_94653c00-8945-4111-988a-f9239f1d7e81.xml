@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lebenszyklusmodelle"
-    id="94653c00-8945-4111-988a-f9239f1d7e81"/>
+    id="94653c00-8945-4111-988a-f9239f1d7e81"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lebenszyklusmodelle umfassen ein oder mehrere für das Projekt geeignete Definitionen des Geschäfts- und andere Entscheidungskriterien in Bezug auf die Übergänge zwischen den Lebenszyklus abschnitten.&#xD;&#xA;Die Informationen und Artefakte dazu werden gesammelt und zur Verfügung gestellt, damit sie verwendet und wiederverwendet werden können&quot;.">
+  <properties
+      key="en_Name"
+      value="Life cycle concepts"/>
+</archimate:BusinessObject>

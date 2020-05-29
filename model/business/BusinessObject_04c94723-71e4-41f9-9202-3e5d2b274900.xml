@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SEMP"
-    id="04c94723-71e4-41f9-9202-3e5d2b274900"/>
+    id="04c94723-71e4-41f9-9202-3e5d2b274900"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Systems Engineering Management Plan (SEMP) ist der übergeordnete Plan zum Management des Aufwandes im Systems Engineering. Er definiert, wie das Projekt organisiert, strukturiert und durchgeführt wird und wie der gesamte Entwicklungsprozess gesteuert wird, um ein Produkt zu liefern, dass die Stakeholderanfroderungen erfüllt.&#xD;&#xA;Der SEMP enthält auch die Festlegung der erforderlichen technischen Überprüfungen sowie deren Abnahmekriterien, der Methoden zur Steuerung von Änderungen und zur Bewertungs von Risiken und Chancen sowie die Festlegung von anderen technischen Plänen und Unterlagen, die für das Projekt erstellt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="SEMP"/>
+</archimate:BusinessObject>

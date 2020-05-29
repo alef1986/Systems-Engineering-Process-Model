@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektbudget"
-    id="709c58a0-6f19-48aa-9172-f75d64a22067"/>
+    id="709c58a0-6f19-48aa-9172-f75d64a22067"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Projektbudget ist die Prognose der Kosten eines bestimmten Projekts. Es enthält die arbeitsleistungen, die Infrastruktur, die Beschaffungen und Kosten für unsterstützende Systeme, einschließlich der Reserven für das Risikomanagement&quot;.">
+  <properties
+      key="en_Name"
+      value="Project budget"/>
+</archimate:BusinessObject>

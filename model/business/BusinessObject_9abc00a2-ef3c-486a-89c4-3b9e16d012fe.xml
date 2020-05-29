@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personalbedarf des Projekts"
-    id="9abc00a2-ef3c-486a-89c4-3b9e16d012fe"/>
+    id="9abc00a2-ef3c-486a-89c4-3b9e16d012fe"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Personalbedarf des Projekts umfasst den im Projekt bestehende Bedarf an Personal, einschließlich der Verpflichtungen gegenüber externen Stakeholdern&quot;.">
+  <properties
+      key="en_Name"
+      value="Project human resources needs"/>
+</archimate:BusinessObject>

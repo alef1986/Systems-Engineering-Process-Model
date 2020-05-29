@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ausschreibungsantwort"
     id="33b69fd0-f296-45a7-b426-fc373103c301"
-    documentation="Eine Ausschreibungsantwort ist die Antwort der Organisation auf eine Zulieferungsanfrage">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Eine Ausschreibungsantwort ist die Antwort der Organisation auf eine Zulieferungsanfrage&quot;.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Supply response"/>
 </archimate:BusinessObject>

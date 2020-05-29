@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektzeitplan"
-    id="15d17abc-2d9e-4323-be4e-1d7730d99a7f"/>
+    id="15d17abc-2d9e-4323-be4e-1d7730d99a7f"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Projektzeitplan des Projekts ist eine verknüpfte Liste der meilensteine, Aktivitäten und Ergebnisse mit geplanten Start- und Endtermine.&#xD;&#xA;Er kann einen übergeordneten Meilensteinplan sowie mehrere Ebenen von Zeitplänen mit steigendem Detaillierungsgrad und Aufgabenbeschreibungen mit Abnahmekriterien und berechtigungen enthalten&quot;.">
+  <properties
+      key="en_Name"
+      value="Project schedule"/>
+</archimate:BusinessObject>

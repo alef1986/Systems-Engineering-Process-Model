@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschaffungsbedarf"
     id="8b22cc29-784f-4c66-9e73-63662674efda"
-    documentation="Der Beschaffungsbedarf umfasst das Erkennen eines Bedarfes, der nicht innerhalb der Organisation, die den Bedarf hat, befriedigt oder kostengünstiger durch einen Zulieferer gedeckt werden kann.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Beschaffungsbedarf umfasst das Erkennen eines Bedarfes, der nicht innerhalb der Organisation, die den Bedarf hat, befriedigt oder kostengünstiger durch einen Zulieferer gedeckt werden kann&quot;.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Acquisition need"/>
 </archimate:BusinessObject>

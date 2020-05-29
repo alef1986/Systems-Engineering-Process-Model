@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastrukturbedarfe des Projekts"
-    id="6f15e8f1-a233-4dd3-927f-f435f72b1ced"/>
+    id="6f15e8f1-a233-4dd3-927f-f435f72b1ced"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Infrastrukturbedarfe des Projekts umfassen den im Projekt bestehenden Bedarf an Infrastruktur, einschließlich der Verpflichtungen gegenüber externen Stakeholdern&quot;.">
+  <properties
+      key="en_Name"
+      value="Project infrastructure needs"/>
+</archimate:BusinessObject>

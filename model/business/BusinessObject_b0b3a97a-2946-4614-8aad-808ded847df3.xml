@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektportfolio"
-    id="b0b3a97a-2946-4614-8aad-808ded847df3"/>
+    id="b0b3a97a-2946-4614-8aad-808ded847df3"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Projektportfolio umfasst die notwendigen Informationen über alle Projekte einer Organisation. Dazu zählt das Aufsetzen neuer Projekte ebenso wie das Einrichten von Ansätzen zum Produktrichtlinienmanagement. Das Projektportfolio enthält die Projektziele, die Ressourcen, das identifizierte und den Projekten zugeordnete Budge sowie klar definierte Verantwortlichkeiten und Weisungsbefugnisse zum Projektmanagement&quot;.">
+  <properties
+      key="en_Name"
+      value="Project portfolio"/>
+</archimate:BusinessObject>

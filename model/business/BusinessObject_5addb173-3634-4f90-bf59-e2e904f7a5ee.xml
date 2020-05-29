@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektplanungsprotokoll"
-    id="5addb173-3634-4f90-bf59-e2e904f7a5ee"/>
+    id="5addb173-3634-4f90-bf59-e2e904f7a5ee"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Projektplanungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Projektplanung&quot;.">
+  <properties
+      key="en_Name"
+      value="Project planing record"/>
+</archimate:BusinessObject>

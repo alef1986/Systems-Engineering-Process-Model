@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektstrukturplan (Work Breakdown Structure, WBS)"
-    id="ea62060e-6178-4c22-acfe-b525988686af"/>
+    id="ea62060e-6178-4c22-acfe-b525988686af"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Projektstrukturplan umfasst die Zerlegung eines Projekts in kleinere Bestandteile und bietet den notwendigen Rahmen für eine detaillierte Kostenschätzung und -steuerung. Er enthält auch einen Datenkatalog (data dictionary).&#xD;&#xA;Die Kosten für und die Beschreibung des physischen Produkts (Hardware und Software) kann in einem Produktstrukturplan (Produkt Breakdown Strukture, PBS) beschrieben werden. Dieser unterstützt &quot;bottom-up&quot; und algorithmische (parametrische) Kostenschätzung (siehe Kapitel 10.1.3). Ein Produktstrukturplan ist ein zentraler Bestandteil kommerzieller Software-Werkzeuge zur Kostenschätzung&quot;.">
+  <properties
+      key="en_Name"
+      value="Work Breakdown Structure, WBS"/>
+</archimate:BusinessObject>

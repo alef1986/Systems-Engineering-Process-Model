@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&quot;Lessons Learned&quot; des Projekts"
-    id="0011d823-78e2-4606-9b9e-09d8b02a08d1"/>
+    id="0011d823-78e2-4606-9b9e-09d8b02a08d1"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lessons Learned&quot; des Projekts sind projektbezogene Lehren und Erkenntnisse. Sie sind das Ergebnisse einer Bewertung oder einer Beobachtung von durchgeführten Korrekturmaßnahmen, die zu verbesserten Leistung und zu erhöhter Leistungsfähigkeit beigetragen haben. &quot;Lessons Learned&quot; können sich ebenfalls aus der Bewertung oder Beobachtung eines positiven Ergebnisses ergeben, das keine anderen Korrekturmaßnahmen, sondern nur den Erhalt der positiven Maßnahmen erfordert (CJCS, 2012)&quot;.">
+  <properties
+      key="en_Name"
+      value="Project lessons learned"/>
+</archimate:BusinessObject>

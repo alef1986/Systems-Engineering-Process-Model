@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektanweisung"
-    id="8929a81b-b9ae-46fc-a916-c495b55d74f2"/>
+    id="8929a81b-b9ae-46fc-a916-c495b55d74f2"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Eine Projektanweisung ist eine organisationsbezogene Anweisung an das Projekt. Sie umfasst die Fortführung von Projekten, die die Bewertungskriterien erfüllen sowie die Neuausrichtung oder Beendigung von Projekten, die die Bewertungskriterien nicht erfüllen&quot;.">
+  <properties
+      key="en_Name"
+      value="Project direction"/>
+</archimate:BusinessObject>
