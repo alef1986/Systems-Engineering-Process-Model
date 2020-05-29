@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konfigurationsmanagementstrategie"
-    id="7148de21-091c-46e4-92a4-020b1e5f9f2f"/>
+    id="7148de21-091c-46e4-92a4-020b1e5f9f2f"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Konfigurationsmanagementstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um Konfigurationsmanagement im Rahmen eines Projekts durchzuführen. Die Konfigurationsmanagementstrategie beschreibt und dokumentiert wie genehmigte Änderungen an gültigen Referenzkonfigurationen einheitlich und kontrolliert durchgeführt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Configuration management strategy"/>
+</archimate:BusinessObject>

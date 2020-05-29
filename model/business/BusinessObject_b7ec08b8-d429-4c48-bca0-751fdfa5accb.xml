@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="mögliche Konfigurationseinheiten"
-    id="b7ec08b8-d429-4c48-bca0-751fdfa5accb"/>
+    id="b7ec08b8-d429-4c48-bca0-751fdfa5accb"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Konfigurationseinheiten sind alle Einheiten, die unter Konfigurationskontrolle gestellt werden sollen. Sie können in jedem Lebenszyklusprozess entstehen&quot;.">
+  <properties
+      key="en_Name"
+      value="Candidate configuration items"/>
+</archimate:BusinessObject>

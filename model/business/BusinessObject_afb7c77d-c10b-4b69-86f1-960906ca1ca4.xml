@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konfigurationsmanagementbericht"
-    id="afb7c77d-c10b-4b69-86f1-960906ca1ca4"/>
+    id="afb7c77d-c10b-4b69-86f1-960906ca1ca4"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Konfigurationsmanagementbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und die Ergebnisse der Aktivitäten des Konfigurationsmanagements zu kommunizieren&#xD;&#xA;Er dokumentiert die Auswirkung auf alle Prozesse, Organisationen, Entscheidungen (inkl. aller notwendigen Änderungsmitteilungen), Produkte und Dienstleistungen, die durch einen Änderungsantrag betroffen sind&quot;.">
+  <properties
+      key="en_Name"
+      value="Configuration management report"/>
+</archimate:BusinessObject>
