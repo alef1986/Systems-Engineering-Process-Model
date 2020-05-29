@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projekt-Leistungsmessdaten"
-    id="8cdf596f-6d9a-48fd-9072-27a704886887"/>
+    id="8cdf596f-6d9a-48fd-9072-27a704886887"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Projekt-Leistungsmessdaten sind die für die identifizierten Messbedarfe bereitgestellten Daten&quot;.">
+  <properties
+      key="en_Name"
+      value="Project performance measures data"/>
+</archimate:BusinessObject>

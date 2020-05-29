@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informationsablage"
-    id="1c910a7a-d6fb-41bf-a55c-a3ae98ba3a1c"/>
+    id="1c910a7a-d6fb-41bf-a55c-a3ae98ba3a1c"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Informationsablage ist eine zentrale Ablage, die die rechtzeitige, vollständige, valide und - falls erforderlich - zugriffsbeschränkte Verwendung und Verteilung aller projektrelevanten Informationen unterstützt&quot;.">
+  <properties
+      key="en_Name"
+      value="Information repository"/>
+</archimate:BusinessObject>

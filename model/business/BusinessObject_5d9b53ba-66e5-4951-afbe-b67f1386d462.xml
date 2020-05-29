@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verfahren (???)"
-    id="5d9b53ba-66e5-4951-afbe-b67f1386d462"/>
+    id="5d9b53ba-66e5-4951-afbe-b67f1386d462"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Verfahren sind besondere Vorgehensweisen in allen anwendbaren Lebenszyklusprozesse. Sie umfassen Verfahren zur Integration, zur Verifikation, zur Installation, zur Validierung, zur Wartung und zur Entsorgung&quot;.">
+  <properties
+      key="en_Name"
+      value="Procedures"/>
+</archimate:BusinessObject>

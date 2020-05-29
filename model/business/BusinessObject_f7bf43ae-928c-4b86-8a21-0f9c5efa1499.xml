@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protokoll der Projektbewertung und -steuerung"
-    id="f7bf43ae-928c-4b86-8a21-0f9c5efa1499"/>
+    id="f7bf43ae-928c-4b86-8a21-0f9c5efa1499"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Projektbewertung und -steuerung enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf Projektbewertung und -steuerung&quot;.">
+  <properties
+      key="en_Name"
+      value="Project assessment and control record"/>
+</archimate:BusinessObject>

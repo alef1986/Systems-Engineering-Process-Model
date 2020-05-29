@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referenzkonfigurationen"
-    id="b0a4a060-da04-41ff-9ad8-3cf42a2d42fd"/>
+    id="b0a4a060-da04-41ff-9ad8-3cf42a2d42fd"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Referenzkonfigurationen sind archivierte Stände der tatsächlichen Konfigurationseinheiten zu einem bestimmten Zeitpunkt. Die erforderliche Dokumentation der Referenzkonfiguration wird rechtzeitig entwickelt und beschrieben, um die Entwicklung von Anforderungen, technische Überprüfungen, Beschaffungs- und Instandhaltungsstrategien sowie die Produktions zu unterstützen&quot;.">
+  <properties
+      key="en_Name"
+      value="Configuration baselines"/>
+</archimate:BusinessObject>

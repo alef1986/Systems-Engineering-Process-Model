@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektsteuerungsanträge"
-    id="00414204-af8c-4af7-8cde-cd1acd96c3e9"/>
+    id="00414204-af8c-4af7-8cde-cd1acd96c3e9"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Projektsteuerungsanträge sind interne Projektvorgaben, die auf Handlungen beruhen, die sich aufgrund von Abweichungen zum Projektplan ergeben. Sie werden - falls erforderlich - sowohl dem Projektteam als auch dem Kunden mitgeteilt. Wenn Bewertungen mit einer Enrscheidungsschwelle verbunden sind, muss eine Entscheidung getroffen werden, ob fortgefahren werden soll oder nicht&quot;.">
+  <properties
+      key="en_Name"
+      value="Project control requests"/>
+</archimate:BusinessObject>

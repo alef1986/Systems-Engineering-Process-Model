@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Anwertungsbericht der Qualitätssicherung"
-    id="8263d114-293a-4a4a-9749-39454d4065d8"/>
+    name="Auswertungsbericht der Qualitätssicherung"
+    id="8263d114-293a-4a4a-9749-39454d4065d8"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Auswertungsbericht der Qualitätssicherung ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Qualitätssicherungaktivitäten zu kommunizieren. Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung von Lebenszyklusmodellen einer Organisation bereit&quot;.">
+  <properties
+      key="en_Name"
+      value="Quality assurance evaluation report"/>
+</archimate:BusinessObject>

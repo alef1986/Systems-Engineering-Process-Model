@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Strategie zur Produktbewertung und -steuerung"
-    id="70b1747a-9598-4365-bd1c-75f6d04fe6a5"/>
+    name="Strategie zur Projektbewertung und -steuerung"
+    id="70b1747a-9598-4365-bd1c-75f6d04fe6a5"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Projektbewertung und -steuerung umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die Projektbewertung und -steuerung im Rahmen eines Projekts durchzuführen&quot;.">
+  <properties
+      key="en_Name"
+      value="Project assessment and control strategy"/>
+</archimate:BusinessObject>

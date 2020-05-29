@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Messdatenablage"
-    id="e11ffa3b-e954-4c66-8085-4428032b5b0d"/>
+    id="e11ffa3b-e954-4c66-8085-4428032b5b0d"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Messdatenablage ist eine zentrale Datenablage, die die rechtzeitige, vollständige, valide - und falls erforderlich - zugriffsbeschränkte Verwendung und Verteilung aller projektrelevanten Messdaten unterstützt&quot;.">
+  <properties
+      key="en_Name"
+      value="Measurement repository"/>
+</archimate:BusinessObject>

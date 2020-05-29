@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektänderungsanträge"
-    id="a2651f57-5803-4a88-a6bf-fa1bb13958c7"/>
+    id="a2651f57-5803-4a88-a6bf-fa1bb13958c7"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Projektänderungsanträge sind die Anträge, festgelegte, formale Referenzkonfigurationen zu ändern. In vielen Fällen wird die Notwendigkeit eines Änderungsantrags während der Prozesse zur Projektbewertung und -steuerung erkannt. Änderungsanträge können aus jedem Lebenszyklusprozess resultieren&quot;.">
+  <properties
+      key="en_Name"
+      value="Project change requests"/>
+</archimate:BusinessObject>
