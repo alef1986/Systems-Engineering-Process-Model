@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informationsmanagementstrategie"
-    id="3d57ada4-027b-4e74-9786-e6abeb6a2dfd"/>
+    id="3d57ada4-027b-4e74-9786-e6abeb6a2dfd"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Informationsmanagementstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das Informationsmanagement im Rahmen eines Projekts durchzuführen&quot;.">
+  <properties
+      key="en_Name"
+      value="Information management strategy"/>
+</archimate:BusinessObject>

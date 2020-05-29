@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informationsmanagementprotokoll"
-    id="382d586f-0efe-4502-92e4-3cd7fe1a5de4"/>
+    id="382d586f-0efe-4502-92e4-3cd7fe1a5de4"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Informationsmanagement-Protokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Informationsmanagement&quot;.">
+  <properties
+      key="en_Name"
+      value="Information management record"/>
+</archimate:BusinessObject>

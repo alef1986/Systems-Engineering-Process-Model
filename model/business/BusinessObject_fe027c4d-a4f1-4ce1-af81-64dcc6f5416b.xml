@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informationsmanagementbericht"
-    id="fe027c4d-a4f1-4ce1-af81-64dcc6f5416b"/>
+    id="fe027c4d-a4f1-4ce1-af81-64dcc6f5416b"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Informationsmanagementbericht ist in für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Informationsmanagementaktivitäten zu kommunizieren&quot;.">
+  <properties
+      key="en_Name"
+      value="Information management strategy"/>
+</archimate:BusinessObject>

@@ -1,4 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="mögliche Informationseinheiten"
-    id="30cb00ea-6a97-4838-9d40-3a918c2c161e"/>
+    id="30cb00ea-6a97-4838-9d40-3a918c2c161e"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Informationseinheiten sind all die Informationseinheiten, die unter Informationskontrolle gestellt werden sollen. Sie können in jedem Lebenszyklusprozess entstehen&quot;.">
+  <properties
+      key="en_Name"
+      value="Candidate information items"/>
+</archimate:BusinessObject>
