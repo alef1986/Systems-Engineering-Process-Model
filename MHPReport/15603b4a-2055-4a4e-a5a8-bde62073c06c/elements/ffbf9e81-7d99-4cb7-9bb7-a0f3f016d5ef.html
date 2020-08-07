@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Qualitätssicherungsplan</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Qualit&#228;tssicherungsplan</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessObject"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessObject" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">Laut INCOSE Handbuch 4.0 - &#252;bersetzt von GfSE:
+"Der Qualit&#228;tssicherungsplan umfasst eine Reihe von Qualit&#228;tssicherungsaktivit&#228;ten, die auf das Projekt zugeschnitten sind um die Entwicklung und SE Prozesse &#252;berwachen.
+Er beschreibt die Qualit&#228;tssicherung einer Organisation sowie anzuwendende Aktivit&#228;ten zur Pr&#252;fung, Bewertung und &#220;berwachung.
+Dazu geh&#246;rt eine Reihe von Richtlinien und Verfahren, einschlie&#223;lich der spezifischen Methoden und Techniken, die als Praktiken der Qualit&#228;tssicherung sowohl innerhalb der Organisation als auch innerhalb einzelner Projekt gelten.
+Der Qualit&#228;tssicherungsplan enth&#228;lt auch messbare Qualit&#228;tsziele f&#252;r Prozesse und Systeme einschlie&#223;lich der zugewiesenen Verantwortungen und Berechtigungen f&#252;r das QM innerhalb der Organisation.
+Der Plan verweist auch auf Aktivit&#228;ten, die von anderen Organisationen durchgef&#252;hrt werden oder auf Funktionen die von der Qualit&#228;tssicherungsorganisation &#252;berwacht oder auditiert werden".</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td> en_Name </td><td> <xmp class="no-margin" style="white-space:pre-wrap">Quality assurance plan</xmp> </td></tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

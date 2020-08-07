@@ -1,0 +1,293 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>04-03 Portfoliomanagement</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>04-03 Portfoliomanagement</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/c81b0baa-aeaf-430b-bb51-bd67a65ebc9f.png" alt="04-03 Portfoliomanagement" usemap="#c81b0baa-aeaf-430b-bb51-bd67a65ebc9fmap"/>
+			   <map name="c81b0baa-aeaf-430b-bb51-bd67a65ebc9fmap">
+				  		<area shape="rect" coords="862,10,1067,65" href="../views/02456f7f-532d-4bde-bf64-09583bda0ef8.html"  target="view">
+				      <!-- Other diagram objects -->
+				  		<area shape="rect" coords="598,370,791,425" href="../elements/ac96787a-b86b-483e-add0-ee75508b2c62.html"  target="element">
+				  		<area shape="rect" coords="598,310,791,365" href="../elements/159bc10b-d17a-4007-8999-7e234ba9b341.html"  target="element">
+				  		<area shape="rect" coords="598,250,791,305" href="../elements/a280619f-6ca3-444a-a328-b00ec0d68fba.html"  target="element">
+				  		<area shape="rect" coords="598,190,791,245" href="../elements/b0b3a97a-2946-4614-8aad-808ded847df3.html"  target="element">
+				  		<area shape="rect" coords="598,130,791,185" href="../elements/8929a81b-b9ae-46fc-a916-c495b55d74f2.html"  target="element">
+				  		<area shape="rect" coords="598,70,791,125" href="../elements/3efef099-f141-4465-aefb-9faa47f4b70e.html"  target="element">
+				  		<area shape="rect" coords="598,10,791,65" href="../elements/9721fa66-8382-49c8-abee-486d08ca2d8d.html"  target="element">
+				  		<area shape="rect" coords="10,190,203,245" href="../elements/da9d42fb-c94a-4db4-95b8-50457cdb81e4.html"  target="element">
+				  		<area shape="rect" coords="10,130,203,185" href="../elements/df3d31fd-b3cb-4007-9ca1-354133b061d4.html"  target="element">
+				  		<area shape="rect" coords="10,70,203,125" href="../elements/945a2e0b-374c-4014-b5e4-01c781ebde3c.html"  target="element">
+				  				<area shape="rect" coords="298,106,503,161" href="../elements/720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d.html"  target="element">
+				  				<area shape="rect" coords="298,46,503,101" href="../elements/bf23c7f3-a5e5-4e6e-a519-dd28bb35e166.html"  target="element">
+				  				<area shape="rect" coords="298,166,503,221" href="../elements/4652fe49-5b72-4981-bb0b-a41860a8b99a.html"  target="element">
+
+				  		<area shape="rect" coords="262,10,539,425" href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html"  target="element">
+				  		<area shape="rect" coords="10,10,203,65" href="../elements/e22f055a-9433-4ee7-ae89-ecf17e132e79.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none"></textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/e22f055a-9433-4ee7-ae89-ecf17e132e79.html" target="element"> Strategieplan der Organisation </a> </td>
+											    <td> <a href="../elements/e22f055a-9433-4ee7-ae89-ecf17e132e79.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+											    <td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element" class="i18n-elementtype-BusinessFunction"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/4652fe49-5b72-4981-bb0b-a41860a8b99a.html" target="element"> Projekte aufl&#246;sen </a> </td>
+													    <td> <a href="../elements/4652fe49-5b72-4981-bb0b-a41860a8b99a.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/bf23c7f3-a5e5-4e6e-a519-dd28bb35e166.html" target="element"> Festlegen und Autorisieren von Projekten </a> </td>
+													    <td> <a href="../elements/bf23c7f3-a5e5-4e6e-a519-dd28bb35e166.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d.html" target="element"> Auswerten von Projektportfolios </a> </td>
+													    <td> <a href="../elements/720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d.html" target="element" class="i18n-elementtype-BusinessProcess"> </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/945a2e0b-374c-4014-b5e4-01c781ebde3c.html" target="element"> Organisationsvorgaben und -einschr&#228;nkungen an das Portfolio </a> </td>
+											    <td> <a href="../elements/945a2e0b-374c-4014-b5e4-01c781ebde3c.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/df3d31fd-b3cb-4007-9ca1-354133b061d4.html" target="element"> Zulieferungsstrategie </a> </td>
+											    <td> <a href="../elements/df3d31fd-b3cb-4007-9ca1-354133b061d4.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/da9d42fb-c94a-4db4-95b8-50457cdb81e4.html" target="element"> Projektstatusbericht </a> </td>
+											    <td> <a href="../elements/da9d42fb-c94a-4db4-95b8-50457cdb81e4.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/9721fa66-8382-49c8-abee-486d08ca2d8d.html" target="element"> Portfoliomanagementsplan </a> </td>
+											    <td> <a href="../elements/9721fa66-8382-49c8-abee-486d08ca2d8d.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/3efef099-f141-4465-aefb-9faa47f4b70e.html" target="element"> Infrastrukturbedarfe der Organisation </a> </td>
+											    <td> <a href="../elements/3efef099-f141-4465-aefb-9faa47f4b70e.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/8929a81b-b9ae-46fc-a916-c495b55d74f2.html" target="element"> Projektanweisung </a> </td>
+											    <td> <a href="../elements/8929a81b-b9ae-46fc-a916-c495b55d74f2.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/b0b3a97a-2946-4614-8aad-808ded847df3.html" target="element"> Projektportfolio </a> </td>
+											    <td> <a href="../elements/b0b3a97a-2946-4614-8aad-808ded847df3.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/a280619f-6ca3-444a-a328-b00ec0d68fba.html" target="element"> "Lessons Learned" der Organisation </a> </td>
+											    <td> <a href="../elements/a280619f-6ca3-444a-a328-b00ec0d68fba.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/159bc10b-d17a-4007-8999-7e234ba9b341.html" target="element"> Portfoliomanagementbericht </a> </td>
+											    <td> <a href="../elements/159bc10b-d17a-4007-8999-7e234ba9b341.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/ac96787a-b86b-483e-add0-ee75508b2c62.html" target="element"> Portfoliomanagementprotokoll </a> </td>
+											    <td> <a href="../elements/ac96787a-b86b-483e-add0-ee75508b2c62.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../views/02456f7f-532d-4bde-bf64-09583bda0ef8.html" target="view"> 01 - Systemlebenszyklusprozesse </a> </td>
+											    <td> <a href="../views/02456f7f-532d-4bde-bf64-09583bda0ef8.html" target="view" class="i18n-viewpoint-"> </a> </td>
+											</tr>
+									    <!-- Other graphical objects -->
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/7a87baca-d99d-4e71-94f7-0cbee2fb11e4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/7a87baca-d99d-4e71-94f7-0cbee2fb11e4.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/4652fe49-5b72-4981-bb0b-a41860a8b99a.html" target="element"> Projekte aufl&#246;sen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/0bf6ba47-e3b1-4f38-80b3-91f402a510ed.html" target="element">  </a> </td>
+																		<td> <a href="../elements/0bf6ba47-e3b1-4f38-80b3-91f402a510ed.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/bf23c7f3-a5e5-4e6e-a519-dd28bb35e166.html" target="element"> Festlegen und Autorisieren von Projekten </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/c54229d8-6776-45ba-b3e2-96b019e3738b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/c54229d8-6776-45ba-b3e2-96b019e3738b.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d.html" target="element"> Auswerten von Projektportfolios </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/2cf6df3f-4d1f-4922-a6dc-d561b073a5d0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/2cf6df3f-4d1f-4922-a6dc-d561b073a5d0.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/e22f055a-9433-4ee7-ae89-ecf17e132e79.html" target="element"> Strategieplan der Organisation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/54a4ea7e-8a62-4c12-9968-4a3851810986.html" target="element">  </a> </td>
+																		<td> <a href="../elements/54a4ea7e-8a62-4c12-9968-4a3851810986.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/945a2e0b-374c-4014-b5e4-01c781ebde3c.html" target="element"> Organisationsvorgaben und -einschr&#228;nkungen an das Portfolio </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/b151c615-bb4b-473c-90a0-b4384040fe68.html" target="element">  </a> </td>
+																		<td> <a href="../elements/b151c615-bb4b-473c-90a0-b4384040fe68.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/df3d31fd-b3cb-4007-9ca1-354133b061d4.html" target="element"> Zulieferungsstrategie </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/bba5c7d4-a61b-4ff1-9dc0-fe3098e8a55d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/bba5c7d4-a61b-4ff1-9dc0-fe3098e8a55d.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/da9d42fb-c94a-4db4-95b8-50457cdb81e4.html" target="element"> Projektstatusbericht </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/cc0fddf9-6274-4b96-ab4b-1f076edeadf6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/cc0fddf9-6274-4b96-ab4b-1f076edeadf6.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/9721fa66-8382-49c8-abee-486d08ca2d8d.html" target="element"> Portfoliomanagementsplan </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/a021ec02-60d0-4ed3-b6ff-9a41bcf76cea.html" target="element">  </a> </td>
+																		<td> <a href="../elements/a021ec02-60d0-4ed3-b6ff-9a41bcf76cea.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/3efef099-f141-4465-aefb-9faa47f4b70e.html" target="element"> Infrastrukturbedarfe der Organisation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/46848254-d001-40dc-9475-054e876b2802.html" target="element">  </a> </td>
+																		<td> <a href="../elements/46848254-d001-40dc-9475-054e876b2802.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/8929a81b-b9ae-46fc-a916-c495b55d74f2.html" target="element"> Projektanweisung </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/a336e1a8-8143-499d-b307-cd0ca1936a6f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/a336e1a8-8143-499d-b307-cd0ca1936a6f.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/b0b3a97a-2946-4614-8aad-808ded847df3.html" target="element"> Projektportfolio </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/0ecd2ea3-acc2-4bb8-97d7-69d1746b11c5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/0ecd2ea3-acc2-4bb8-97d7-69d1746b11c5.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/a280619f-6ca3-444a-a328-b00ec0d68fba.html" target="element"> "Lessons Learned" der Organisation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/56b772e3-05f5-4c6d-aa82-c1bf1d6e6bf1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/56b772e3-05f5-4c6d-aa82-c1bf1d6e6bf1.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/159bc10b-d17a-4007-8999-7e234ba9b341.html" target="element"> Portfoliomanagementbericht </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/7f442992-e83b-4ae7-8f65-c0efe09005cc.html" target="element">  </a> </td>
+																		<td> <a href="../elements/7f442992-e83b-4ae7-8f65-c0efe09005cc.html" target="element" class="i18n-elementtype-AccessRelationship"></a> </td>
+																		<td> <a href="../elements/7095441f-861e-4a75-a5b7-5f65c9d58466.html" target="element"> Portfoliomanagement </a> </td>
+																		<td> <a href="../elements/ac96787a-b86b-483e-add0-ee75508b2c62.html" target="element"> Portfoliomanagementprotokoll </a> </td>
+																	</tr>
+
+											
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelReference -->
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
