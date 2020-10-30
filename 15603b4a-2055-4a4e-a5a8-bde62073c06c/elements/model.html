@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>ISO 15288 DE</title>
+	<title>Systems Engineering Process Model</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -22,7 +22,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>ISO 15288 DE</b>
+               <b>Systems Engineering Process Model</b>
 
             <!-- If a View with Viewpoint -->
 		</div>
@@ -45,12 +45,30 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">Dieses Modell enth&#228;llt Systems Engineering Lebenszyklusprozesse nach ISO 15288 und Systems Engineering Handbuch v.4.0
-Zeile des Modells:
-- Hilfsmittel f&#252;r Lebenszyklusprozesse
-- Demonstration der Unternehmensarchitekturbeschreibung
+						<textarea id="docsrc" style="display:none">Das Produkt der GfSE (German INCOSE Chapter): https://prozessmodell.gfse.de
+Erstellt am: 27.06.2019
+Aktualisiert am: 30.10.2020, v.1.0
 
-alexander.efremoff@gmail.com</textarea>
+Das ist das interaktive Systems Engineering Prozessmodell - ein Teil des Produktes der Gesellschaft f&#252;r Systems Engineering (GfSE, German INCOSE Chapter).
+
+Anwendungshinweise
+Navigation &#252;ber Ansichte:
+- im "Model Tree": Views aufklappen, die Ansicht "01 - Systemlebenszyklusprozesse" ausw&#228;hlen;
+- f&#252;r detaillierte Beschreibung der Einheiten im interaktiven Prozessmodell die Einheit (den Prozess, den Input oder den Output) auf der Ansicht mit linke Maustaste ausw&#228;hlen;
+- f&#252;r die Ansicht mit Inputs und Outputs auf das blaue Quadrat neben dem Prozessnamen clicken;
+- f&#252;r die Ansicht mit der Auflistung der Prozesse das blaue Rechteck mit dem Ansichtnamen "01 - Systemlebenszyklusprozesse" clicken.
+
+Suche in der Liste der Einheiten im Prozessmodell:
+- im "Model Tree": Business aufklappen, Suche-Funktion im Browser aktivieren (Strg+F f&#252;r Windows), den Namen der Einheit tippen;
+- die gefundene Einheit mit Mouseclick ausw&#228;hlen.
+
+Anmerkungen:
+- als Issue im Duden-Repository hinterlassen: https://git.io/JTi9N7
+- eine E-Mail an se-terms@gfse.de schreiben
+
+---
+Die Arbeitsgruppe "Terminologie im Systems Engineering"
+https://se-terms.gfse.de</textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
@@ -100,7 +118,7 @@ alexander.efremoff@gmail.com</textarea>
 						 	var dataFolders = [ ];
 						 	var dataFoldersContent = [ ];
 
-							dataFolders.push({id:"15603b4a-2055-4a4e-a5a8-bde62073c06c", type:"ArchimateModel", name:decodeURL("ISO+15288+DE"), documentation:decodeURL("")});
+							dataFolders.push({id:"15603b4a-2055-4a4e-a5a8-bde62073c06c", type:"ArchimateModel", name:decodeURL("Systems+Engineering+Process+Model"), documentation:decodeURL("")});
 								dataFoldersContent.push({folderid:"15603b4a-2055-4a4e-a5a8-bde62073c06c", contentid:"2112f62a-c864-41b9-9ce9-7243577f586b", contenttype:"Folder"});
 								dataFolders.push({id:"2112f62a-c864-41b9-9ce9-7243577f586b", type:"Folder", name:decodeURL("Strategy"), documentation:decodeURL("")});
 
@@ -109,7 +127,7 @@ alexander.efremoff@gmail.com</textarea>
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"029eec0c-36b5-42e0-8bed-96cd6d7182c4", contenttype:"BusinessFunction"});
 										dataElements.push({id:"029eec0c-36b5-42e0-8bed-96cd6d7182c4", type:"BusinessFunction", name:decodeURL("Projektbewertung+und+-steuerung"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.3.2.1%5D+Der+Zweck+des+Prozesses+%22Projektbewertung+und+-steuerung%22+ist+es+einzusch%C3%A4tzen%2C+ob+die+Pl%C3%A4ne+abgestimmt+und+durchf%C3%BChrbar+sind.+Dar%C3%BCber+hinaus+wird+der+Zustand+des+Projekts+sowie+die+technische+und+die+Prozessleistung+ermittelt+und+das+Projekt+so+gelenkt%2C+dass+die+Ergebnisse+den+Aktivit%C3%A4ts-+und+Terminpl%C3%A4nen+entsprechen%2C+innerhalb+des+geplanten+Budgets+liegen+und+die+technischen+Ziele+erreicht+werden%22.")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"13e0bed5-2e8c-4178-a392-b9b7080c92d6", contenttype:"BusinessFunction"});
-										dataElements.push({id:"13e0bed5-2e8c-4178-a392-b9b7080c92d6", type:"BusinessFunction", name:decodeURL("Qualit%C3%A4tsmanagement"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.2.5.1%5D+Der+Zweck+des+Prozesses+%22Qualit%C3%A4tsmanagement%22+besteht+darin+sicherzustellen%2C+dass+die+Produkte+und+Dienstleistungen+sowie+die+Anwendung+des+Qualit%C3%A4tsmanagements+die+Qualit%C3%A4tsziele+der+Organisation+erreichen+und+die+Kunden+zufriedenstellen%22.")});
+										dataElements.push({id:"13e0bed5-2e8c-4178-a392-b9b7080c92d6", type:"BusinessFunction", name:decodeURL("Qualit%C3%A4tsmanagement"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.2.5.1%5D+Der+Zweck+des+Prozesses+%22Qualit%C3%A4tsmanagement%22+besteht+darin+sicherzustellen%2C+dass+die+Produkte+und+Dienstleistungen+sowie+die+Anwendung+des+qualit%C3%A4tsmanagements+die+Qualit%C3%A4tsziele+der+Organisation+erreichen+und+die+Kunden+zufriedenstellen%22.")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"13e19b84-beca-474c-8ab9-9d006c72bffb", contenttype:"BusinessFunction"});
 										dataElements.push({id:"13e19b84-beca-474c-8ab9-9d006c72bffb", type:"BusinessFunction", name:decodeURL("Definition+der+Stakeholder-Bedarfe+und+-Anforderungen"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.4.2.1%5D+Zweck+des+Prozesses+%22Definition+der+Stakeholder-Bedarfe+und+-Anforderungen%22+ist+die+Aufnahme+s%C3%A4mtlicher+Anforderungen+an+ein+System%2C+das+die+von+Nutzern+und+anderen+Stakeholdern+ben%C3%B6tigten+Leistungen+in+einer+definierten+Umgebung+erbringt%22.")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"1f4dc672-97ff-4f00-8b2b-20e42d40daa5", contenttype:"BusinessFunction"});
@@ -133,7 +151,7 @@ alexander.efremoff@gmail.com</textarea>
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"83d72c0b-f74b-4619-9684-cf9cd7aad05d", contenttype:"BusinessFunction"});
 										dataElements.push({id:"83d72c0b-f74b-4619-9684-cf9cd7aad05d", type:"BusinessFunction", name:decodeURL("Qualit%C3%A4tssicherung"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.3.8.1%5D+Der+Zweck+des+Prozesses+%22Qualit%C3%A4tssicherung%22+ist+es%2C+sicherzustellen%2C+dass+die+Vorgaben+des+Organisationsprozesses+%22Qualit%C3%A4tsmanagement%22+wirkungsvoll+auf+das+Projekt+angewendet+werden%22.")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"9261e84f-49e1-46f8-86ee-ed7fdb1ca83a", contenttype:"BusinessFunction"});
-										dataElements.push({id:"9261e84f-49e1-46f8-86ee-ed7fdb1ca83a", type:"BusinessFunction", name:decodeURL("Entscheidungsmanagement"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.3.3.1%5D+Der+Zweck+des+Prozesses+%22Entscheidungsmanagement%22+ist%2C+einen+strukturierten%2C+analytischen+Rahmen+f%C3%BCr+Entscheidungen+bereitzustellen.+Innerhalb+dieses+Rahmens+k%C3%B6nnen+zu+jedem+Zeitpunkt+des+Lebenszyklus+Alternativen+f%C3%BCr+eine+Entscheidung+objektiv+identifiziert%2C+charakterisiert+und+ausgewertet+werden+und+die+vorteilhafteste+Vorgehensweise+ausgew%C3%A4hlt+werden%22.")});
+										dataElements.push({id:"9261e84f-49e1-46f8-86ee-ed7fdb1ca83a", type:"BusinessFunction", name:decodeURL("Entscheidungsmanagement"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.3.3.1%5D+Der+Zweck+des+Prozesses+%22Entscheidungsmanagement%22+ist%2C+einen+strukturierten%2C+analytischen+Rahmen+f%C3%BCr+Entscheidungnen+bereitzustellen.+Innerhalb+dieses+Rahmens+k%C3%B6nnen+zu+jedem+Zeitpunkt+des+Lebenszyklus+Alternativen+f%C3%BCr+eine+Entscheidung+objektiv+identifiziert%2C+charakterisiert+und+ausgewertet+werden+und+die+vorteilhafteste+Vorgehensweise+ausgew%C3%A4hlt+werden%22.")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"992bbd31-9b6a-4185-96a4-2f9aba857ac1", contenttype:"BusinessFunction"});
 										dataElements.push({id:"992bbd31-9b6a-4185-96a4-2f9aba857ac1", type:"BusinessFunction", name:decodeURL("Betrieb"), documentation:decodeURL("Gem%C3%A4%C3%9F+ISO%2FIEC%2FIEEE+15288+%28laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%29%3A%0D%0A%22%5B6.4.12.1%5D+Der+Zweck+des+Prozesses+%22Betrieb%22+besteht+darin%2C+die+Dienste+des+Systems+zu+nutzen.+Dieser+Prozess+findet+h%C3%A4ufig+parallel+zum+Prozess+%22Wartung%22+statt%22.")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"9c015bfb-b80c-40de-b40d-80abe47553b6", contenttype:"BusinessFunction"});
@@ -1025,7 +1043,7 @@ alexander.efremoff@gmail.com</textarea>
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"291ee39d-c5d6-4c7d-90f9-b03394dd3615", contenttype:"BusinessProcess"});
 										dataElements.push({id:"291ee39d-c5d6-4c7d-90f9-b03394dd3615", type:"BusinessProcess", name:decodeURL("Bewerten+von+Alternativen+f%C3%BCr+die+zu+beschaffenden+Systemelemente"), documentation:decodeURL("")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"2b40296a-e4e3-4570-b934-68fdb7ce5d0f", contenttype:"BusinessProcess"});
-										dataElements.push({id:"2b40296a-e4e3-4570-b934-68fdb7ce5d0f", type:"BusinessProcess", name:decodeURL("Planen+des+Qualit%C3%A4tsmanagements"), documentation:decodeURL("")});
+										dataElements.push({id:"2b40296a-e4e3-4570-b934-68fdb7ce5d0f", type:"BusinessProcess", name:decodeURL("Olanen+des+Qualit%C3%A4tsmanagements"), documentation:decodeURL("")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"2ba9055a-4928-4157-814c-8eb9d8a2d518", contenttype:"BusinessProcess"});
 										dataElements.push({id:"2ba9055a-4928-4157-814c-8eb9d8a2d518", type:"BusinessProcess", name:decodeURL("Bewerten+des+Prozesses"), documentation:decodeURL("")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"2f36986c-1614-45ca-89c5-72fcff853e0b", contenttype:"BusinessProcess"});
@@ -1208,54 +1226,6 @@ alexander.efremoff@gmail.com</textarea>
 										dataElements.push({id:"fb5daa60-be78-4f66-918f-9518e0fca3aa", type:"BusinessProcess", name:decodeURL("Verwalten+von+Wissen%2C+Fertigkeiten+und+Wissensbest%C3%A4nden"), documentation:decodeURL("")});
 									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"fc6d51cc-0388-4a6e-bc15-d4d93b366fe7", contenttype:"BusinessProcess"});
 										dataElements.push({id:"fc6d51cc-0388-4a6e-bc15-d4d93b366fe7", type:"BusinessProcess", name:decodeURL("Verwalten+der+ermittelten+Bedarfe+und+Anforderungen+der+Stakeholder"), documentation:decodeURL("")});
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"87600c34-abd7-4f3e-b758-055b96935fea", contenttype:"BusinessObject"});
-										dataElements.push({id:"87600c34-abd7-4f3e-b758-055b96935fea", type:"BusinessObject", name:decodeURL("Einsch%C3%A4tzen+der+technischen+M%C3%B6glichkeit+bzw.+der+initialen+Wirtschaftlichkeitsberechnung"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"87600c34-abd7-4f3e-b758-055b96935fea", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"de043777-46ec-4503-bc61-15cde4cc5699", contenttype:"BusinessObject"});
-										dataElements.push({id:"de043777-46ec-4503-bc61-15cde4cc5699", type:"BusinessObject", name:decodeURL("Erstellen+einer+Entwicklungsstrategie+f%C3%BCr+eine+Technologie"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"de043777-46ec-4503-bc61-15cde4cc5699", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"273c6927-97c3-4d1f-984a-bcf29e9bcc24", contenttype:"BusinessObject"});
-										dataElements.push({id:"273c6927-97c3-4d1f-984a-bcf29e9bcc24", type:"BusinessObject", name:decodeURL("Verteilen%2C+erstellen+und+weiterentwickeln+eines+Dokuments+zur+Entwicklung+einer+F%C3%A4higkeit"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"273c6927-97c3-4d1f-984a-bcf29e9bcc24", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"306a65c7-e980-4aac-a1b7-a424c8bea5ee", contenttype:"BusinessObject"});
-										dataElements.push({id:"306a65c7-e980-4aac-a1b7-a424c8bea5ee", type:"BusinessObject", name:decodeURL("Durchf%C3%BChren+einer+Analyse+%C3%BCber+Alternativen%2C+die+zur+Entscheidung+%C3%BCber+den+Start+eines+neuen+Projekts+beitr%C3%A4gt"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"306a65c7-e980-4aac-a1b7-a424c8bea5ee", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"06e485ba-572f-45f2-9c44-51bdddbc06af", contenttype:"BusinessObject"});
-										dataElements.push({id:"06e485ba-572f-45f2-9c44-51bdddbc06af", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+der+Systemarchitektur"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"06e485ba-572f-45f2-9c44-51bdddbc06af", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"5ec6b465-fda8-4454-9385-d07cbf07a11c", contenttype:"BusinessObject"});
-										dataElements.push({id:"5ec6b465-fda8-4454-9385-d07cbf07a11c", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+eines+Systemelements"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"5ec6b465-fda8-4454-9385-d07cbf07a11c", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"7afb6349-52a0-4132-ae0d-80d23eae574c", contenttype:"BusinessObject"});
-										dataElements.push({id:"7afb6349-52a0-4132-ae0d-80d23eae574c", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+von+untergeordneten+Systemelementen"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"7afb6349-52a0-4132-ae0d-80d23eae574c", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"0b2b6307-5a8b-4a79-b256-c90f05892ba0", contenttype:"BusinessObject"});
-										dataElements.push({id:"0b2b6307-5a8b-4a79-b256-c90f05892ba0", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+von+Test-+und+Auswertungsmethoden"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"0b2b6307-5a8b-4a79-b256-c90f05892ba0", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"8bb2039b-69d8-417f-bd97-f03990151338", contenttype:"BusinessObject"});
-										dataElements.push({id:"8bb2039b-69d8-417f-bd97-f03990151338", type:"BusinessObject", name:decodeURL("Entscheidung+%C3%BCber+Eigenfertigung+oder+Zukauf+treffen"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"8bb2039b-69d8-417f-bd97-f03990151338", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"2eefb42b-0097-44dc-971b-5b31bfe0c85f", contenttype:"BusinessObject"});
-										dataElements.push({id:"2eefb42b-0097-44dc-971b-5b31bfe0c85f", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+des+Herstellungsverfahrens+und+des+Herstellungsortes"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"2eefb42b-0097-44dc-971b-5b31bfe0c85f", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"79a6f205-73fd-4157-905a-045b45c7fa0d", contenttype:"BusinessObject"});
-										dataElements.push({id:"79a6f205-73fd-4157-905a-045b45c7fa0d", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+des+Instandhaltungsansatzes"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"79a6f205-73fd-4157-905a-045b45c7fa0d", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
-									dataFoldersContent.push({folderid:"d1da5c30-7f07-4941-b80e-4d980d02536d", contentid:"0d62bc44-3907-46e5-9a25-83171f5b2bbb", contenttype:"BusinessObject"});
-										dataElements.push({id:"0d62bc44-3907-46e5-9a25-83171f5b2bbb", type:"BusinessObject", name:decodeURL("Ausw%C3%A4hlen+des+Entsorgungsansatzes"), documentation:decodeURL("Laut+INCOSE+Handbuch+4.0+-+%C3%BCbersetzt+von+GfSE%3A%0D%0A%22Entscheidungssituationen+umfassen+Entscheidungen+in+Bezug+auf+die+Entscheidungspunkte+in+einem+vereinbarten+Zeitplan.+Andere+W%C3%BCnsche+in+Bezug+auf+eine+Entscheidung+k%C3%B6nnen+von+beliebigen+Stakeholdern+kommen+und+erste+Informationen+oftmals+nun+wenig+mehr%2C+als+grobe+Aussagen+zur+Situation.+Entscheidungssituationen+k%C3%B6nnen+in+jedem+Lebenszyklusprozess+auftreten%22.")});
-													dataProperties.push({conceptid:"0d62bc44-3907-46e5-9a25-83171f5b2bbb", propkey:decodeURL("en_Name"), propvalue:decodeURL("Decision+situation")});
-
 
 								dataFoldersContent.push({folderid:"15603b4a-2055-4a4e-a5a8-bde62073c06c", contentid:"c4cb9bae-e1bd-4526-918d-b5cfb8ea1f0c", contenttype:"Folder"});
 								dataFolders.push({id:"c4cb9bae-e1bd-4526-918d-b5cfb8ea1f0c", type:"Folder", name:decodeURL("Application"), documentation:decodeURL("")});
@@ -2228,30 +2198,6 @@ alexander.efremoff@gmail.com</textarea>
 										dataRelationships.push({id:"f9f02bcc-1017-4f96-984a-f27c890ce9d4", type:"CompositionRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"9d02dcd8-dca7-42a2-9425-d2aaa7458fba", targetid:"3bb6448d-87ca-495c-91c9-316be63da272"});
 									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"fca6dd47-88df-4729-8e05-24669c59f3c1", contenttype:"CompositionRelationship"});
 										dataRelationships.push({id:"fca6dd47-88df-4729-8e05-24669c59f3c1", type:"CompositionRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"992bbd31-9b6a-4185-96a4-2f9aba857ac1", targetid:"0764fd2e-e469-4b6d-8d9d-8919900ab2ab"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"d03bdb9a-0981-487e-9634-afc028b77297", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"d03bdb9a-0981-487e-9634-afc028b77297", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"87600c34-abd7-4f3e-b758-055b96935fea", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"7b33fcc8-2d1c-40b4-bb42-3610529edbb8", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"7b33fcc8-2d1c-40b4-bb42-3610529edbb8", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"de043777-46ec-4503-bc61-15cde4cc5699", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"dd95a372-645c-416c-b616-40175c51637c", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"dd95a372-645c-416c-b616-40175c51637c", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"273c6927-97c3-4d1f-984a-bcf29e9bcc24", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"d1832dec-be53-4e3c-a59b-74da9594eea2", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"d1832dec-be53-4e3c-a59b-74da9594eea2", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"306a65c7-e980-4aac-a1b7-a424c8bea5ee", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"bb8c7ce3-94f4-4f1c-8b1a-81e3d40a206d", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"bb8c7ce3-94f4-4f1c-8b1a-81e3d40a206d", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"06e485ba-572f-45f2-9c44-51bdddbc06af", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"5438a8f9-0e2a-4610-aee8-3a2320c963fb", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"5438a8f9-0e2a-4610-aee8-3a2320c963fb", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"5ec6b465-fda8-4454-9385-d07cbf07a11c", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"0de44dab-4b4e-484a-b2e8-a063632f74ce", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"0de44dab-4b4e-484a-b2e8-a063632f74ce", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"7afb6349-52a0-4132-ae0d-80d23eae574c", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"e26218bc-bdfc-47d1-9682-093028bd8a66", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"e26218bc-bdfc-47d1-9682-093028bd8a66", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"0b2b6307-5a8b-4a79-b256-c90f05892ba0", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"c3986ecf-e533-478e-8ec3-ac46a10c3c0c", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"c3986ecf-e533-478e-8ec3-ac46a10c3c0c", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"8bb2039b-69d8-417f-bd97-f03990151338", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"6b029f35-a9b7-4464-9c46-a0c52ca51311", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"6b029f35-a9b7-4464-9c46-a0c52ca51311", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"2eefb42b-0097-44dc-971b-5b31bfe0c85f", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"a6c2c772-7a25-4c2e-b402-ea16547c2865", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"a6c2c772-7a25-4c2e-b402-ea16547c2865", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"79a6f205-73fd-4157-905a-045b45c7fa0d", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
-									dataFoldersContent.push({folderid:"c757466b-e633-4fef-a515-b5f86690d9c4", contentid:"0c9d8b26-5f7b-43c6-9206-e8ccd9f63378", contenttype:"SpecializationRelationship"});
-										dataRelationships.push({id:"0c9d8b26-5f7b-43c6-9206-e8ccd9f63378", type:"SpecializationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"0d62bc44-3907-46e5-9a25-83171f5b2bbb", targetid:"54ecd60c-1e2b-4da5-8805-0317adac7580"});
 
 								dataFoldersContent.push({folderid:"15603b4a-2055-4a4e-a5a8-bde62073c06c", contentid:"16760826-170c-4bcb-bddc-e814496f1a73", contenttype:"Folder"});
 								dataFolders.push({id:"16760826-170c-4bcb-bddc-e814496f1a73", type:"Folder", name:decodeURL("Views"), documentation:decodeURL("")});
@@ -3218,18 +3164,7 @@ alexander.efremoff@gmail.com</textarea>
 														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"3a7ef3d7-4cdc-40aa-bbb1-e25d080def6e", contenttype:"DiagramModelArchimateObject"});
 														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"d4576f39-b574-4f17-8ca6-20806148bba7", contenttype:"DiagramModelArchimateObject"});
 														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"2677143d-dfd9-45cf-a69f-e458c194d1a2", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"9b7dffda-d71b-4785-b117-412ec3a88bca", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"1e943935-bb5f-40ef-9775-b2b8297a5cf6", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"d6548fd1-a101-4769-b250-1a74e89bb7f3", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"2337b963-f3ef-4b0f-af56-f5edc4239aee", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"1435f531-1692-4b38-bd9c-75a8fa7b6729", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"293bb8ce-d708-411e-9cd8-918685c26f05", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"f42824ff-b8ff-4a29-9071-8774b95b63ce", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"73b6cfd8-a1f1-49b6-9bce-48360ca619e9", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"25f7b264-572d-4b7c-b431-0ed5ec3c411f", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"4089133b-ec61-4e09-bf6d-c166cc683994", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"84d7211d-0c90-4cbe-b407-c5d0f2dc0d9a", contenttype:"DiagramModelArchimateObject"});
-														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"bca04467-a30e-4fd4-9999-ae1258c51b55", contenttype:"DiagramModelArchimateObject"});
+														dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"ea9dcab3-4f8e-4c81-864d-10a7968f076b", contenttype:"DiagramModelReference"});
 
 																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"5a1e4853-3c8c-4ac9-bdd9-a9c2551dc5f3", contenttype:"DiagramModelArchimateConnection"});
 																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"f2ea93d6-748f-4210-91c2-397870c121b7", contenttype:"DiagramModelArchimateConnection"});
@@ -3240,30 +3175,6 @@ alexander.efremoff@gmail.com</textarea>
 																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"2273b7b7-e3fc-4eb7-955a-6eda1b882b6c", contenttype:"DiagramModelArchimateConnection"});
 
 														
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"d837712e-7235-4b1a-a2a8-8dea48252b42", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"5d2dac60-668d-405c-b25c-c6f7aef32cf8", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"a74c85d1-87f2-45c3-aca3-f12a646d952d", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"0bd3ef8b-8a41-41fe-a2df-c7bc3461db59", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"c80792ca-03f0-4634-bef9-be4a64751f37", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"93fd77b0-83b9-455f-8a5b-726bdf0e1238", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"4e7ae891-2e57-402b-ade9-9d9742cc0ef8", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"5a49bec8-39e3-4a6d-a015-9a9cf48c6cd3", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"9123a9f5-bb15-4478-89b4-1a254cff547a", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"b86f03c5-a4e0-4568-8391-5471e4e60dd9", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"4332bf38-fc75-4f7a-9301-2fe1b4a5c152", contenttype:"DiagramModelArchimateConnection"});
-
-																				dataViewsContent.push({viewid:"d9e6ef60-706f-47a6-a2e9-0ba79036f5e5", contentid:"b2dfa830-5efd-4cdf-ae33-a3560f59d3aa", contenttype:"DiagramModelArchimateConnection"});
-
 
 											dataFoldersContent.push({folderid:"a701f95e-8e54-44e2-9ae5-10ca56e9d642", contentid:"f3c92407-f7ae-4790-9545-32c66f5576bd", contenttype:"ArchimateDiagramModel"});
 												dataViews.push({id:"f3c92407-f7ae-4790-9545-32c66f5576bd", type:"ArchimateDiagramModel", name:decodeURL("02-01+Projektplanung"), documentation:decodeURL("")});
@@ -3532,7 +3443,7 @@ alexander.efremoff@gmail.com</textarea>
 
 
 									dataFoldersContent.push({folderid:"16760826-170c-4bcb-bddc-e814496f1a73", contentid:"02456f7f-532d-4bde-bf64-09583bda0ef8", contenttype:"ArchimateDiagramModel"});
-										dataViews.push({id:"02456f7f-532d-4bde-bf64-09583bda0ef8", type:"ArchimateDiagramModel", name:decodeURL("01+-+Systemlebenszyklusprozesse"), documentation:decodeURL("Diese+Ansicht+enth%C3%A4lt+die+ISO+15288+Prozesse+-+Systemlebenszyklusprozesse%0D%0A27.06.2019")});
+										dataViews.push({id:"02456f7f-532d-4bde-bf64-09583bda0ef8", type:"ArchimateDiagramModel", name:decodeURL("01+-+Systemlebenszyklusprozesse"), documentation:decodeURL("Diese+Ansicht+enth%C3%A4lt+die+Liste+der+Systems+Engineering+Lebenszyklus-Prozesse%0D%0AErstellt+am%3A+27.06.2019%0D%0AAktualisiert+am%3A+30.10.2020%2C+v.1.0%0D%0ADas+Produkt+der+GfSE+%28German+INCOSE+Chapter%29%3A+prozessmodell.gfse.de")});
 														dataViewsContent.push({viewid:"02456f7f-532d-4bde-bf64-09583bda0ef8", contentid:"657e5cbc-99a9-4464-9ac1-2c83f40c8bf1", contenttype:"DiagramModelArchimateObject"});
 																dataViewsContent.push({viewid:"02456f7f-532d-4bde-bf64-09583bda0ef8", contentid:"710d4ebc-2599-4f44-9f78-3075ec043c44", contenttype:"DiagramModelReference"});
 														
