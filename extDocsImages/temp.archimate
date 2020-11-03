@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ISO 15288 DE" id="15603b4a-2055-4a4e-a5a8-bde62073c06c" version="4.6.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Systems Engineering Process Model" id="15603b4a-2055-4a4e-a5a8-bde62073c06c" version="4.6.0">
   <folder name="Strategy" id="2112f62a-c864-41b9-9ce9-7243577f586b" type="strategy"/>
   <folder name="Business" id="d1da5c30-7f07-4941-b80e-4d980d02536d" type="business">
     <element xsi:type="archimate:BusinessFunction" name="Projektbewertung und -steuerung" id="029eec0c-36b5-42e0-8bed-96cd6d7182c4">
@@ -8,7 +8,7 @@
     </element>
     <element xsi:type="archimate:BusinessFunction" name="Qualitätsmanagement" id="13e0bed5-2e8c-4178-a392-b9b7080c92d6">
       <documentation>Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;
-&quot;[6.2.5.1] Der Zweck des Prozesses &quot;Qualitätsmanagement&quot; besteht darin sicherzustellen, dass die Produkte und Dienstleistungen sowie die Anwendung des Qualitätsmanagements die Qualitätsziele der Organisation erreichen und die Kunden zufriedenstellen&quot;.</documentation>
+&quot;[6.2.5.1] Der Zweck des Prozesses &quot;Qualitätsmanagement&quot; besteht darin sicherzustellen, dass die Produkte und Dienstleistungen sowie die Anwendung des qualitätsmanagements die Qualitätsziele der Organisation erreichen und die Kunden zufriedenstellen&quot;.</documentation>
     </element>
     <element xsi:type="archimate:BusinessFunction" name="Definition der Stakeholder-Bedarfe und -Anforderungen" id="13e19b84-beca-474c-8ab9-9d006c72bffb">
       <documentation>Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;
@@ -56,7 +56,7 @@
     </element>
     <element xsi:type="archimate:BusinessFunction" name="Entscheidungsmanagement" id="9261e84f-49e1-46f8-86ee-ed7fdb1ca83a">
       <documentation>Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;
-&quot;[6.3.3.1] Der Zweck des Prozesses &quot;Entscheidungsmanagement&quot; ist, einen strukturierten, analytischen Rahmen für Entscheidungen bereitzustellen. Innerhalb dieses Rahmens können zu jedem Zeitpunkt des Lebenszyklus Alternativen für eine Entscheidung objektiv identifiziert, charakterisiert und ausgewertet werden und die vorteilhafteste Vorgehensweise ausgewählt werden&quot;.</documentation>
+&quot;[6.3.3.1] Der Zweck des Prozesses &quot;Entscheidungsmanagement&quot; ist, einen strukturierten, analytischen Rahmen für Entscheidungnen bereitzustellen. Innerhalb dieses Rahmens können zu jedem Zeitpunkt des Lebenszyklus Alternativen für eine Entscheidung objektiv identifiziert, charakterisiert und ausgewertet werden und die vorteilhafteste Vorgehensweise ausgewählt werden&quot;.</documentation>
     </element>
     <element xsi:type="archimate:BusinessFunction" name="Betrieb" id="992bbd31-9b6a-4185-96a4-2f9aba857ac1">
       <documentation>Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;
@@ -270,8 +270,7 @@ Entscheidungsträger möchten die grundlegenden Ursachen von übergeordneten Üb
     </element>
     <element xsi:type="archimate:BusinessObject" name="Auswertungsbericht der Qualitätssicherung" id="22819028-9f55-4c59-af1c-43a9307b2bdb">
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Der Auswertungsbericht der Qualitätssicherung ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Qualitätssicherungsaktivitäten zu kommunizieren. Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung von Lebenszyklusmodellen einer Organisation bereit.&quot;
-</documentation>
+&quot;Der Auswertungsbericht der Qualitätssicherung ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Qualitätssicherungsaktivitäten zu kommunizieren. Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung von Lebenszyklusmodellen einer Organisation bereit.&quot;</documentation>
       <property key="en_Name" value="Quality assurance evaluation report"/>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Infrastruktur der Organisation" id="236b6c55-2f18-41a3-90b8-47d2081986dd"/>
@@ -362,7 +361,7 @@ Entscheidungsträger möchten die grundlegenden Ursachen von übergeordneten Üb
     </element>
     <element xsi:type="archimate:BusinessObject" name="Validierungsbericht" id="3793befa-68b0-41d4-be75-b1ccb189f430">
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Der Validierungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Validierungsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Validierung und den objektiven Nachweis der bestätigt, dass das System die Anforderungen von Stakeholdern und die geschäftlichen Anforderungen erfüllt oder nicht erfüllt. Der Validierungsbericht sollte auch eine Bewertung der Verlässlichkeit dieser Ergebnisse bzw. Erkenntnisse umfassen&quot;.</documentation>
+&quot;Der Validierungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Validierungsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Validierung und den objektiven Nachweis der bestätigt, dass das System die Anforderungen von Stakeholdern und die geschäftlichen Anforderungen erfüllt oder nicht erfüllt. Der Validierungsbericht sollte auch eine Bewertung der Verlässlichkeit dieser Ergebnisse bzw. Ergenntnisse umfassen&quot;.</documentation>
       <property key="en_Name" value="Validation report"/>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Integrationsstrategie" id="38286a5b-3029-498a-a90a-646f16bc12cd">
@@ -377,7 +376,7 @@ Entscheidungsträger möchten die grundlegenden Ursachen von übergeordneten Üb
     </element>
     <element xsi:type="archimate:BusinessObject" name="validierte Anforderungen" id="3b0ecdf4-9356-439d-97d2-49d0ba3c3351">
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Die validierten Anforderungen sind die Beschäftigung, dass die gestellten Anforderungen die Geschäfts- und Stakeholder-Anforderungen erfüllen&quot;.</documentation>
+&quot;Die validierten Anforderungen sind die Beschäftigung, dass die gestellten Anforderungen die Geschäfts- und Stakeholder-Anforerungen erfüllen&quot;.</documentation>
       <property key="en_Name" value="Validated requirements"/>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Umsetzungsbericht" id="3c6f619c-1b41-4465-9b4a-9c4296d88eb6">
@@ -504,7 +503,7 @@ Verträge beinhalten typischerweise allgemeine Geschäfts- bzw. Auftragsbedingun
     </element>
     <element xsi:type="archimate:BusinessObject" name="Einschränkungen aufgrund der Validierung" id="67b72b13-0ac1-42aa-9bc4-23ff8846867c">
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Die Einschränkungen aufgrund der Validierung umfassen sämtliche Einschränkungen an das System, die sich aus der Validerungsstrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben.&quot;</documentation>
+&quot;Die Einschränkungen aufgrund der VValidierung umfassen sämtliche Einschränkungen an das System, die sich aus der Validerungsstrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben.&quot;</documentation>
       <property key="en_Name" value="Validation constraints"/>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Rückverfolgbarkeit der Geschäftsanforderungen" id="69a3f176-8d8e-4582-9e77-4a64812d5ec3">
@@ -526,7 +525,7 @@ Verträge beinhalten typischerweise allgemeine Geschäfts- bzw. Auftragsbedingun
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
 &quot;Der Übergabebericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Übergabeaktivitäten zu kommunizieren.&#xD;
 &#xD;
-Er enthält die Dokumentation der übergebenen Ergebnisse und eine Aufzeichnung aller empfohlenen Korrekturmaßnahmen, wie Einschränkungen, Zugeständnisse und offene Fragestellungen. Auch Pläne, die bei Übergaben aufgetreten Probleme zu beheben, gehören dazu&quot;.</documentation>
+Er enthält die dokumentation der übergebenen Ergebnisse und eine Aufzeichgnung aller empfohlenen Korrekturmaßnahmen, wie Einschränkungen, Zugeständnisse und offene Fragestellungen. Auch Pläne, die bei Übergaben aufgetreten Probleme zu beheben, gehören dazu&quot;.</documentation>
       <property key="en_Name" value="Transition report"/>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Zulieferungsbericht" id="6c9e0231-450d-4afd-8eb1-bc266f39177f"/>
@@ -623,6 +622,11 @@ Er umfasst die Dokumentation der Aktivitäten rund um die Messergebnisse, die Me
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
 &quot;&quot;Die richtigen Leute mit den richtigen Fähigkeiten werden zum richtigen Zeitpunkt im Projekt eingesetzt&quot;&quot;.</documentation>
       <property key="en_Name" value="Qualified personnel"/>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="Auswertungsbericht der Qualitätssicherung" id="8263d114-293a-4a4a-9749-39454d4065d8">
+      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
+&quot;Der Auswertungsbericht der Qualitätssicherung ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Qualitätssicherungaktivitäten zu kommunizieren. Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung von Lebenszyklusmodellen einer Organisation bereit&quot;.</documentation>
+      <property key="en_Name" value="Quality assurance evaluation report"/>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Umsetzungsbedingte Einschränkungen" id="834d6492-c8e0-49c6-b694-9617d19b3615">
       <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
@@ -1149,7 +1153,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
     <element xsi:type="archimate:BusinessProcess" name="Verwalten der Validierungsergebnisse" id="24bbbb12-0f36-4260-a5d3-589e7eccc22f"/>
     <element xsi:type="archimate:BusinessProcess" name="Verteilen von Wissen und Fertigkeiten in der Organisation" id="273a7caf-eb07-4f2f-b8b4-dbaa838f4de3"/>
     <element xsi:type="archimate:BusinessProcess" name="Bewerten von Alternativen für die zu beschaffenden Systemelemente" id="291ee39d-c5d6-4c7d-90f9-b03394dd3615"/>
-    <element xsi:type="archimate:BusinessProcess" name="Planen des Qualitätsmanagements" id="2b40296a-e4e3-4570-b934-68fdb7ce5d0f"/>
+    <element xsi:type="archimate:BusinessProcess" name="Olanen des Qualitätsmanagements" id="2b40296a-e4e3-4570-b934-68fdb7ce5d0f"/>
     <element xsi:type="archimate:BusinessProcess" name="Bewerten des Prozesses" id="2ba9055a-4928-4157-814c-8eb9d8a2d518"/>
     <element xsi:type="archimate:BusinessProcess" name="Planen des Wissensmanagements" id="2f36986c-1614-45ca-89c5-72fcff853e0b"/>
     <element xsi:type="archimate:BusinessProcess" name="Vorbereiten der Umsetzung" id="31c77dad-2e23-4880-85d0-c340748a0f8e"/>
@@ -1241,66 +1245,6 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
     <element xsi:type="archimate:BusinessProcess" name="Durchführen der Freigabesteuerung" id="fb59859b-a511-4ef8-aef0-3c0ca11850ab"/>
     <element xsi:type="archimate:BusinessProcess" name="Verwalten von Wissen, Fertigkeiten und Wissensbeständen" id="fb5daa60-be78-4f66-918f-9518e0fca3aa"/>
     <element xsi:type="archimate:BusinessProcess" name="Verwalten der ermittelten Bedarfe und Anforderungen der Stakeholder" id="fc6d51cc-0388-4a6e-bc15-d4d93b366fe7"/>
-    <element xsi:type="archimate:BusinessObject" name="Einschätzen der technischen Möglichkeit bzw. der initialen Wirtschaftlichkeitsberechnung" id="87600c34-abd7-4f3e-b758-055b96935fea">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Erstellen einer Entwicklungsstrategie für eine Technologie" id="de043777-46ec-4503-bc61-15cde4cc5699">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Verteilen, erstellen und weiterentwickeln eines Dokuments zur Entwicklung einer Fähigkeit" id="273c6927-97c3-4d1f-984a-bcf29e9bcc24">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Durchführen einer Analyse über Alternativen, die zur Entscheidung über den Start eines neuen Projekts beiträgt" id="306a65c7-e980-4aac-a1b7-a424c8bea5ee">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen der Systemarchitektur" id="06e485ba-572f-45f2-9c44-51bdddbc06af">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen eines Systemelements" id="5ec6b465-fda8-4454-9385-d07cbf07a11c">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen von untergeordneten Systemelementen" id="7afb6349-52a0-4132-ae0d-80d23eae574c">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen von Test- und Auswertungsmethoden" id="0b2b6307-5a8b-4a79-b256-c90f05892ba0">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Entscheidung über Eigenfertigung oder Zukauf treffen" id="8bb2039b-69d8-417f-bd97-f03990151338">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen des Herstellungsverfahrens und des Herstellungsortes" id="2eefb42b-0097-44dc-971b-5b31bfe0c85f">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen des Instandhaltungsansatzes" id="79a6f205-73fd-4157-905a-045b45c7fa0d">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
-    <element xsi:type="archimate:BusinessObject" name="Auswählen des Entsorgungsansatzes" id="0d62bc44-3907-46e5-9a25-83171f5b2bbb">
-      <documentation>Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;
-&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;.</documentation>
-      <property key="en_Name" value="Decision situation"/>
-    </element>
   </folder>
   <folder name="Application" id="c4cb9bae-e1bd-4526-918d-b5cfb8ea1f0c" type="application"/>
   <folder name="Technology &amp; Physical" id="58bd8b10-fdf5-4aad-ba9b-c333fee02f40" type="technology"/>
@@ -1580,7 +1524,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
     <element xsi:type="archimate:AccessRelationship" id="c2487c1a-e9f5-4777-9c76-43434d009f1b" source="d25855a7-e8a3-4aa1-9801-7adcd555a4e8" target="6c9e0231-450d-4afd-8eb1-bc266f39177f"/>
     <element xsi:type="archimate:AccessRelationship" id="c25f82e9-438d-46bd-ab49-a263caf5d875" source="7747cee8-f983-4c1f-a0ee-fd35ab346e5d" target="9e1e1d8d-846b-4752-b0fa-d48b7ab56ce0"/>
     <element xsi:type="archimate:AccessRelationship" id="c29d5814-d27c-404c-97fc-e3eb58536e15" source="def60c92-d482-4f16-97a9-405f63db813a" target="b0b3a97a-2946-4614-8aad-808ded847df3" accessType="1"/>
-    <element xsi:type="archimate:AccessRelationship" id="c2c438ff-3dc6-40fa-b9d6-268ee90cdf7c" source="029eec0c-36b5-42e0-8bed-96cd6d7182c4" target="22819028-9f55-4c59-af1c-43a9307b2bdb" accessType="1"/>
+    <element xsi:type="archimate:AccessRelationship" id="c2c438ff-3dc6-40fa-b9d6-268ee90cdf7c" source="029eec0c-36b5-42e0-8bed-96cd6d7182c4" target="8263d114-293a-4a4a-9749-39454d4065d8" accessType="1"/>
     <element xsi:type="archimate:AccessRelationship" id="c2dd230e-cfe8-428e-8a3d-bbf25cf99e2f" source="b8ac0880-99a6-478a-bf9d-ea454b055bd1" target="81b48bbc-5163-41b5-986d-f79cec1f99f8"/>
     <element xsi:type="archimate:AccessRelationship" id="c4159080-28f7-4a3e-bcda-157ad3672496" source="13e19b84-beca-474c-8ab9-9d006c72bffb" target="3732c347-4472-4907-95f8-036c7e5354a1"/>
     <element xsi:type="archimate:AccessRelationship" id="c4570fe5-b915-42eb-b5e9-a244fb7ebbb5" source="13e19b84-beca-474c-8ab9-9d006c72bffb" target="c6af653a-cd59-4bd5-967d-0f788c23a91b" accessType="1"/>
@@ -1785,18 +1729,6 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
     <element xsi:type="archimate:CompositionRelationship" id="f86656f7-f1dd-4a0f-944a-41ecec7361f5" source="13e0bed5-2e8c-4178-a392-b9b7080c92d6" target="66e1f411-3f50-48a6-9516-7b1b2e39f824"/>
     <element xsi:type="archimate:CompositionRelationship" id="f9f02bcc-1017-4f96-984a-f27c890ce9d4" source="9d02dcd8-dca7-42a2-9425-d2aaa7458fba" target="3bb6448d-87ca-495c-91c9-316be63da272"/>
     <element xsi:type="archimate:CompositionRelationship" id="fca6dd47-88df-4729-8e05-24669c59f3c1" source="992bbd31-9b6a-4185-96a4-2f9aba857ac1" target="0764fd2e-e469-4b6d-8d9d-8919900ab2ab"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="d03bdb9a-0981-487e-9634-afc028b77297" source="87600c34-abd7-4f3e-b758-055b96935fea" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="7b33fcc8-2d1c-40b4-bb42-3610529edbb8" source="de043777-46ec-4503-bc61-15cde4cc5699" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="dd95a372-645c-416c-b616-40175c51637c" source="273c6927-97c3-4d1f-984a-bcf29e9bcc24" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="d1832dec-be53-4e3c-a59b-74da9594eea2" source="306a65c7-e980-4aac-a1b7-a424c8bea5ee" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="bb8c7ce3-94f4-4f1c-8b1a-81e3d40a206d" source="06e485ba-572f-45f2-9c44-51bdddbc06af" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="5438a8f9-0e2a-4610-aee8-3a2320c963fb" source="5ec6b465-fda8-4454-9385-d07cbf07a11c" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="0de44dab-4b4e-484a-b2e8-a063632f74ce" source="7afb6349-52a0-4132-ae0d-80d23eae574c" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="e26218bc-bdfc-47d1-9682-093028bd8a66" source="0b2b6307-5a8b-4a79-b256-c90f05892ba0" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="c3986ecf-e533-478e-8ec3-ac46a10c3c0c" source="8bb2039b-69d8-417f-bd97-f03990151338" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="6b029f35-a9b7-4464-9c46-a0c52ca51311" source="2eefb42b-0097-44dc-971b-5b31bfe0c85f" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="a6c2c772-7a25-4c2e-b402-ea16547c2865" source="79a6f205-73fd-4157-905a-045b45c7fa0d" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="0c9d8b26-5f7b-43c6-9206-e8ccd9f63378" source="0d62bc44-3907-46e5-9a25-83171f5b2bbb" target="54ecd60c-1e2b-4da5-8805-0317adac7580"/>
   </folder>
   <folder name="Views" id="16760826-170c-4bcb-bddc-e814496f1a73" type="diagrams">
     <folder name="Prozessbeschreibungen" id="31a7bcf0-add6-49ac-9887-d6f89b699df1">
@@ -2638,10 +2570,10 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
               <bounds x="24" y="36" width="229" height="55"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="eb75eae7-24dc-45ae-9dee-d264ee40859e" targetConnections="a4a7126e-f522-488f-9750-e70139f0aa4c" archimateElement="ef957f5f-38df-4d1e-9fe2-1d0c63139bfb">
-              <bounds x="24" y="96" width="229" height="85"/>
+              <bounds x="24" y="108" width="229" height="85"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="21357371-ae01-41d5-9fff-110474cc7645" targetConnections="a6d3a282-8f2a-40bf-b7af-da0fb42132f0" archimateElement="0cc327c0-35aa-4fae-920c-469880bba0f3">
-              <bounds x="24" y="192" width="229" height="55"/>
+              <bounds x="24" y="204" width="229" height="55"/>
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="df8a3076-0f27-4b7a-abb7-5c139f2257ad" targetConnections="79905985-bced-4632-a00e-e7eaaf665115" archimateElement="c260cd18-3810-490b-a6ba-afd78fa2e9fc">
@@ -2736,7 +2668,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
             <bounds x="12" y="84" width="193" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="acf9dc9c-2345-4c52-b15e-697e99ced085" archimateElement="f7d4f910-6275-49bd-98aa-f81c73f3925b">
-            <bounds x="288" y="84" width="277" height="301"/>
+            <bounds x="288" y="84" width="277" height="535"/>
             <sourceConnection xsi:type="archimate:Connection" id="e6926528-c501-48df-a305-f551ee8e4e57" source="acf9dc9c-2345-4c52-b15e-697e99ced085" target="838e0c49-e601-4db7-a7ec-b06f0ec1f3d3" archimateRelationship="e5c1722e-4880-4b19-8e9a-b98d69afba62"/>
             <sourceConnection xsi:type="archimate:Connection" id="b24b0e9b-a8de-4e8d-add2-bd067f5183b3" source="acf9dc9c-2345-4c52-b15e-697e99ced085" target="69c6ab74-26c1-4939-9649-fb76ff0ce37f" archimateRelationship="f4b79ab2-414f-4dcd-9860-5487aa29077b"/>
             <sourceConnection xsi:type="archimate:Connection" id="570b13b7-c0d4-446b-af7d-c753c5c9611a" source="acf9dc9c-2345-4c52-b15e-697e99ced085" target="3ff4981c-85f3-4dda-a116-03af9381a4c7" archimateRelationship="06650eca-bde0-48f9-a119-53225ca2baa9"/>
@@ -2901,7 +2833,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
         </element>
         <element xsi:type="archimate:ArchimateDiagramModel" name="01-04 Architekturgestaltung" id="f9a153e7-c791-433d-8ac7-042d8596502d">
           <child xsi:type="archimate:DiagramObject" id="7149a381-a371-4504-a302-543e5f522bca" archimateElement="491183c1-dd93-428b-a1aa-e8ba4bd51c57">
-            <bounds x="304" y="36" width="265" height="535"/>
+            <bounds x="300" y="84" width="265" height="535"/>
             <sourceConnection xsi:type="archimate:Connection" id="ce442c9a-7cd6-49ca-9b79-df7fac908128" source="7149a381-a371-4504-a302-543e5f522bca" target="4b72d5a9-c11a-4d2c-860a-44d3a4244416" archimateRelationship="352bce2d-d7c6-4414-bf79-189dbea3ee7c"/>
             <sourceConnection xsi:type="archimate:Connection" id="efd7c8eb-ab99-4ba0-bc1c-6b4664d1b83e" source="7149a381-a371-4504-a302-543e5f522bca" target="62dc3ac7-c84c-4f0b-bfc4-f8109eab3f87" archimateRelationship="c4701a97-aa05-46a8-90ad-b9a0f7e3d143"/>
             <sourceConnection xsi:type="archimate:Connection" id="f8445b96-2d5b-405b-8950-5f41df6b879a" source="7149a381-a371-4504-a302-543e5f522bca" target="224caf56-d91c-4dcb-93d4-4720ec51a3c4" archimateRelationship="3000e78c-78f5-47b9-a0a0-d4e686143d66"/>
@@ -2946,61 +2878,61 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="793e659d-29da-4b51-995f-86e2fadead51" targetConnections="28cf40e1-0b06-49d9-8dc3-f50f51c936b6" archimateElement="e65566b5-1d74-4440-91e1-bbbffae5fd4b">
-            <bounds x="40" y="36" width="205" height="55"/>
+            <bounds x="36" y="84" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="708d2103-4ef4-4d0c-80be-e9e802e73bab" targetConnections="113659fa-bf3f-447a-ae2f-f1d88fd698d0" archimateElement="f68f2ec1-2ad4-49d7-899a-beba9d69a3d2">
-            <bounds x="40" y="96" width="205" height="55"/>
+            <bounds x="36" y="144" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="f12f5ff1-0c1e-45f4-b6b9-1665c36392b1" targetConnections="514846f4-e282-4a12-904a-cb2f63a14a78" archimateElement="a86aa7d9-f171-4c06-b536-a497058f4ce5">
-            <bounds x="40" y="156" width="205" height="55"/>
+            <bounds x="36" y="204" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="8d74ebfc-671e-4f31-be91-413da9213bf9" targetConnections="bf8f3b7b-41de-49f4-ab9e-c4683f995ab4" archimateElement="1bb0180e-ad5a-46f1-856d-5278e5dac898">
-            <bounds x="40" y="216" width="205" height="55"/>
+            <bounds x="36" y="264" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="765c3cad-9f15-41e9-8bb3-6fac96da35c2" targetConnections="7bfb0ee4-dbef-4f90-963f-066ca1a47bdd" archimateElement="5217608c-403c-4774-a042-ea9e9cd46d53">
-            <bounds x="40" y="276" width="205" height="55"/>
+            <bounds x="36" y="324" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="d13eeaa7-586f-450d-b94e-e0579c361ab9" targetConnections="c1f7f01f-02a2-48af-8cb0-7bccd2f20115" archimateElement="f6105dcf-0a13-4c12-85d9-e449652b0b9c">
-            <bounds x="40" y="336" width="205" height="55"/>
+            <bounds x="36" y="384" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="0a4e8d54-391d-44b1-978c-54c280b91a7c" targetConnections="206ded41-8056-4673-ad80-c447939a8e89" archimateElement="b6edf327-79de-4fbf-b594-ddaad1046ab9">
-            <bounds x="40" y="396" width="205" height="55"/>
+            <bounds x="36" y="444" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="c566d16c-64cd-4e6e-af1a-cabf4aec6985" targetConnections="0bb09ad6-4d1c-4d8a-9972-48cd094a2b2a" archimateElement="6fb56e3e-f6da-4bbb-99e1-4faa6a94d14d">
-            <bounds x="40" y="456" width="205" height="55"/>
+            <bounds x="36" y="504" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="2d2ba38a-9b19-4567-b80d-875ab2f4af72" targetConnections="212120fb-0881-4322-ad3f-eb8668ee8eb8" archimateElement="dc9bf07b-fc5f-4926-acae-ed53f0264ded">
-            <bounds x="40" y="516" width="205" height="55"/>
+            <bounds x="36" y="564" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="70469292-6602-4836-a367-86a50bf07e01" targetConnections="e3adbcef-58d9-4d13-8cae-35d319c40dc9" archimateElement="65414be5-43e5-47c0-97eb-901cbc4d3fca">
-            <bounds x="636" y="36" width="205" height="55"/>
+            <bounds x="632" y="84" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="6c9efeb7-b5cb-434c-9d25-911f35e6ebad" targetConnections="8ef372a3-dd3f-4383-90cf-ab1183720b2c" archimateElement="c260cd18-3810-490b-a6ba-afd78fa2e9fc">
-            <bounds x="636" y="96" width="205" height="55"/>
+            <bounds x="632" y="144" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="54dcb48d-ea2c-4410-92f0-a0b43551620d" targetConnections="82c2c9c6-045e-4b29-bca9-dc0841c3d954" archimateElement="95d9105e-3d79-48bf-ad81-d34628503715">
-            <bounds x="636" y="156" width="205" height="55"/>
+            <bounds x="632" y="204" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="0108a946-d11a-4465-a30c-d4df294e3ddd" targetConnections="ac3ae3d6-9a58-4443-a33c-4f97c462b491" archimateElement="6f68b4bb-aa7d-43ae-9a7c-fd4610cd7cfd">
-            <bounds x="636" y="216" width="205" height="55"/>
+            <bounds x="632" y="264" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="968b7966-55ac-4f55-a251-f8232f53c105" targetConnections="666d5efa-7b2b-492c-bc6e-74fef620bf56" archimateElement="8e3bb868-87cc-4d20-9d14-bd64fd535499">
-            <bounds x="636" y="276" width="205" height="55"/>
+            <bounds x="632" y="324" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="4f839e06-3929-459e-a99a-a20c24b324ab" targetConnections="cb7e050f-448c-4b23-90c2-a1401f9cbead" archimateElement="2074c4a7-b0d7-4095-90a0-4a5e342e2068">
-            <bounds x="636" y="336" width="205" height="55"/>
+            <bounds x="632" y="384" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="ef4ff0b7-cacd-4d9e-850a-4521f6ad7845" targetConnections="76ab27b0-28ce-4dc2-8bed-ebcfc4e03a52" archimateElement="0765321e-ec00-471a-bd73-98fc3511562f">
-            <bounds x="636" y="396" width="205" height="55"/>
+            <bounds x="632" y="444" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="7434084f-a69d-4228-8179-0423648a9748" targetConnections="6250f15b-cbdd-4ee3-affd-a9e43cf7c3ee" archimateElement="b47ab109-68f7-4ecd-8ce6-8d45ba137a58">
-            <bounds x="636" y="456" width="205" height="55"/>
+            <bounds x="632" y="504" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="5157fdb1-2a42-4573-9dd5-b2d6b212ed21" targetConnections="c66ba999-2a38-4626-86b6-31847826c5d1" archimateElement="59fc8b2f-647a-4c00-9859-f1e25773e843">
-            <bounds x="636" y="516" width="205" height="55"/>
+            <bounds x="632" y="564" width="205" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramModelReference" id="baabedb7-6b33-4316-aa48-ffd66e865d07" model="02456f7f-532d-4bde-bf64-09583bda0ef8">
-            <bounds x="952" y="36" width="205" height="55"/>
+            <bounds x="948" y="84" width="205" height="55"/>
           </child>
         </element>
         <element xsi:type="archimate:ArchimateDiagramModel" name="01-02 Definition der Stakeholder-Bedarfe und -Anforderungen" id="fc4c039c-54db-44e2-9b5d-f69105b003ef">
@@ -3435,7 +3367,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
           <child xsi:type="archimate:DiagramObject" id="6ab2c00d-6d95-4836-8612-8fb24d33bbc7" targetConnections="e4337801-9d01-4884-9990-4619f0a989cf" archimateElement="556efe37-961e-4bb2-aacc-5e3cffc946dd">
             <bounds x="12" y="504" width="193" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="dc4b017a-cdbc-4a83-ac96-3da50bb8101e" targetConnections="c3a499ed-18ff-4d49-a0aa-69dd400777c9" archimateElement="22819028-9f55-4c59-af1c-43a9307b2bdb">
+          <child xsi:type="archimate:DiagramObject" id="dc4b017a-cdbc-4a83-ac96-3da50bb8101e" targetConnections="c3a499ed-18ff-4d49-a0aa-69dd400777c9" archimateElement="8263d114-293a-4a4a-9749-39454d4065d8">
             <bounds x="12" y="564" width="193" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="48b482ce-2f06-44b5-8781-2360a822c0bc" targetConnections="ba3d6ea4-4323-41ab-b9b9-ea9e608cfe45" archimateElement="3b0ecdf4-9356-439d-97d2-49d0ba3c3351">
@@ -3471,7 +3403,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
         </element>
         <element xsi:type="archimate:ArchimateDiagramModel" name="02-03 Entscheidungsmanagement" id="d9e6ef60-706f-47a6-a2e9-0ba79036f5e5">
           <child xsi:type="archimate:DiagramObject" id="ff1d51c3-70ca-4a0f-a59e-e3d6178db6d7" archimateElement="9261e84f-49e1-46f8-86ee-ed7fdb1ca83a">
-            <bounds x="720" y="24" width="277" height="233"/>
+            <bounds x="264" y="24" width="277" height="233"/>
             <sourceConnection xsi:type="archimate:Connection" id="5a1e4853-3c8c-4ac9-bdd9-a9c2551dc5f3" source="ff1d51c3-70ca-4a0f-a59e-e3d6178db6d7" target="589f1fa3-665b-4b54-8c4a-8a054be6c03f" archimateRelationship="ed414655-3ca7-4a5d-b909-f2cb3fde24b8"/>
             <sourceConnection xsi:type="archimate:Connection" id="f2ea93d6-748f-4210-91c2-397870c121b7" source="ff1d51c3-70ca-4a0f-a59e-e3d6178db6d7" target="5a3f6428-2319-4e13-9009-6e450f791309" archimateRelationship="1a7138ec-9daf-4d12-8c84-e5f21071a275"/>
             <sourceConnection xsi:type="archimate:Connection" id="be03a958-5ebf-4878-a4d9-29769d09f440" source="ff1d51c3-70ca-4a0f-a59e-e3d6178db6d7" target="911dee85-6032-41cb-a888-1a9cc42d9160" archimateRelationship="05e3247b-1abd-43ee-8289-6178d2708cdf"/>
@@ -3489,65 +3421,20 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
               <bounds x="36" y="37" width="205" height="55"/>
             </child>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="c7d6d004-3567-4256-b3db-cae920c11d6d" targetConnections="efe9851c-bd07-44b6-80f8-f462976dd87a d837712e-7235-4b1a-a2a8-8dea48252b42 5d2dac60-668d-405c-b25c-c6f7aef32cf8 a74c85d1-87f2-45c3-aca3-f12a646d952d 0bd3ef8b-8a41-41fe-a2df-c7bc3461db59 c80792ca-03f0-4634-bef9-be4a64751f37 93fd77b0-83b9-455f-8a5b-726bdf0e1238 4e7ae891-2e57-402b-ade9-9d9742cc0ef8 5a49bec8-39e3-4a6d-a015-9a9cf48c6cd3 9123a9f5-bb15-4478-89b4-1a254cff547a b86f03c5-a4e0-4568-8391-5471e4e60dd9 4332bf38-fc75-4f7a-9301-2fe1b4a5c152 b2dfa830-5efd-4cdf-ae33-a3560f59d3aa" archimateElement="54ecd60c-1e2b-4da5-8805-0317adac7580">
-            <bounds x="468" y="24" width="193" height="55"/>
+          <child xsi:type="archimate:DiagramObject" id="c7d6d004-3567-4256-b3db-cae920c11d6d" targetConnections="efe9851c-bd07-44b6-80f8-f462976dd87a" archimateElement="54ecd60c-1e2b-4da5-8805-0317adac7580">
+            <bounds x="12" y="24" width="193" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="3a7ef3d7-4cdc-40aa-bbb1-e25d080def6e" targetConnections="48334702-c179-4093-96ea-aba84ad92c65" archimateElement="b0adc531-6844-4c5f-b322-0341f317d870">
-            <bounds x="1056" y="24" width="193" height="55"/>
+            <bounds x="600" y="24" width="193" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="d4576f39-b574-4f17-8ca6-20806148bba7" targetConnections="47b9cd48-b45e-404c-9051-0ac9759c6a2c" archimateElement="1ba2761b-68dd-4374-9f55-ebe7c6ffeaa7">
-            <bounds x="1056" y="84" width="193" height="55"/>
+            <bounds x="600" y="84" width="193" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="2677143d-dfd9-45cf-a69f-e458c194d1a2" targetConnections="2273b7b7-e3fc-4eb7-955a-6eda1b882b6c" archimateElement="271f1dbb-7d05-4e65-b423-e6e564e0c9d1">
-            <bounds x="1056" y="144" width="193" height="55"/>
+            <bounds x="600" y="144" width="193" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="9b7dffda-d71b-4785-b117-412ec3a88bca" archimateElement="87600c34-abd7-4f3e-b758-055b96935fea">
-            <bounds x="24" y="24" width="373" height="55"/>
-            <sourceConnection xsi:type="archimate:Connection" id="d837712e-7235-4b1a-a2a8-8dea48252b42" source="9b7dffda-d71b-4785-b117-412ec3a88bca" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="d03bdb9a-0981-487e-9634-afc028b77297"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="1e943935-bb5f-40ef-9775-b2b8297a5cf6" archimateElement="de043777-46ec-4503-bc61-15cde4cc5699">
-            <bounds x="24" y="84" width="373" height="55"/>
-            <sourceConnection xsi:type="archimate:Connection" id="5d2dac60-668d-405c-b25c-c6f7aef32cf8" source="1e943935-bb5f-40ef-9775-b2b8297a5cf6" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="7b33fcc8-2d1c-40b4-bb42-3610529edbb8"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="d6548fd1-a101-4769-b250-1a74e89bb7f3" archimateElement="273c6927-97c3-4d1f-984a-bcf29e9bcc24">
-            <bounds x="24" y="144" width="373" height="55"/>
-            <sourceConnection xsi:type="archimate:Connection" id="a74c85d1-87f2-45c3-aca3-f12a646d952d" source="d6548fd1-a101-4769-b250-1a74e89bb7f3" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="dd95a372-645c-416c-b616-40175c51637c"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="2337b963-f3ef-4b0f-af56-f5edc4239aee" archimateElement="306a65c7-e980-4aac-a1b7-a424c8bea5ee">
-            <bounds x="24" y="204" width="373" height="55"/>
-            <sourceConnection xsi:type="archimate:Connection" id="0bd3ef8b-8a41-41fe-a2df-c7bc3461db59" source="2337b963-f3ef-4b0f-af56-f5edc4239aee" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="d1832dec-be53-4e3c-a59b-74da9594eea2"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="1435f531-1692-4b38-bd9c-75a8fa7b6729" archimateElement="06e485ba-572f-45f2-9c44-51bdddbc06af">
-            <bounds x="24" y="264" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="c80792ca-03f0-4634-bef9-be4a64751f37" source="1435f531-1692-4b38-bd9c-75a8fa7b6729" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="bb8c7ce3-94f4-4f1c-8b1a-81e3d40a206d"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="293bb8ce-d708-411e-9cd8-918685c26f05" archimateElement="5ec6b465-fda8-4454-9385-d07cbf07a11c">
-            <bounds x="24" y="312" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="93fd77b0-83b9-455f-8a5b-726bdf0e1238" source="293bb8ce-d708-411e-9cd8-918685c26f05" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="5438a8f9-0e2a-4610-aee8-3a2320c963fb"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="f42824ff-b8ff-4a29-9071-8774b95b63ce" archimateElement="7afb6349-52a0-4132-ae0d-80d23eae574c">
-            <bounds x="24" y="360" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="4e7ae891-2e57-402b-ade9-9d9742cc0ef8" source="f42824ff-b8ff-4a29-9071-8774b95b63ce" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="0de44dab-4b4e-484a-b2e8-a063632f74ce"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="73b6cfd8-a1f1-49b6-9bce-48360ca619e9" archimateElement="0b2b6307-5a8b-4a79-b256-c90f05892ba0">
-            <bounds x="24" y="408" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="5a49bec8-39e3-4a6d-a015-9a9cf48c6cd3" source="73b6cfd8-a1f1-49b6-9bce-48360ca619e9" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="e26218bc-bdfc-47d1-9682-093028bd8a66"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="25f7b264-572d-4b7c-b431-0ed5ec3c411f" archimateElement="8bb2039b-69d8-417f-bd97-f03990151338">
-            <bounds x="24" y="456" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="9123a9f5-bb15-4478-89b4-1a254cff547a" source="25f7b264-572d-4b7c-b431-0ed5ec3c411f" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="c3986ecf-e533-478e-8ec3-ac46a10c3c0c"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="4089133b-ec61-4e09-bf6d-c166cc683994" archimateElement="2eefb42b-0097-44dc-971b-5b31bfe0c85f">
-            <bounds x="24" y="504" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="b86f03c5-a4e0-4568-8391-5471e4e60dd9" source="4089133b-ec61-4e09-bf6d-c166cc683994" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="6b029f35-a9b7-4464-9c46-a0c52ca51311"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="84d7211d-0c90-4cbe-b407-c5d0f2dc0d9a" archimateElement="79a6f205-73fd-4157-905a-045b45c7fa0d">
-            <bounds x="24" y="552" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="4332bf38-fc75-4f7a-9301-2fe1b4a5c152" source="84d7211d-0c90-4cbe-b407-c5d0f2dc0d9a" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="a6c2c772-7a25-4c2e-b402-ea16547c2865"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="bca04467-a30e-4fd4-9999-ae1258c51b55" archimateElement="0d62bc44-3907-46e5-9a25-83171f5b2bbb">
-            <bounds x="24" y="600" width="373" height="37"/>
-            <sourceConnection xsi:type="archimate:Connection" id="b2dfa830-5efd-4cdf-ae33-a3560f59d3aa" source="bca04467-a30e-4fd4-9999-ae1258c51b55" target="c7d6d004-3567-4256-b3db-cae920c11d6d" archimateRelationship="0c9d8b26-5f7b-43c6-9206-e8ccd9f63378"/>
+          <child xsi:type="archimate:DiagramModelReference" id="ea9dcab3-4f8e-4c81-864d-10a7968f076b" model="02456f7f-532d-4bde-bf64-09583bda0ef8">
+            <bounds x="888" y="24" width="205" height="55"/>
           </child>
         </element>
         <element xsi:type="archimate:ArchimateDiagramModel" name="02-01 Projektplanung" id="f3c92407-f7ae-4790-9545-32c66f5576bd">
@@ -4091,58 +3978,58 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
         </child>
       </child>
       <child xsi:type="archimate:Group" id="dfe093c6-1b46-4e41-a2d9-338febdb52d1" name="Technische Managementprozesse" textAlignment="1">
-        <bounds x="432" y="43" width="193" height="618"/>
+        <bounds x="432" y="43" width="217" height="642"/>
         <child xsi:type="archimate:DiagramObject" id="e5361853-44fe-4ed2-8b5b-e9d0bc580867" archimateElement="af9e0d82-de0d-4bfd-93e7-1a3253e43e8c">
-          <bounds x="12" y="36" width="166" height="55"/>
+          <bounds x="12" y="36" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="64385a95-7f4a-47e9-af22-85432694c18c" model="f3c92407-f7ae-4790-9545-32c66f5576bd">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="820b13a9-c397-49f5-89a4-0ed8346f3afc" archimateElement="029eec0c-36b5-42e0-8bed-96cd6d7182c4">
-          <bounds x="12" y="108" width="166" height="55"/>
+          <bounds x="12" y="108" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="f8b4a5d8-c367-4eb9-bd87-af6f1bfda495" model="ca6db94e-24bd-450e-a803-32404da38f53">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="e60491bb-3e2f-4c33-9b3e-2ad0e7a8171c" archimateElement="9261e84f-49e1-46f8-86ee-ed7fdb1ca83a">
-          <bounds x="12" y="180" width="166" height="55"/>
+          <bounds x="12" y="180" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="cf6ea728-720f-4e53-977c-bb2f46671cf9" model="d9e6ef60-706f-47a6-a2e9-0ba79036f5e5">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="e09dd752-ef2a-46ac-ae40-008a0332a42d" archimateElement="aa6772e6-4886-4a54-9a91-5ec034fe941d">
-          <bounds x="12" y="252" width="166" height="55"/>
+          <bounds x="12" y="252" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="62b2667e-08cc-4333-aca5-d8e1ab41aa25" model="4d678a86-6613-4886-9d5c-b715a018da52">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="583a3177-d2f2-4f9d-939d-450bbdc6e074" archimateElement="eea96f65-e8bc-4243-a394-f617cfb27253">
-          <bounds x="12" y="324" width="166" height="55"/>
+          <bounds x="12" y="324" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="c3f9b075-784c-4460-abb2-e22258b8a195" model="b4d61ff7-b117-42b9-99b3-f447d223bcfa">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="8ef61fca-cfd5-46d2-9c61-1a2e6065f3e7" archimateElement="6fab2289-0d98-43f7-98e5-516aa0e46709">
-          <bounds x="12" y="396" width="166" height="55"/>
+          <bounds x="12" y="396" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="3f4293c9-380a-47d9-89c6-13fbbbe2a7a4" model="9761b5db-3144-4f21-8e9d-040f677de3b9">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="b7578a87-98dd-4ede-9718-545d77125d4c" archimateElement="be1b5c92-0387-4725-83aa-85e146694e2c">
-          <bounds x="12" y="468" width="166" height="55"/>
+          <bounds x="12" y="468" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="9da2152d-b014-4c5b-9516-f481aae1821f" model="7ddd5e6f-bfbb-43ee-8cd3-80e1e58425e0">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="8a478977-e88d-4da1-ba4a-4db610c81a8d" archimateElement="83d72c0b-f74b-4619-9684-cf9cd7aad05d">
-          <bounds x="12" y="540" width="166" height="55"/>
+          <bounds x="12" y="540" width="193" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="678dc9cf-821b-4b45-8bc3-15c59c87b338" model="1c73cd86-4053-422a-89e4-d7f7b94e1bf5">
             <bounds y="24" width="25" height="31"/>
           </child>
         </child>
       </child>
       <child xsi:type="archimate:Group" id="1fc5b815-b298-4690-9191-321785d20220" name="Vertragsprozesse" textAlignment="1">
-        <bounds x="636" y="43" width="193" height="618"/>
+        <bounds x="660" y="43" width="193" height="642"/>
         <child xsi:type="archimate:DiagramObject" id="45bb97f9-6dab-4c4c-a30c-95c297fc8bec" archimateElement="e51ea540-dbc6-4fe6-b89a-ea4643919bd8">
           <bounds x="12" y="36" width="166" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="805cfb81-e09f-4186-9c28-92206ecdc6ec" model="e6f715b5-e959-4278-88d2-74f2a409c5c4">
@@ -4157,7 +4044,7 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
         </child>
       </child>
       <child xsi:type="archimate:Group" id="35a9ebc7-24f9-40c8-bb80-7678095fa994" name="Organisatorische Unterstützungsprozesse" textAlignment="1">
-        <bounds x="840" y="43" width="229" height="618"/>
+        <bounds x="864" y="43" width="229" height="642"/>
         <child xsi:type="archimate:DiagramObject" id="3aac2a99-c415-4841-938a-c95d0115c5c3" archimateElement="67584c24-782b-4a6e-a73e-1302dd306ed1">
           <bounds x="12" y="36" width="205" height="55"/>
           <child xsi:type="archimate:DiagramModelReference" id="c999d10c-152d-4c1e-95d8-e8d84060777a" model="e6692e45-fae4-4c2f-8b79-e99f2d9ea2ce">
@@ -4196,18 +4083,43 @@ Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgef
         </child>
       </child>
       <child xsi:type="archimate:Note" id="b4314839-5b5b-4fc4-901b-e2dfa747c803" textAlignment="1">
-        <bounds x="34" y="600" width="387" height="61"/>
-        <content>Diese Ansicht enthält die ISO 15288 Prozesse - Systemlebenszyklusprozesse&#xD;
-27.06.2019</content>
+        <bounds x="34" y="600" width="387" height="85"/>
+        <content>Diese Ansicht enthält die Liste der Systems Engineering Lebenszyklus-Prozesse&#xD;
+Erstellt am: 27.06.2019&#xD;
+Aktualisiert am: 30.10.2020, v.1.0&#xD;
+Das Produkt der GfSE (German INCOSE Chapter): prozessmodell.gfse.de</content>
       </child>
-      <documentation>Diese Ansicht enthält die ISO 15288 Prozesse - Systemlebenszyklusprozesse&#xD;
-27.06.2019</documentation>
+      <documentation>Diese Ansicht enthält die Liste der Systems Engineering Lebenszyklus-Prozesse&#xD;
+Erstellt am: 27.06.2019&#xD;
+Aktualisiert am: 30.10.2020, v.1.0&#xD;
+Das Produkt der GfSE (German INCOSE Chapter): prozessmodell.gfse.de</documentation>
     </element>
   </folder>
-  <purpose>Dieses Modell enthällt Systems Engineering Lebenszyklusprozesse nach ISO 15288 und Systems Engineering Handbuch v.4.0&#xD;
-Zeile des Modells:&#xD;
-- Hilfsmittel für Lebenszyklusprozesse&#xD;
-- Demonstration der Unternehmensarchitekturbeschreibung&#xD;
+  <purpose>Das ist das interaktive Systems Engineering Prozessmodell - ein Teil des Produktes der Gesellschaft für Systems Engineering (GfSE, German INCOSE Chapter).&#xD;
 &#xD;
-alexander.efremoff@gmail.com</purpose>
+ANWENDUNGSHINWEISE&#xD;
+Navigation über Ansichte:&#xD;
+- im &quot;Model Tree&quot;: Views aufklappen, die Ansicht &quot;01 - Systemlebenszyklusprozesse&quot; auswählen;&#xD;
+- für detaillierte Beschreibung der Einheiten im interaktiven Prozessmodell die Einheit (den Prozess, den Input oder den Output) auf der Ansicht mit linke Maustaste auswählen;&#xD;
+- für die Ansicht mit Inputs und Outputs auf das blaue Quadrat neben dem Prozessnamen clicken;&#xD;
+- für die Ansicht mit der Auflistung der Prozesse das blaue Rechteck mit dem Ansichtnamen &quot;01 - Systemlebenszyklusprozesse&quot; clicken.&#xD;
+&#xD;
+Suche in der Liste der Einheiten im Prozessmodell:&#xD;
+- im &quot;Model Tree&quot;: Business aufklappen, Suche-Funktion im Browser aktivieren (Strg+F für Windows), den Namen der Einheit tippen;&#xD;
+- die gefundene Einheit mit Mouseclick auswählen.&#xD;
+&#xD;
+Anmerkungen oder Fragen:&#xD;
+- als Issue im Git-Repository hinterlassen: https://git.io/JTFMF&#xD;
+- eine E-Mail an se-terms@gfse.de schreiben&#xD;
+---&#xD;
+&#xD;
+Das Produkt der GfSE (German INCOSE Chapter)&#xD;
+Erstellt am: 27.06.2019&#xD;
+Aktualisiert am: 30.10.2020, v.1.0&#xD;
+Erstellt in der Arbeitsgruppe &quot;Terminologie im Systems Engineering&quot;&#xD;
+https://prozessmodell.gfse.de&#xD;
+https://se-terms.gfse.de&#xD;
+Source Model *.archimate: https://git.io/JTi9N&#xD;
+IT-Tool für Source Model: www.archimatetool.com&#xD;
+MACHT MIT: se-terms@gfse.de</purpose>
 </archimate:model>
