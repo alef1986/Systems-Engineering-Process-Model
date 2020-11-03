@@ -21,4 +21,4 @@ MACHT MIT: se-terms@gfse.de
 Source of information:
 - INCOSE Handbuch 4.0, Deutsche Version (https://www.gfse-handbuch.de/1/incose-systems-engineering-handbuch)
 
-![github-large](https://alef1986.github.io/Systems-Engineering-Process-Model/INCOSE15288-screen.png) 
+![Process Model](https://alef1986.github.io/Systems-Engineering-Process-Model/INCOSE15288-screen.png) 
