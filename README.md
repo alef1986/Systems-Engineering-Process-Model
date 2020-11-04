@@ -7,9 +7,7 @@ Aktualisiert am: 30.10.2020, v.1.0
 
 Erstellt in der Arbeitsgruppe "Terminologie im Systems Engineering"
 
-Interaktive Web-Version: https://prozessmodell.gfse.de
-
-Website der Arbeitsgruppe: https://se-terms.gfse.de
+Interaktive Web-Version: https://gfse.de/prozessmodell
 
 Source Model .archimate: https://git.io/JTFD8
 
