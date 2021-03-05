@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portfoliomanagementbericht"
-    id="159bc10b-d17a-4007-8999-7e234ba9b341"/>
+    id="159bc10b-d17a-4007-8999-7e234ba9b341"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Portfoliomanagementbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Portfoliomanagementaktivitäten zu kommunizieren.">
+  <properties
+      key="en_Name"
+      value="Portfolio management report"/>
+  <properties
+      key="de_Name"
+      value="Portfoliomanagementbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Portfoliomanagementbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Portfoliomanagementaktivitäten zu kommunizieren."/>
+</archimate:BusinessObject>

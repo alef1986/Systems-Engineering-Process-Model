@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Strategy documents"/>
+  <properties
+      key="de_Name"
+      value="Strategiedokumente ???"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Strategiedokumente umfassen die Strategien für alle anwendbaren Lebenszyklusvorgänge, einschließlich der Strategien zur Geschäfts- oder Auftragsanalyse, zur Stakeholderbedarfs- und Stakeholderanforderungsermittlung, zur Definition der Systemanforderungen, zur Architekturdefinition, zur Entwurfsgestaltung, zur Systemanalyse, zur Umsetzung, zur Integration, zur Verifikation, zur Übergabe, zur Validierung, zum Betrieb, zur Instandhaltung, zur Entsorgung, zur Projektbewertung und -kontrolle, zum Entscheidungsmanagement, zum Risikomanagement, zum Konfigurationsmanagement, zum Datenmanagement, zur Messung, zur Beschaffung und zur Zulieferung&quot;."/>
 </archimate:BusinessObject>

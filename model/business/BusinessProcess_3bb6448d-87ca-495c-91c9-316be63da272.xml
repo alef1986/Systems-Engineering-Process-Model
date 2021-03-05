@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Durchführung der Validierung"
-    id="3bb6448d-87ca-495c-91c9-316be63da272"/>
+    id="3bb6448d-87ca-495c-91c9-316be63da272">
+  <properties
+      key="de_Name"
+      value="Durchführung der Validierung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

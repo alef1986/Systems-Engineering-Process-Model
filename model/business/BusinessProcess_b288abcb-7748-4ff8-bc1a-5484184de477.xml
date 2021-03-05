@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Steuern des Projekts"
-    id="b288abcb-7748-4ff8-bc1a-5484184de477"/>
+    id="b288abcb-7748-4ff8-bc1a-5484184de477">
+  <properties
+      key="de_Name"
+      value="Steuern des Projekts"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

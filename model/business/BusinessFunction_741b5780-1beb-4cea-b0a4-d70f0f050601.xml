@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entsorgung"
     id="741b5780-1beb-4cea-b0a4-d70f0f050601"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.14.1] Der Zweck des Prozesses &quot;Entsorgung&quot; ist es, die Existenz eines Systemelements oder eines Systems, das für eine bestimmte Nutzung vorgesehen war, zu beenden. Die Entsorgung der ausgetauschten oder ausgemusterten Elemente ist entsprechend der festgelegten kritischen Bedarfe durchzuführen&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.14.1] Der Zweck des Prozesses &quot;Entsorgung&quot; ist es, die Existenz eines Systemelements oder eines Systems, das für eine bestimmte Nutzung vorgesehen war, zu beenden. Die Entsorgung der ausgetauschten oder ausgemusterten Elemente ist entsprechend der festgelegten kritischen Bedarfe durchzuführen&quot;.">
+  <properties
+      key="en_Name"
+      value="Disposal process"/>
+  <properties
+      key="de_Name"
+      value="Entsorgung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.14.1] Der Zweck des Prozesses &quot;Entsorgung&quot; ist es, die Existenz eines Systemelements oder eines Systems, das für eine bestimmte Nutzung vorgesehen war, zu beenden. Die Entsorgung der ausgetauschten oder ausgemusterten Elemente ist entsprechend der festgelegten kritischen Bedarfe durchzuführen&quot;."/>
+</archimate:BusinessFunction>

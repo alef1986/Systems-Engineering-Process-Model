@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verbinden von Architektur und Entwurf"
-    id="dc73650c-61a1-4761-afc8-95d38de90e07"/>
+    id="dc73650c-61a1-4761-afc8-95d38de90e07">
+  <properties
+      key="de_Name"
+      value="Verbinden von Architektur und Entwurf"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

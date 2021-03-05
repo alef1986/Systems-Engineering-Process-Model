@@ -2,8 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Auswertungsbericht des Qualitätsmanagements"
     id="b9b7530d-7ec8-4ea3-a0eb-c958a5d3e5f4"
-    documentation="Der Qualitätsmanagement-Auswertungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Aktivitäten der Qualitätsmanagementauswertung zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung vom Lebenszyklusmodellen einer Organisation bereit.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Qualitätsmanagement-Auswertungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Aktivitäten der Qualitätsmanagementauswertung zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung vom Lebenszyklusmodellen einer Organisation bereit.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Quality management evaluation report"/>
+  <properties
+      key="de_Name"
+      value="Auswertungsbericht des Qualitätsmanagements"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Qualitätsmanagement-Auswertungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Aktivitäten der Qualitätsmanagementauswertung zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Er umfasst die Beurteilung der projektbezogenen Prozess- sowie Verbesserungsvorschläge oder notwendigen Korrekturmaßnahmen, sowie Eingaben zur Verbesserungen der Umsetzung vom Lebenszyklusmodellen einer Organisation bereit."/>
 </archimate:BusinessObject>

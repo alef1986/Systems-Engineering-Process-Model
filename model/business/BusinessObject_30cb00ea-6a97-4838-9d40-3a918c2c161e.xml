@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Candidate information items"/>
+  <properties
+      key="de_Name"
+      value="mögliche Informationseinheiten"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Informationseinheiten sind all die Informationseinheiten, die unter Informationskontrolle gestellt werden sollen. Sie können in jedem Lebenszyklusprozess entstehen&quot;."/>
 </archimate:BusinessObject>

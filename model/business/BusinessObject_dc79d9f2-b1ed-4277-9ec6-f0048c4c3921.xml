@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Business or mission analysis record"/>
+  <properties
+      key="de_Name"
+      value="Protokoll der Geschäfts- oder Auftragsanalyse"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Geschäfts- oder Auftragsanalyse enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Geschäfts- und Auftragsanalyse&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Life cycle concepts"/>
+  <properties
+      key="de_Name"
+      value="Lebenszykluskonzepte"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Lebenszykluskonzepte umfassen die Beschreibung und Verfeinerung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Dokumenten zum Lebenszykluskonzept, auf dem das Zielsystem basiert, es bewertet und ausgewählt wird.&#xD;&#xA;Die Architektur basiert auf diesen Lebenszykluskonzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Konzepts für die richtige Interpretation der Systemanforderungen.&#xD;&#xA;Typische Lebenszykluskonzepte beinhaltet:&#xD;&#xA;- Beschaffungskonzept,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;."/>
 </archimate:BusinessObject>

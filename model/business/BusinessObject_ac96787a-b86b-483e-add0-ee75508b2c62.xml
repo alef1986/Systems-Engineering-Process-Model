@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portfoliomanagementprotokoll"
-    id="ac96787a-b86b-483e-add0-ee75508b2c62"/>
+    id="ac96787a-b86b-483e-add0-ee75508b2c62"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Portfoliomanagementprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens zum bezogen auf das Portfoliomanagement.">
+  <properties
+      key="en_Name"
+      value="Portfolio management record"/>
+  <properties
+      key="de_Name"
+      value="Portfoliomanagementprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Portfoliomanagementprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens zum bezogen auf das Portfoliomanagement."/>
+</archimate:BusinessObject>

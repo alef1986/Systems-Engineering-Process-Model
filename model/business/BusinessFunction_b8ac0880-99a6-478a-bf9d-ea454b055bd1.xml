@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entwurf"
     id="b8ac0880-99a6-478a-bf9d-ea454b055bd1"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.5.1] Der Zweck des Prozesses &quot;Entwurf&quot; besteht darin, ausreichend detaillierte Daten und Informationen über das System und seine Elemente zu liefern, so dass die Umsetzung in Übereinstimmung mit den in den Modellen und Ansichten der Systemarchitektur definierten Architektureinheiten erfolgen kann&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.5.1] Der Zweck des Prozesses &quot;Entwurf&quot; besteht darin, ausreichend detaillierte Daten und Informationen über das System und seine Elemente zu liefern, so dass die Umsetzung in Übereinstimmung mit den in den Modellen und Ansichten der Systemarchitektur definierten Architektureinheiten erfolgen kann&quot;.">
+  <properties
+      key="en_Name"
+      value="Design denition process"/>
+  <properties
+      key="de_Name"
+      value="Entwurf"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.5.1] Der Zweck des Prozesses &quot;Entwurf&quot; besteht darin, ausreichend detaillierte Daten und Informationen über das System und seine Elemente zu liefern, so dass die Umsetzung in Übereinstimmung mit den in den Modellen und Ansichten der Systemarchitektur definierten Architektureinheiten erfolgen kann&quot;."/>
+</archimate:BusinessFunction>

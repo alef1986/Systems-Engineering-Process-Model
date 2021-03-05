@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zulieferungsvertrag"
-    id="81e259c0-4686-4b6d-9675-01e34a4587a5"/>
+    id="81e259c0-4686-4b6d-9675-01e34a4587a5"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Zulieferungsvertrag ist eine Übereinkunft bezüglich des Verhältnisses und der Verpflichtungen zwischen der Projektorganisation und dem Beschaffer. Die Übereinkunft kann von formalen Verträgen bis hin zu weniger formalen unternehmensinternen Arbeitsanweisungen reichen.&#xD;&#xA;Verträge beinhalten typischerweise allgemeine Geschäfts- bzw. Auftragsbedingungen.">
+  <properties
+      key="en_Name"
+      value="Supply agreement"/>
+  <properties
+      key="de_Name"
+      value="Zulieferungsvertrag"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Zulieferungsvertrag ist eine Übereinkunft bezüglich des Verhältnisses und der Verpflichtungen zwischen der Projektorganisation und dem Beschaffer. Die Übereinkunft kann von formalen Verträgen bis hin zu weniger formalen unternehmensinternen Arbeitsanweisungen reichen.&#xD;&#xA;Verträge beinhalten typischerweise allgemeine Geschäfts- bzw. Auftragsbedingungen."/>
+</archimate:BusinessObject>

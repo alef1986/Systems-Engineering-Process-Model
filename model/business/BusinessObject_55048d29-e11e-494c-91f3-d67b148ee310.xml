@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Design definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Entwurfsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entwurfsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das System zu entwerfen, das stimmig mit der ausgewählten Systemarchitektur ist und die Anforderungen erfüllt&quot;."/>
 </archimate:BusinessObject>

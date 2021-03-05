@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Design definition record"/>
+  <properties
+      key="de_Name"
+      value="Entwurfsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Entwurfsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf den Entwurf&quot;."/>
 </archimate:BusinessObject>

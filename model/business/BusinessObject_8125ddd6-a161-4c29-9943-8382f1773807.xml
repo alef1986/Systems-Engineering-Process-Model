@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastrukturmanagementbericht"
-    id="8125ddd6-a161-4c29-9943-8382f1773807"/>
+    id="8125ddd6-a161-4c29-9943-8382f1773807"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Infrastrukturmanagement-Bericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Infrastrukturmanagementaktivitäten zu kommunizieren.&#xD;&#xA;Der Bericht beinhaltet Kennzahlen zu Kosten, zur Nutzung, zu Stillstand- und Reparaturzeiten etc. Er kann genutzt werden, um die Kapazitätsplanung nachfolgender Projekte zu unterstützen.">
+  <properties
+      key="en_Name"
+      value="Infrastructure management report"/>
+  <properties
+      key="de_Name"
+      value="Infrastrukturmanagementbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Infrastrukturmanagement-Bericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Infrastrukturmanagementaktivitäten zu kommunizieren.&#xD;&#xA;Der Bericht beinhaltet Kennzahlen zu Kosten, zur Nutzung, zu Stillstand- und Reparaturzeiten etc. Er kann genutzt werden, um die Kapazitätsplanung nachfolgender Projekte zu unterstützen."/>
+</archimate:BusinessObject>

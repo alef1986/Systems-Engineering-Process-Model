@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Validated system"/>
+  <properties
+      key="de_Name"
+      value="validiertes System"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein validiertes System ist ein System, das zur Auslieferung und zum Betrieb bereitsteht&quot;."/>
 </archimate:BusinessObject>

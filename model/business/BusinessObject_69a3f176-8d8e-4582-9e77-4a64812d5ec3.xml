@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Business requirements traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Geschäftsanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Geschäftsanforderungen bedeutet immer bidirektionale Nachverfolgbarkeit der Geschäftsanforderungen&quot;."/>
 </archimate:BusinessObject>

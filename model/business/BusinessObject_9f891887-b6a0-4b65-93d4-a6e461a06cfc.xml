@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Maintenance constraints"/>
+  <properties
+      key="de_Name"
+      value="wartungsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die wartungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Instandhaltungsstrategie ergeben, einschließlich der Kosten, des Zeitrahmens und der technischen Einschränkungen&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Maintenance strategy"/>
+  <properties
+      key="de_Name"
+      value="Wartungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Wartungsstrategie umfasst Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um fehlerbehebende und vorbeugende Wartung zur Erfüllung der betriebsbezogenen Verfügbarkeitsanforderungen durchführen zu können&quot;."/>
 </archimate:BusinessObject>

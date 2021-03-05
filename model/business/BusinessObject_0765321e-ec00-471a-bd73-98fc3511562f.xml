@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Preliminary TPM data"/>
+  <properties
+      key="de_Name"
+      value="vorläufige technische Leistungsmessdaten"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen technischen Leistungsmessdaten sind die für die identifizierten Messbedarfe vorab bereitgestellten Daten&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Validation procedure"/>
+  <properties
+      key="de_Name"
+      value="Validierungsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Validierungsverfahren umfasst eine Reihe von Aktivitäten zur Validierung eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;."/>
 </archimate:BusinessObject>

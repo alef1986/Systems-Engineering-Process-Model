@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architekturperspektiven entwickeln"
-    id="674ea294-b50e-4d42-8d07-194ba280c702"/>
+    id="674ea294-b50e-4d42-8d07-194ba280c702">
+  <properties
+      key="de_Name"
+      value="Architekturperspektiven entwickeln"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

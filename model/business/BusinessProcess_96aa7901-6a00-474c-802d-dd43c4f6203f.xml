@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysieren der zur Entscheidung vorhandenen Information"
-    id="96aa7901-6a00-474c-802d-dd43c4f6203f"/>
+    id="96aa7901-6a00-474c-802d-dd43c4f6203f">
+  <properties
+      key="de_Name"
+      value="Analysieren der zur Entscheidung vorhandenen Information"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

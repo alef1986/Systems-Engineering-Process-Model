@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verification criteria"/>
+  <properties
+      key="de_Name"
+      value="Verifikationskriterien"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Verifikationskriterien (zu untersuchende Kennzahlen) umfassen Verifikationsaktivitäten und auch das Verifikationsumfeld des Zielsystems&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Analysis situations"/>
+  <properties
+      key="de_Name"
+      value="Analysekontext"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Analysekontext umfasst die Kontextinformationen für die Analyse, einschließlich der Lebenszyklusphase, Bewertungstreiber, Kostentreiber, Größentreiber, Teameigenschaften, Projektprioritäten und weiterer kennzeicnender Informationen und Parameter, die zum Verständnis der Analyse notwendig sind und die das zu analysierende Element beschreiben. Relevante Informationen aus dem Prozess, der die Analyse anstößt. Alle bereits vorhandenen Modelle zu dem Element, das analysiert werden soll. Sämtliche Daten über das Element, das analysiert werden soll, darunter auch Daten aus dem vergangenen, derzeitigen und anstehenden Projekten. Die Kontextinformationen können aus jeder Lebenszyklusphase herrühren.&quot;"/>
 </archimate:BusinessObject>

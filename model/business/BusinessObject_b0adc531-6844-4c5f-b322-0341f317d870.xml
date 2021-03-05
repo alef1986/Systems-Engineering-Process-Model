@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Decision management strategy"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungsmanagementstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entscheidungsmanagement-Strategie umfasst die die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das Entscheidungsmanagement im Rahmen eines Projekts durchzuführen&quot;."/>
 </archimate:BusinessObject>

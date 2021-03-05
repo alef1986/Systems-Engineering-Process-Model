@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vorbereiten der Geschäfts- oder Auftragsanalyse"
-    id="8b5c7aa1-8e75-4ed7-9bbf-3ea14e65ea23"/>
+    id="8b5c7aa1-8e75-4ed7-9bbf-3ea14e65ea23">
+  <properties
+      key="de_Name"
+      value="Vorbereiten der Geschäfts- oder Auftragsanalyse"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

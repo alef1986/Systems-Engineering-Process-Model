@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Installation procedure"/>
+  <properties
+      key="de_Name"
+      value="Installationsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Installationsverfahren umfasst eine Reihe von Aktivitäten zur Installation eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;."/>
 </archimate:BusinessObject>

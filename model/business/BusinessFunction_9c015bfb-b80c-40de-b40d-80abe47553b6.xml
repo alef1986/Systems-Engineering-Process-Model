@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastrukturmanagement"
     id="9c015bfb-b80c-40de-b40d-80abe47553b6"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.2.1] Der Zweck des Prozesses &quot;Infrastrukturmanagement&quot; besteht in der Versorgung der Projekte mit Infrastruktur (Einrichtungen und Ausrüstung) sowie Dienstleistungen zur Unterstützung der Organisations- und Projektziele während des gesamten Lebenszyklus&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.2.1] Der Zweck des Prozesses &quot;Infrastrukturmanagement&quot; besteht in der Versorgung der Projekte mit Infrastruktur (Einrichtungen und Ausrüstung) sowie Dienstleistungen zur Unterstützung der Organisations- und Projektziele während des gesamten Lebenszyklus&quot;.">
+  <properties
+      key="en_Name"
+      value="Infrastructure management process"/>
+  <properties
+      key="de_Name"
+      value="Infrastrukturmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.2.1] Der Zweck des Prozesses &quot;Infrastrukturmanagement&quot; besteht in der Versorgung der Projekte mit Infrastruktur (Einrichtungen und Ausrüstung) sowie Dienstleistungen zur Unterstützung der Organisations- und Projektziele während des gesamten Lebenszyklus&quot;."/>
+</archimate:BusinessFunction>

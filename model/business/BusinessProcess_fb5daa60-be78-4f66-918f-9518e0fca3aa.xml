@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten von Wissen, Fertigkeiten und Wissensbeständen"
-    id="fb5daa60-be78-4f66-918f-9518e0fca3aa"/>
+    id="fb5daa60-be78-4f66-918f-9518e0fca3aa">
+  <properties
+      key="de_Name"
+      value="Verwalten von Wissen, Fertigkeiten und Wissensbeständen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

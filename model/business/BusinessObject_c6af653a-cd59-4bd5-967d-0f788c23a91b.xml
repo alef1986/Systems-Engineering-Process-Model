@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vorläufige Lebenszykluskonzepte"
     id="c6af653a-cd59-4bd5-967d-0f788c23a91b"
-    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen Lebenszykluskonzepte umfassen die provisorische Beschreibung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Konzeptdokumenten zum Lebenszyklus, auf dem das Zielsystem basiert, bewertet und ausgewählt wird. Die Architektur beruht auf diesen Konzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Kontextes für die richtige Interpretation der Systemanforderungen. Die Konzepte beinhalten typischerweise:&#xD;&#xA;- Beschaffungskonzpet,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;."/>
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen Lebenszykluskonzepte umfassen die provisorische Beschreibung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Konzeptdokumenten zum Lebenszyklus, auf dem das Zielsystem basiert, bewertet und ausgewählt wird. Die Architektur beruht auf diesen Konzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Kontextes für die richtige Interpretation der Systemanforderungen. Die Konzepte beinhalten typischerweise:&#xD;&#xA;- Beschaffungskonzpet,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;.">
+  <properties
+      key="en_Name"
+      value="preliminary life cycle concepts"/>
+  <properties
+      key="en_Desc"
+      value="Preliminary articulation of the various life cycle concepts consistent with the business needs in the form of life cycle concept documents on which the system of interest is based, assessed, and selected. The architecture is based on these concepts, and they are essential in providing context for proper interpretation of the system requirements. Typical concepts include: : Acquisition concept, Deployment concept, OpsCon, Support concept, Retirement concept"/>
+  <properties
+      key="de_Name"
+      value="vorläufige Lebenszykluskonzepte"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen Lebenszykluskonzepte umfassen die provisorische Beschreibung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Konzeptdokumenten zum Lebenszyklus, auf dem das Zielsystem basiert, bewertet und ausgewählt wird. Die Architektur beruht auf diesen Konzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Kontextes für die richtige Interpretation der Systemanforderungen. Die Konzepte beinhalten typischerweise:&#xD;&#xA;- Beschaffungskonzpet,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;."/>
+</archimate:BusinessObject>

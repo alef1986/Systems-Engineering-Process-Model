@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System element description"/>
+  <properties
+      key="de_Name"
+      value="Beschreibungen der Systemelemente"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Beschreibungen der Systemelemente umfassen die Darstellung der Entwurfsmerkmale der im System enthaltenen Systemelemente. Der Umfang der Beschreibung ist abhängig von der Realisierungstechnologie (z. B. Datenblätter, Datenbanken, Dokumente, exportierte Dateien)&quot;"/>
 </archimate:BusinessObject>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektplanung"
     id="af9e0d82-de0d-4bfd-93e7-1a3253e43e8c"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.1.1] Der Zweck des Prozesses &quot;Projektplanung&quot; ist das Erzeugen und Koordinieren wirkungsvoller und ausführbarer Projektpläne&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.1.1] Der Zweck des Prozesses &quot;Projektplanung&quot; ist das Erzeugen und Koordinieren wirkungsvoller und ausführbarer Projektpläne&quot;.">
+  <properties
+      key="en_Name"
+      value="Project planning process"/>
+  <properties
+      key="de_Name"
+      value="Projektplanung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.1.1] Der Zweck des Prozesses &quot;Projektplanung&quot; ist das Erzeugen und Koordinieren wirkungsvoller und ausführbarer Projektpläne&quot;."/>
+</archimate:BusinessFunction>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Validated requirements"/>
+  <properties
+      key="de_Name"
+      value="validierte Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die validierten Anforderungen sind die Beschäftigung, dass die gestellten Anforderungen die Geschäfts- und Stakeholder-Anforerungen erfüllen&quot;."/>
 </archimate:BusinessObject>

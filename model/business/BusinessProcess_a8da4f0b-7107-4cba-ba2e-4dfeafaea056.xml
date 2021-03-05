@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vorbereiten des Entwurfs"
-    id="a8da4f0b-7107-4cba-ba2e-4dfeafaea056"/>
+    id="a8da4f0b-7107-4cba-ba2e-4dfeafaea056">
+  <properties
+      key="de_Name"
+      value="Vorbereiten des Entwurfs"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Durchführen der Konfigurationsidentifizierung"
-    id="22e751bd-fe72-45ee-82fc-8082b900031b"/>
+    id="22e751bd-fe72-45ee-82fc-8082b900031b">
+  <properties
+      key="de_Name"
+      value="Durchführen der Konfigurationsidentifizierung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

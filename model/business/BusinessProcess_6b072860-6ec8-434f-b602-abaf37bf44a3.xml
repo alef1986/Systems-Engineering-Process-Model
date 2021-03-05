@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Abstecken des Problem- oder des Chancenraums"
-    id="6b072860-6ec8-434f-b602-abaf37bf44a3"/>
+    id="6b072860-6ec8-434f-b602-abaf37bf44a3">
+  <properties
+      key="de_Name"
+      value="Abstecken des Problem- oder des Chancenraums"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

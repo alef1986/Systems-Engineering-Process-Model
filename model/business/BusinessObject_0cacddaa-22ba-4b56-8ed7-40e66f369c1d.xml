@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verification report"/>
+  <properties
+      key="de_Name"
+      value="Verifikationsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Verifikationsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Verifikationsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Verifikation und den objektiven Nachweis der bestätigt, dass das System die Anforderungen, die Architektureigenschaften und Entwurfsmerkmale erfüllt oder nicht erfüllt. Der Verifikationsbericht sollte auch eine Bewertung der Verlässichkeit dieser Ergebnisse bzw. Erkenntnisse umfassen&quot;."/>
 </archimate:BusinessObject>

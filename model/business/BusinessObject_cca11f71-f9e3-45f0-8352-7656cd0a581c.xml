@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System requirements definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Strategie zur Definition der Systemanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Definition der Systemanforderungen umfasst die Vorgehensweisen, Zeitpläne,  Ressourcen und konkrete Überlegungen, um die Systemanforderungen zu erfassen, festzulegen und über den gesamten Lebenszyklus hinweg zu verwalten&quot;."/>
 </archimate:BusinessObject>

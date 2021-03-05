@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Transition record"/>
+  <properties
+      key="de_Name"
+      value="Übergabeprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Übergabeprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen und des Wissens bezogen auf die Übergabe&quot;."/>
 </archimate:BusinessObject>

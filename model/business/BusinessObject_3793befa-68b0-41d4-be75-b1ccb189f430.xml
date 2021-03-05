@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Validation report"/>
+  <properties
+      key="de_Name"
+      value="Validierungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Validierungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Validierungsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Validierung und den objektiven Nachweis der bestätigt, dass das System die Anforderungen von Stakeholdern und die geschäftlichen Anforderungen erfüllt oder nicht erfüllt. Der Validierungsbericht sollte auch eine Bewertung der Verlässlichkeit dieser Ergebnisse bzw. Ergenntnisse umfassen&quot;."/>
 </archimate:BusinessObject>

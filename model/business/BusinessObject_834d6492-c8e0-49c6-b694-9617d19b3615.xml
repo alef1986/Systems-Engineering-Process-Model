@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Implementation constraints"/>
+  <properties
+      key="de_Name"
+      value="Umsetzungsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die umsetzungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Umsetzungsstrategie ergeben, einschließlich Kosten, Zeitrahmen und technischen Einschränkungen&quot;."/>
 </archimate:BusinessObject>

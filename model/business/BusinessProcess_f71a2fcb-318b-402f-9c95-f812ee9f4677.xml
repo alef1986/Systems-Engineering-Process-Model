@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planen des Risikomanagements"
-    id="f71a2fcb-318b-402f-9c95-f812ee9f4677"/>
+    id="f71a2fcb-318b-402f-9c95-f812ee9f4677">
+  <properties
+      key="de_Name"
+      value="Planen des Risikomanagements"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

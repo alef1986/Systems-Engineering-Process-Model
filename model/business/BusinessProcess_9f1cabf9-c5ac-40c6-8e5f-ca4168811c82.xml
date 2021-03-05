@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertragliche Vereinbarungen treffen"
-    id="9f1cabf9-c5ac-40c6-8e5f-ca4168811c82"/>
+    id="9f1cabf9-c5ac-40c6-8e5f-ca4168811c82">
+  <properties
+      key="de_Name"
+      value="Vertragliche Vereinbarungen treffen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vorbereiten der Definition der Systemanforderungen"
-    id="03c991c0-e97c-4aa8-8f76-c4b3236a1315"/>
+    id="03c991c0-e97c-4aa8-8f76-c4b3236a1315">
+  <properties
+      key="de_Name"
+      value="Vorbereiten der Definition der Systemanforderungen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

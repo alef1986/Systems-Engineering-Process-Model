@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fähigkeiten entwickeln"
-    id="9e146a93-dd95-4b56-8915-40371fde9b91"/>
+    id="9e146a93-dd95-4b56-8915-40371fde9b91">
+  <properties
+      key="de_Name"
+      value="Fähigkeiten entwickeln"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

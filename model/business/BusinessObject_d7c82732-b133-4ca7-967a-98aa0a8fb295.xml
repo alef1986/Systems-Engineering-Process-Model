@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Implementation record"/>
+  <properties
+      key="de_Name"
+      value="Umsetzungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Umsetzungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Umsetzung&quot;."/>
 </archimate:BusinessObject>

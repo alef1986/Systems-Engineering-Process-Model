@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Stakeholder needs and requirements definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Strategie zur Definition der Stakeholder-Bedarfe und -Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Definition de Stakeholder-Bedarfe und -Anforderungen umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Einigkeit zwischen den Stakeholder-Klassen über einen Katalog von angemessenen Anforderungen zu erzielen. Beinhaltet den Ansatz zur Aufnahme der Stakeholder-Bedarfe, zur Überführung in Stakeholder-Anforderungen und zur Verwaltung dieser über den gesamten Lebenszyklus hinweg&quot;."/>
 </archimate:BusinessObject>

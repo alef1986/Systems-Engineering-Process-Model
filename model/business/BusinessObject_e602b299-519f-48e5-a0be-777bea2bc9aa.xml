@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verification enabling system requirements"/>
+  <properties
+      key="de_Name"
+      value="Anforderungen an die verifikationsunterstützenden Systeme"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Anforderungen an die verifikationsunterstützenden Systeme umfassen die Anforderungen an alle Systeme, die die Verifikation des Zielsystems ermöglichen.&quot;"/>
 </archimate:BusinessObject>

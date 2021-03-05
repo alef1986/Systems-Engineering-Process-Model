@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System architecture description"/>
+  <properties
+      key="de_Name"
+      value="Beschreibung der Systemarchitektur"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Beschreibung der Systemarchitektur ist eine Darstellung der ausgewählten Systemarchitektur. Sie umfasst in der Regel einen katalog architektonischer Sichten (z. B. Sichten aus Architektur-Rahmenwerken), Modelle (z. B. logische und physische Modelle, sowie andere Arten von Modellen, die nützlich sein könnten) und architektonischen Besonderheiten (z. B. Abmessungen, Wiederstandfähigkeit gegenüber Umwelteinflüssen, Ausführungseffizienz, Bedienbarkeit, Zuverlässigkeit, Wartbarkeit, Modularität, Robustheit, Sicherungs- und Schutzmaßnahmen, Verständlichkeit) (ISO/IEC/IEEE 42010, 2010). Die architektonisch bedeutenden Systemelemente sind in der Beschreibung der Systemarchitektur enthalten und bis zu einem gewissen Detaillierungsgrad beschrieben. (Weitere Systemelemente müssen möglicherweise während des Entwurfsprozesses ergänzt werden, wenn der Entwurf weiter ausgearbeitet wird).&quot;"/>
 </archimate:BusinessObject>

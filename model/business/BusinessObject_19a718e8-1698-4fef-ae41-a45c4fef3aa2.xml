@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Disposal report"/>
+  <properties
+      key="de_Name"
+      value="Entsorgungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Entsorgungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und die Ergebnisse der Entsorgungsaktivitäten zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Dazu kann folgendes gehören: ein Verzeichnis der Systemelemente, die wiederverwendet oder eingelagert werden, sowie die Dokumentation oder Berichte, die von Vorschriften oder Normen des Unternehmens gefordert werden.&quot;"/>
 </archimate:BusinessObject>

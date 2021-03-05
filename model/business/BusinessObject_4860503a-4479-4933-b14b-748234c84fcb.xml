@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Installed system"/>
+  <properties
+      key="de_Name"
+      value="installiertes System"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein installiertes System ist ein für die Validierung bereitstehendes, installiertes System&quot;."/>
 </archimate:BusinessObject>

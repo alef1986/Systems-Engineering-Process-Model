@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System analysis strategy"/>
+  <properties
+      key="de_Name"
+      value="Systemanalysestrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Systemanalysestrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die vielfältigen anstehenden Analysen durchzuführen. Schließt Betrachtungen zu Methoden, Verfahren, Bewertungskriterien und Parameter mit ein&quot;."/>
 </archimate:BusinessObject>

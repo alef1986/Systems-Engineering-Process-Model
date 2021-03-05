@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planen der Qualitätssicherung"
-    id="32a0644c-ea0f-4d6a-8336-eeab662d7a60"/>
+    id="32a0644c-ea0f-4d6a-8336-eeab662d7a60">
+  <properties
+      key="de_Name"
+      value="Planen der Qualitätssicherung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

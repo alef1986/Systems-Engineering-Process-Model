@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project portfolio"/>
+  <properties
+      key="de_Name"
+      value="Projektportfolio"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Projektportfolio umfasst die notwendigen Informationen über alle Projekte einer Organisation. Dazu zählt das Aufsetzen neuer Projekte ebenso wie das Einrichten von Ansätzen zum Produktrichtlinienmanagement. Das Projektportfolio enthält die Projektziele, die Ressourcen, das identifizierte und den Projekten zugeordnete Budge sowie klar definierte Verantwortlichkeiten und Weisungsbefugnisse zum Projektmanagement&quot;."/>
 </archimate:BusinessObject>

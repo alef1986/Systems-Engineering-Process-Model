@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verification procedure"/>
+  <properties
+      key="de_Name"
+      value="Verifikationsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Verifikationsverfahren umfasst eine Reihe von Aktivitäten zur Verifikation eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;."/>
 </archimate:BusinessObject>

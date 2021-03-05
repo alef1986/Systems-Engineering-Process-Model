@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastruktur der Organisation"
-    id="236b6c55-2f18-41a3-90b8-47d2081986dd"/>
+    id="236b6c55-2f18-41a3-90b8-47d2081986dd"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Infrastruktur der Organisation umfasst alle Ressourcen und Dienstleistungen, die die Organisation unterstützen. Das sind Einrichtungen auf Organisationsebene, Personal und Ressourcen für die Hardwarefertigung, die Softwareentwicklung, die Systemimplementierung und die Integration, Verifikation, Validierung etc.">
+  <properties
+      key="en_Name"
+      value="Organization infrastructure"/>
+  <properties
+      key="de_Name"
+      value="Infrastruktur der Organisation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Infrastruktur der Organisation umfasst alle Ressourcen und Dienstleistungen, die die Organisation unterstützen. Das sind Einrichtungen auf Organisationsebene, Personal und Ressourcen für die Hardwarefertigung, die Softwareentwicklung, die Systemimplementierung und die Integration, Verifikation, Validierung etc."/>
+</archimate:BusinessObject>

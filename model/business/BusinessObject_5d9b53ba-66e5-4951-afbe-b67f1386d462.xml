@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Procedures"/>
+  <properties
+      key="de_Name"
+      value="Verfahren (???)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Verfahren sind besondere Vorgehensweisen in allen anwendbaren Lebenszyklusprozesse. Sie umfassen Verfahren zur Integration, zur Verifikation, zur Installation, zur Validierung, zur Wartung und zur Entsorgung&quot;."/>
 </archimate:BusinessObject>

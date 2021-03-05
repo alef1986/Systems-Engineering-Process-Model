@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Information management record"/>
+  <properties
+      key="de_Name"
+      value="Informationsmanagementprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Informationsmanagement-Protokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Informationsmanagement&quot;."/>
 </archimate:BusinessObject>

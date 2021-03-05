@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Concept of operations, ConOps"/>
+  <properties
+      key="de_Name"
+      value="Vorgehenskonzept (ConOps)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Vorgehenskonzept (ConOps) ist eine verbale oder auch graphische Beschreibung für die Organisationsleitung. Es beschreibt die Annahmen bzw. Absichten in Bezug auf einen Vorgang oder eine Serie von Vorgängen im Rahmen des Vorhabens, um alle neuen Fähigkeiten mit einzubeziehen. (ANSI/AIAA, 2012; ISO/IEC/IEEE 29148, 2011)&quot;"/>
 </archimate:BusinessObject>

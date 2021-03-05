@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten der ermittelten Bedarfe und Anforderungen der Stakeholder"
-    id="fc6d51cc-0388-4a6e-bc15-d4d93b366fe7"/>
+    id="fc6d51cc-0388-4a6e-bc15-d4d93b366fe7">
+  <properties
+      key="de_Name"
+      value="Verwalten der ermittelten Bedarfe und Anforderungen der Stakeholder"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

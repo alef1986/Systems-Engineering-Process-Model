@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Stakeholder needs"/>
+  <properties
+      key="de_Name"
+      value="Stakeholder-Bedarfe"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Stakeholder-Bedarfe sind Bedarfe, die sich aus der Kommunikation mit externen und internen Stakeholdern ergeben. Sie dienen zum Verständnis der Erwartungen, Bedarfe, Anforderungen, Werte, Probleme, Fragen, sowie wahrgenommenen Risiken und Chancen der Stakeholder&quot;."/>
 </archimate:BusinessObject>

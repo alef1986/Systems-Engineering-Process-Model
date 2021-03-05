@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zulieferungsstrategie"
-    id="df3d31fd-b3cb-4007-9ca1-354133b061d4"/>
+    id="df3d31fd-b3cb-4007-9ca1-354133b061d4"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Zulieferungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Projekte zu identifizieren, die möglicherweise Steuerung benötigen. Kann auch Eingaben beinhalten, um lieferungsbedingte Einschränkungen festzulegen. Sollte auch die Identifikation von möglichen Kunden beinhalten.">
+  <properties
+      key="en_Name"
+      value="Supply strategy"/>
+  <properties
+      key="de_Name"
+      value="Zulieferungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Zulieferungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Projekte zu identifizieren, die möglicherweise Steuerung benötigen. Kann auch Eingaben beinhalten, um lieferungsbedingte Einschränkungen festzulegen. Sollte auch die Identifikation von möglichen Kunden beinhalten."/>
+</archimate:BusinessObject>

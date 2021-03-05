@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&quot;Lessons Learned&quot; der Organisation"
-    id="a280619f-6ca3-444a-a328-b00ec0d68fba"/>
+    id="a280619f-6ca3-444a-a328-b00ec0d68fba"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lessons Learned&quot; der Organisation sind die Lehren und Erkenntnisse einer Organisation. Sie resultieren aus der Evaluierung oder Beobachtung von durchgeführten Korrekturmaßnahmen, die zu verbesserten Leistungen oder besseren Fähigkeit beigetragen haben. &quot;Lessons Learned&quot; können sich ebenfalls aus der Bewertung oder der Beobachtung eines positiven Ergebnisses ergeben, das keine anderen Korrekturmaßnahmen, sondern nur den Erhalt der positiven Maßnahmen erfordert.">
+  <properties
+      key="en_Name"
+      value="Organization lesson learned"/>
+  <properties
+      key="de_Name"
+      value="&quot;Lessons Learned&quot; der Organisation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lessons Learned&quot; der Organisation sind die Lehren und Erkenntnisse einer Organisation. Sie resultieren aus der Evaluierung oder Beobachtung von durchgeführten Korrekturmaßnahmen, die zu verbesserten Leistungen oder besseren Fähigkeit beigetragen haben. &quot;Lessons Learned&quot; können sich ebenfalls aus der Bewertung oder der Beobachtung eines positiven Ergebnisses ergeben, das keine anderen Korrekturmaßnahmen, sondern nur den Erhalt der positiven Maßnahmen erfordert."/>
+</archimate:BusinessObject>

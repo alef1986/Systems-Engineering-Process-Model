@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Trained operators and maintainers"/>
+  <properties
+      key="de_Name"
+      value="geschulte Betreiber und Instandhalter"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Geschulte Betreiber und Instandhalter sind für die Bedienung und Warung des Systems ausgebildete Menschen&quot;."/>
 </archimate:BusinessObject>

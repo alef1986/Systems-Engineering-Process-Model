@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System design description"/>
+  <properties
+      key="de_Name"
+      value="Beschreibung des Systementwurfs"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Beschreibung des Systementwurfs ist eine Darstellung des ausgewählten Systementwurfs. Darin sind die Systemelemente identifiziert und definiert.&quot;"/>
 </archimate:BusinessObject>

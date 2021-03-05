@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Disposal procedure"/>
+  <properties
+      key="de_Name"
+      value="Entsorgungsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Entsorgungsverfahren umfasst eine Reihe von Aktivitäten zur Entsorgung eines Systems, die mittels spezieller Techniken und Hilfsmitteln dafür durchgeführt werden&quot;."/>
 </archimate:BusinessObject>

@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plan des Lebenszyklusmodell-Managements"
-    id="66ee15e1-3600-48d4-bc12-2be4b9977fec"/>
+    id="66ee15e1-3600-48d4-bc12-2be4b9977fec"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Plan des Lebenszyklusmodell-Managements umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um eine Reihe von organisationsbezogenen Lebenszyklusmodellen zu definieren.&#xD;&#xA;Der Plan umfasst die Identifikation von neuen Bedarfen und die Beurteilung der Wettbewerbfähigkeit aus Sicht de Strategie der Organisation, sowie Kriterien zu deren Bewertung und Freigabe bzw. Ablehnung.">
+  <properties
+      key="en_Name"
+      value="Life cycle model management plan"/>
+  <properties
+      key="de_Name"
+      value="Plan des Lebenszyklusmodell-Managements"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Plan des Lebenszyklusmodell-Managements umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um eine Reihe von organisationsbezogenen Lebenszyklusmodellen zu definieren.&#xD;&#xA;Der Plan umfasst die Identifikation von neuen Bedarfen und die Beurteilung der Wettbewerbfähigkeit aus Sicht de Strategie der Organisation, sowie Kriterien zu deren Bewertung und Freigabe bzw. Ablehnung."/>
+</archimate:BusinessObject>

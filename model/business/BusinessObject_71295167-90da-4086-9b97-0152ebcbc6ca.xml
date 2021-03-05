@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="TPM data"/>
+  <properties
+      key="de_Name"
+      value="technische Leistungsmessdaten"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die technischen Leistungsmessdaten sind die für die identifizierten Messbedarfe bereitgestellten Daten&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Stakeholder requirements traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Stakeholder-Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Stakeholde-Anforderungen bedeutet immer bidirektionale Nachverfolgbarkeit der Stakeholder-Anforderungen&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Measurement data"/>
+  <properties
+      key="de_Name"
+      value="Messdaten (???)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Messdaten stammen aus allen angewendeten Lebenszyklusprozessen, einschließlich der Daten von Wirksamkeitskennzahlen (MOE), von Leistungskennzahlen (MOP), von technischen Leistungskennzahlen (TPM), zur Leistung des Projekts und der Prozesse der Organisation&quot;."/>
 </archimate:BusinessObject>

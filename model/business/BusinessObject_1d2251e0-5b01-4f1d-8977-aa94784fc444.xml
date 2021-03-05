@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Richtlinien, Verfahren und Mittel der Organisation"
-    id="1d2251e0-5b01-4f1d-8977-aa94784fc444"/>
+    id="1d2251e0-5b01-4f1d-8977-aa94784fc444"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Richtlinien, Verfahren und Mittel der Organisation umfassen alle Dinge, die im Unternehmen standardmäßig mit den Lebenszyklusprozessen zusammenhängen, einschließlich der Vorgaben und Berichtsmechanismen. Dazu zählen Richtlinien zu den Prozessen der ORganisation in Form von Vorschriften, Verfahren und Mitteln für die Anwendung der System-Lebenszyklusprozesse und deren Anpassung, um den Bedarfen von einzelnen Projekte gerecht zu werden (zum Beispiel Vorlagen, Checklisten, Formulare). Sie umfassen auch die Festlegung von Zuständigkeiten, Verantwortung und Berechtigung für alle SE Prozesse innerhalb der Organisation.">
+  <properties
+      key="en_Name"
+      value="Organizational policies, procedures, and assets"/>
+  <properties
+      key="de_Name"
+      value="Richtlinien, Verfahren und Mittel der Organisation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Richtlinien, Verfahren und Mittel der Organisation umfassen alle Dinge, die im Unternehmen standardmäßig mit den Lebenszyklusprozessen zusammenhängen, einschließlich der Vorgaben und Berichtsmechanismen. Dazu zählen Richtlinien zu den Prozessen der ORganisation in Form von Vorschriften, Verfahren und Mitteln für die Anwendung der System-Lebenszyklusprozesse und deren Anpassung, um den Bedarfen von einzelnen Projekte gerecht zu werden (zum Beispiel Vorlagen, Checklisten, Formulare). Sie umfassen auch die Festlegung von Zuständigkeiten, Verantwortung und Berechtigung für alle SE Prozesse innerhalb der Organisation."/>
+</archimate:BusinessObject>

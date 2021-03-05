@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entscheidungsmanagement"
     id="9261e84f-49e1-46f8-86ee-ed7fdb1ca83a"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.3.1] Der Zweck des Prozesses &quot;Entscheidungsmanagement&quot; ist, einen strukturierten, analytischen Rahmen für Entscheidungnen bereitzustellen. Innerhalb dieses Rahmens können zu jedem Zeitpunkt des Lebenszyklus Alternativen für eine Entscheidung objektiv identifiziert, charakterisiert und ausgewertet werden und die vorteilhafteste Vorgehensweise ausgewählt werden&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.3.1] Der Zweck des Prozesses &quot;Entscheidungsmanagement&quot; ist, einen strukturierten, analytischen Rahmen für Entscheidungnen bereitzustellen. Innerhalb dieses Rahmens können zu jedem Zeitpunkt des Lebenszyklus Alternativen für eine Entscheidung objektiv identifiziert, charakterisiert und ausgewertet werden und die vorteilhafteste Vorgehensweise ausgewählt werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Decision management process"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungsmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.3.1] Der Zweck des Prozesses &quot;Entscheidungsmanagement&quot; ist, einen strukturierten, analytischen Rahmen für Entscheidungnen bereitzustellen. Innerhalb dieses Rahmens können zu jedem Zeitpunkt des Lebenszyklus Alternativen für eine Entscheidung objektiv identifiziert, charakterisiert und ausgewertet werden und die vorteilhafteste Vorgehensweise ausgewählt werden&quot;."/>
+</archimate:BusinessFunction>

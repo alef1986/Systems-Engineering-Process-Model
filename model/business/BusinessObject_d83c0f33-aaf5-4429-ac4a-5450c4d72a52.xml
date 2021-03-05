@@ -4,6 +4,12 @@
     id="d83c0f33-aaf5-4429-ac4a-5450c4d72a52"
     documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Leistungsmessungen umfasst die Leistungskennzahlen (MOPs) (Roedler und Jones, 2006), die die wichtigsten Leistungsmerkmale des Systems definieren, sobald es in seiner vorgesehenen Betriebsumgebung ist und verwendet wird.&quot;">
   <properties
-      key="English Name"
+      key="en_Name"
       value="MOP needs"/>
+  <properties
+      key="de_Name"
+      value="Bedarf an Leistungsmessungen (!!!)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Leistungsmessungen umfasst die Leistungskennzahlen (MOPs) (Roedler und Jones, 2006), die die wichtigsten Leistungsmerkmale des Systems definieren, sobald es in seiner vorgesehenen Betriebsumgebung ist und verwendet wird.&quot;"/>
 </archimate:BusinessObject>

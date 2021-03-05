@@ -2,8 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Anpassungsstrategie der Organisation"
     id="48c659a3-03a7-4bd3-9f1e-b5926eb3ce40"
-    documentation="Die Anpassungsstrategie der Organisation umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um neue oder aktualiserte externe Standards in den Katalog von Standard-Lebenszyklusmodell-Prozessen aufzunehmen.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Anpassungsstrategie der Organisation umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um neue oder aktualiserte externe Standards in den Katalog von Standard-Lebenszyklusmodell-Prozessen aufzunehmen.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Organization tailoring strategy"/>
+  <properties
+      key="de_Name"
+      value="Anpassungsstrategie der Organisation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Anpassungsstrategie der Organisation umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um neue oder aktualiserte externe Standards in den Katalog von Standard-Lebenszyklusmodell-Prozessen aufzunehmen."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Initial RVTM"/>
+  <properties
+      key="de_Name"
+      value="initiale RVTM"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die initiale RVTM ist eine erste Auflistung von Anforderungen, deren Verifikationsattributen sowie deren Verweise aufeinander&quot;."/>
 </archimate:BusinessObject>

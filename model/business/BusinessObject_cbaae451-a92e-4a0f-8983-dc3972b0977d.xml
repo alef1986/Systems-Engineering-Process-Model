@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Major stakeholder identification"/>
+  <properties
+      key="de_Name"
+      value="Identifikation der Haupt-Stakeholder"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Identifikation der Haupt-Stakeholder umfasst eine Liste der berechtigten externen und internen Stakeholder, die ein Interesse an dem System haben. Wichtige Stakeholder können auch aus dem Vorgehenskonzept (ConOps) abgeleitet werden&quot;."/>
 </archimate:BusinessObject>

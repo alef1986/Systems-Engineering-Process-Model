@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ausführen des Vertrages"
-    id="6beb8bb6-d9f7-437c-83d4-1848fb9cb337"/>
+    id="6beb8bb6-d9f7-437c-83d4-1848fb9cb337">
+  <properties
+      key="de_Name"
+      value="Ausführen des Vertrages"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

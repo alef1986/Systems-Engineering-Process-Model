@@ -4,6 +4,12 @@
     id="25206609-1075-4ce5-8d8f-d0463a796959"
     documentation="Der Beschaffungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Beschaffungsaktivitäten zu kommunizieren.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Acquisition report"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Der Beschaffungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Beschaffungsaktivitäten zu kommunizieren."/>
 </archimate:BusinessObject>

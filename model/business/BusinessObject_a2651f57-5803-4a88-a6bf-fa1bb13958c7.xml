@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project change requests"/>
+  <properties
+      key="de_Name"
+      value="Projektänderungsanträge"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Projektänderungsanträge sind die Anträge, festgelegte, formale Referenzkonfigurationen zu ändern. In vielen Fällen wird die Notwendigkeit eines Änderungsantrags während der Prozesse zur Projektbewertung und -steuerung erkannt. Änderungsanträge können aus jedem Lebenszyklusprozess resultieren&quot;."/>
 </archimate:BusinessObject>

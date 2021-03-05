@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verification record"/>
+  <properties
+      key="de_Name"
+      value="Verifikationsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Verifikationsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Verifikation&quot;."/>
 </archimate:BusinessObject>

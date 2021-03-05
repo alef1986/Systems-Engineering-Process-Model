@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Operation record"/>
+  <properties
+      key="de_Name"
+      value="Betriebsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Betriebsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder Wissens bezogen auf den Betrieb.&quot;"/>
 </archimate:BusinessObject>

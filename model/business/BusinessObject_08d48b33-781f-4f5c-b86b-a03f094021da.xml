@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personalmanagementbericht"
-    id="08d48b33-781f-4f5c-b86b-a03f094021da"/>
+    id="08d48b33-781f-4f5c-b86b-a03f094021da"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Personalmanagementbericht ist in für Beteiligte erstellter Bericht, um den Stand, die Resultate und die Ergebnisse der Personalmanagementaktivitäten zu kommunizieren.">
+  <properties
+      key="en_Name"
+      value="Human resource management report"/>
+  <properties
+      key="de_Name"
+      value="Personalmanagementbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Personalmanagementbericht ist in für Beteiligte erstellter Bericht, um den Stand, die Resultate und die Ergebnisse der Personalmanagementaktivitäten zu kommunizieren."/>
+</archimate:BusinessObject>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Umsetzung"
     id="dd630d51-558b-4ccc-9091-5f0822ff4d02"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.7.1] Der Zweck des Prozesses &quot;Umsetzung&quot; ist die Realisierung eines spezifiziertes Systemelements&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.7.1] Der Zweck des Prozesses &quot;Umsetzung&quot; ist die Realisierung eines spezifiziertes Systemelements&quot;.">
+  <properties
+      key="en_Name"
+      value="Implementation process"/>
+  <properties
+      key="de_Name"
+      value="Umsetzung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.7.1] Der Zweck des Prozesses &quot;Umsetzung&quot; ist die Realisierung eines spezifiziertes Systemelements&quot;."/>
+</archimate:BusinessFunction>

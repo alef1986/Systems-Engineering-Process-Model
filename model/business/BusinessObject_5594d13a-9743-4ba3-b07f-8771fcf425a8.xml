@@ -4,6 +4,12 @@
     id="5594d13a-9743-4ba3-b07f-8771fcf425a8"
     documentation="Die Beschaffungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Systemelemente zu beschaffen. Sie kann auch Eingaben beinhalten, um beschaffungsbedingte Einschränkungen des Systems festzulegen.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Acquisition strategy"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Die Beschaffungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Systemelemente zu beschaffen. Sie kann auch Eingaben beinhalten, um beschaffungsbedingte Einschränkungen des Systems festzulegen."/>
 </archimate:BusinessObject>

@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wissensmanagementbericht"
-    id="df0fca67-d83d-4612-8d24-f441ad59b7b5"/>
+    id="df0fca67-d83d-4612-8d24-f441ad59b7b5"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Wissensmanagementbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Wissensmanagementaktivitäten zu kommunizieren.">
+  <properties
+      key="en_Name"
+      value="Knowledge management report"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagementbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Wissensmanagementbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Wissensmanagementaktivitäten zu kommunizieren."/>
+</archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="alternative solution classes"/>
+  <properties
+      key="de_Name"
+      value="alternative Lösungsrahmen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der alternative Lösungsrahmen erfasst und beschreibt den Rahmen der möglichen Lösungen für ein Problem oder für die Nutzung einer Möglichkeit&quot;."/>
 </archimate:BusinessObject>

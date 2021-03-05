@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project schedule"/>
+  <properties
+      key="de_Name"
+      value="Projektzeitplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Projektzeitplan des Projekts ist eine verknüpfte Liste der meilensteine, Aktivitäten und Ergebnisse mit geplanten Start- und Endtermine.&#xD;&#xA;Er kann einen übergeordneten Meilensteinplan sowie mehrere Ebenen von Zeitplänen mit steigendem Detaillierungsgrad und Aufgabenbeschreibungen mit Abnahmekriterien und berechtigungen enthalten&quot;."/>
 </archimate:BusinessObject>

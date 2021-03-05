@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Implementation traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Umsetzung"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Umsetzung umfasst die bidirektionale Rückverfolgbarkeit der Ergebnisse der Umsetzung&quot;."/>
 </archimate:BusinessObject>

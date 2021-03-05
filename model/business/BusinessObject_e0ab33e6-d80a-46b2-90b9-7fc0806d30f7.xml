@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Reports"/>
+  <properties
+      key="de_Name"
+      value="Berichte (???)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Berichte sind Darstellungen aus allen anwendbaren Lebenszyklusprozessen. Sie umfassen Berichte zu System-Analyse, Umsetzung, Integration, Verifikation, Übergaben, Validierung, Betrieb, Wartung, Entsorgung, Entscheidungen, Risiken, Konfigurationsmanagement, Informationsmanagement, Messungen, Qualitätssicherung, Beschaffungen, Zulieferungen. (Informationen zu anderen Berichten und werden nicht hier aufgeführt)&quot;."/>
 </archimate:BusinessObject>

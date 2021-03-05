@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastrukturmanagementplan"
-    id="ea203d98-af14-445a-b44a-3471e0c88710"/>
+    id="ea203d98-af14-445a-b44a-3471e0c88710"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Infrastrukturmanagement-Plan enthält die lesbaren Aufzeichnungen der Daten, Informatonen oder des Wissens bezogen auf das Infrastrukturmanagement.">
+  <properties
+      key="en_Name"
+      value="Infrastructure management plan"/>
+  <properties
+      key="de_Name"
+      value="Infrastrukturmanagementplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Infrastrukturmanagement-Plan enthält die lesbaren Aufzeichnungen der Daten, Informatonen oder des Wissens bezogen auf das Infrastrukturmanagement."/>
+</archimate:BusinessObject>

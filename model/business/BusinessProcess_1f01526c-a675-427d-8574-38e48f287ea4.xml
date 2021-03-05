@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Durchführen von Bewertungen der Produkte oder Dienstleistungen"
-    id="1f01526c-a675-427d-8574-38e48f287ea4"/>
+    id="1f01526c-a675-427d-8574-38e48f287ea4">
+  <properties
+      key="de_Name"
+      value="Durchführen von Bewertungen der Produkte oder Dienstleistungen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

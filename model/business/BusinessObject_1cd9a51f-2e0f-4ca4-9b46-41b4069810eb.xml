@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Integration procedure"/>
+  <properties
+      key="de_Name"
+      value="Integrationsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Integrationsverfahren umfasst eine Reihe von grundlegenden Aktivitäten zum Zusammenbau von Systemelementen zu grüßeren Einheiten eines Systems, unter Verwendung spezieller Techniken und Hilfsmitteln dafür&quot;."/>
 </archimate:BusinessObject>

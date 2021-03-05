@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Problem or opportunity statement"/>
+  <properties
+      key="de_Name"
+      value="Problem- oder Chancenfeststellung"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Problem- oder Chancenfeststellung umfasst die Beschreibung der Probleme oder der Chancen. Sie sollte aus der Strategie der Organisation abgeleitet werden und genügend Details darlegen, um Lücken oder die neue Funktion, die in Betracht gezogen werden, zu verstehen&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Disposed system"/>
+  <properties
+      key="de_Name"
+      value="entsorgtes System"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das entsorgte System ist das entsorgte, deaktivierte, zerlegte oder außer Betrieb genommene System.&quot;"/>
 </archimate:BusinessObject>

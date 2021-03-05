@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Durchführen der Konfigurationsüberprüfung"
-    id="ab7a7487-78d5-4d45-9bf0-74bb1b0355ce"/>
+    id="ab7a7487-78d5-4d45-9bf0-74bb1b0355ce">
+  <properties
+      key="de_Name"
+      value="Durchführen der Konfigurationsüberprüfung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

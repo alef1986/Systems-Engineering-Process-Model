@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bewerten des Qualitätsmanagements"
-    id="66e1f411-3f50-48a6-9516-7b1b2e39f824"/>
+    id="66e1f411-3f50-48a6-9516-7b1b2e39f824">
+  <properties
+      key="de_Name"
+      value="Bewerten des Qualitätsmanagements"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

@@ -4,6 +4,12 @@
     id="2a70644d-1bcc-4efa-9475-388f7c45d741"
     documentation="Ein Beschaffungsprotokoll enthält die die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Beschaffung.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Acquisition record"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Ein Beschaffungsprotokoll enthält die die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Beschaffung."/>
 </archimate:BusinessObject>

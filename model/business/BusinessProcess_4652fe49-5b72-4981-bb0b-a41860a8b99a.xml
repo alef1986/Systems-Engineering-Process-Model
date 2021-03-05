@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projekte auflösen"
-    id="4652fe49-5b72-4981-bb0b-a41860a8b99a"/>
+    id="4652fe49-5b72-4981-bb0b-a41860a8b99a">
+  <properties
+      key="de_Name"
+      value="Projekte auflösen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

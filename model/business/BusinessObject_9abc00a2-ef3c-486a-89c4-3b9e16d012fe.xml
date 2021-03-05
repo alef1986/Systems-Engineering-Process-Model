@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project human resources needs"/>
+  <properties
+      key="de_Name"
+      value="Personalbedarf des Projekts"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Personalbedarf des Projekts umfasst den im Projekt bestehende Bedarf an Personal, einschließlich der Verpflichtungen gegenüber externen Stakeholdern&quot;."/>
 </archimate:BusinessObject>

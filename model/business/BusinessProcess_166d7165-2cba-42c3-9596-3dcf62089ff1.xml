@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysieren von Risiken"
-    id="166d7165-2cba-42c3-9596-3dcf62089ff1"/>
+    id="166d7165-2cba-42c3-9596-3dcf62089ff1">
+  <properties
+      key="de_Name"
+      value="Analysieren von Risiken"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

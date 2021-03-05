@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Stakeholder requirements"/>
+  <properties
+      key="de_Name"
+      value="Stakeholder-Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Stakeholder-Anforderungen sind die Anforderungen verschiedener Stakeholder, die für das Projekt gelten werden. Sie umfassen die erforderlichen Fähigkeiten, Funktionen oder Dienstleistungen, Qualitätsstandards, Einschränkungen des Systems, Einschränkungen in Bezug auf Kosten und Zeit. Die Stakeholder-Anforderungen werden in der &quot;Spezifikation der Stakeholder-Anforderungen&quot; (Stakeholder Requirements Specifications, StRS) erfasst&quot;."/>
 </archimate:BusinessObject>

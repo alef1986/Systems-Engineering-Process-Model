@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Operator/maintainer training material"/>
+  <properties
+      key="de_Name"
+      value="Schulungsmaterial für Betreiber bzw. Instandhalter"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Schulungsmaterial für Betreiber bzw. Instandhalter umfasst alle Einrichtungen und Dokumentationen zu Schulungen&quot;."/>
 </archimate:BusinessObject>

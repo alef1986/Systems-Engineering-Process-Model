@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project tailoring strategy"/>
+  <properties
+      key="de_Name"
+      value="Projektanpassungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Projektanpassungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die Standard-Lebenszyklusprozesse einer Organisation im Rahmen eines Projekts anzupassen und einzuführen&quot;."/>
 </archimate:BusinessObject>

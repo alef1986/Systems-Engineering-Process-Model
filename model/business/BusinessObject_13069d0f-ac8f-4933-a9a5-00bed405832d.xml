@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Business requirements"/>
+  <properties
+      key="de_Name"
+      value="Geschäftsanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Geschäftsanforderungen sind die geschäftlichen Rahmenbedingungen innerhalb derer die Stakeholder Anforderungen definiert werden.&#xD;&#xA;Die Geschäftsanforderungen bestimmen das Projekt, einschließlich der Vertragsbedingungen, der Qualitätsstandards sowie der kosten- und zeitbezogenen Rahmenbedingungen. Sie können in einer &quot;Spezifikation der Geschäftsanforderungen&quot; (BRS, Busines Requirements Specification) erfasst werden, die von der Geschäftsleistung freigegeben wird.&#xD;&#xA;&#xD;&#xA;Hinweis: Geschäftsanforderungen werden im Produktlebenszyklus nicht immer formal erfasst&quot;."/>
 </archimate:BusinessObject>

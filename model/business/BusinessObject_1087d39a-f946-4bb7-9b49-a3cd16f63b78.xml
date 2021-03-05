@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Disposal strategy"/>
+  <properties
+      key="de_Name"
+      value="Entsorgungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entsorgungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um sicherzustellen, dass das System oder die Systemelemente deaktiviert, zerlegt bzw. außer Betrieb genommen wurden.&quot;"/>
 </archimate:BusinessObject>

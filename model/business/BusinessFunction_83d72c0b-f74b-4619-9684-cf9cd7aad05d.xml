@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätssicherung"
     id="83d72c0b-f74b-4619-9684-cf9cd7aad05d"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.8.1] Der Zweck des Prozesses &quot;Qualitätssicherung&quot; ist es, sicherzustellen, dass die Vorgaben des Organisationsprozesses &quot;Qualitätsmanagement&quot; wirkungsvoll auf das Projekt angewendet werden&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.8.1] Der Zweck des Prozesses &quot;Qualitätssicherung&quot; ist es, sicherzustellen, dass die Vorgaben des Organisationsprozesses &quot;Qualitätsmanagement&quot; wirkungsvoll auf das Projekt angewendet werden&quot;.">
+  <properties
+      key="en_Name"
+      value="Quality assurance process"/>
+  <properties
+      key="de_Name"
+      value="Qualitätssicherung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.8.1] Der Zweck des Prozesses &quot;Qualitätssicherung&quot; ist es, sicherzustellen, dass die Vorgaben des Organisationsprozesses &quot;Qualitätsmanagement&quot; wirkungsvoll auf das Projekt angewendet werden&quot;."/>
+</archimate:BusinessFunction>

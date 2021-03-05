@@ -5,5 +5,11 @@
     documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lebenszyklusmodelle umfassen ein oder mehrere für das Projekt geeignete Definitionen des Geschäfts- und andere Entscheidungskriterien in Bezug auf die Übergänge zwischen den Lebenszyklus abschnitten.&#xD;&#xA;Die Informationen und Artefakte dazu werden gesammelt und zur Verfügung gestellt, damit sie verwendet und wiederverwendet werden können&quot;.">
   <properties
       key="en_Name"
-      value="Life cycle concepts"/>
+      value="Life cycle models"/>
+  <properties
+      key="de_Name"
+      value="Lebenszyklusmodelle"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lebenszyklusmodelle umfassen ein oder mehrere für das Projekt geeignete Definitionen des Geschäfts- und andere Entscheidungskriterien in Bezug auf die Übergänge zwischen den Lebenszyklus abschnitten.&#xD;&#xA;Die Informationen und Artefakte dazu werden gesammelt und zur Verfügung gestellt, damit sie verwendet und wiederverwendet werden können&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project performance measures needs"/>
+  <properties
+      key="de_Name"
+      value="Bedarf an Projekt-Leistungskennzahlen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Projekt-Leistungskennzahlen umfasst die Projekt-Leistungskennzahlen, die messen, wie gut das Projekt seine Ziele erfüllt&quot;."/>
 </archimate:BusinessObject>

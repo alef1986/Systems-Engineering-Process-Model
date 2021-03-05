@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protokolle (???)"
-    id="16bc161f-4215-4437-b6e5-6821e736a9a3"/>
+    id="16bc161f-4215-4437-b6e5-6821e736a9a3"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Protokolle sind lesbare Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf alle gültigen Lebenszyklusprozesse. Sie umfassen Protokolle zur Geschäfts- oder Auftragsanalyse, zur Definition der Stakeholder-Bedarfe und -Anforderungen, zur Definition der Systemanforderungen, zur Architekturgestaltung, zum Entwurf, zur Systemanalyse, zur Umsetzung, zur Integration, zur Verifikation, zur Übergabe, zur Validierung, zum Betrieb, zur Wartung, zur Entsorgung, zur Projektplanung, zur Projektbewertung und -Steuerung, zu Entscheidungen, zu Risiken, zum Konfigurationsmanagement, zum Informationsmanagement, zu Messungen, zur Qualitätssicherung, zu Beschaffungen, zu Zulieferungen, zum Lebenszyklusmodell-Management, zum Infrastrukturmanagement, zum Portfoliomanagement, zum Personalmanagement, zum Qualitätsmanagement.">
+  <properties
+      key="en_Name"
+      value="Records"/>
+  <properties
+      key="de_Name"
+      value="Protokolle (???)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Protokolle sind lesbare Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf alle gültigen Lebenszyklusprozesse. Sie umfassen Protokolle zur Geschäfts- oder Auftragsanalyse, zur Definition der Stakeholder-Bedarfe und -Anforderungen, zur Definition der Systemanforderungen, zur Architekturgestaltung, zum Entwurf, zur Systemanalyse, zur Umsetzung, zur Integration, zur Verifikation, zur Übergabe, zur Validierung, zum Betrieb, zur Wartung, zur Entsorgung, zur Projektplanung, zur Projektbewertung und -Steuerung, zu Entscheidungen, zu Risiken, zum Konfigurationsmanagement, zum Informationsmanagement, zu Messungen, zur Qualitätssicherung, zu Beschaffungen, zu Zulieferungen, zum Lebenszyklusmodell-Management, zum Infrastrukturmanagement, zum Portfoliomanagement, zum Personalmanagement, zum Qualitätsmanagement."/>
+</archimate:BusinessObject>

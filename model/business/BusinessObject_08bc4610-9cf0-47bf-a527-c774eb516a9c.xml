@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Source documents"/>
+  <properties
+      key="de_Name"
+      value="Quelldokumente"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Quelldokumente sind externe Dokumente, die zu einer bestimmten Phase der Beschaffungen für das Zielsystem von Interesse sind. Dazu gehört auch die Abschrift von relevanten organisatorischen Strategien und Regelungen, die sich in den Quelldokumenten finden&quot;."/>
 </archimate:BusinessObject>

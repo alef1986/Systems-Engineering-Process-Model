@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Implementation strategy"/>
+  <properties
+      key="de_Name"
+      value="Umsetzungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Umsetzungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um Systemelemente umzusetzen, die mit den Systemanforderungen, der Architektur und dem Entwurf übereinstimmen&quot;."/>
 </archimate:BusinessObject>

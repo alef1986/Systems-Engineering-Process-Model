@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Architecture definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Architekturgestaltungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Architekturgestaltungsstrategue umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die Systemarchitektur festzulegen, die die Anforderungen erfüllt.&quot;"/>
 </archimate:BusinessObject>

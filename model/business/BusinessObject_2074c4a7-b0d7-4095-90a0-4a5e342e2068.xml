@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Preliminary TPM needs"/>
+  <properties
+      key="de_Name"
+      value="Bedarf an vorläufiger Messungen der technischen Leistungskennzahlen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an vorlöufiger Messung der technischen Leistungskennzahlen umfasst die vorläufigen technischen Leistungsmessdaten (TPM) (Roedler und Jones, 2006), die die Attribute eines System-Elements messen, um zu bestimmen, wie gut ein System oder Systemelement eine technische Anforderung oder ein Ziel erfüllt oder der entschprechenden Erwartung gerecht wird.&quot;"/>
 </archimate:BusinessObject>

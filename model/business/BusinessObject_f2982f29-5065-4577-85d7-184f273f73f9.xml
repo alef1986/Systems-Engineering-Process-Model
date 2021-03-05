@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Integration constraints"/>
+  <properties
+      key="de_Name"
+      value="integrationsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die integrationsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Integrationsstrategie ergeben, einschließlich der Kosten, des Zeitrahnems und technischen Einschränkungen&quot;."/>
 </archimate:BusinessObject>

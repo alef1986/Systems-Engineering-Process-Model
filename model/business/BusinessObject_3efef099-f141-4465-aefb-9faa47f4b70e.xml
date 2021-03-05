@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastrukturbedarfe der Organisation"
-    id="3efef099-f141-4465-aefb-9faa47f4b70e"/>
+    id="3efef099-f141-4465-aefb-9faa47f4b70e"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Infrastrukturbedarfe der Organisation umfassen die spezifischen Bedarfe an Produkten oder Dienstleistungen der Infrastruktur einer Organisation, einschließlich der Verpflichtungen gegenüber externen Stakeholder.">
+  <properties
+      key="en_Name"
+      value="Organizational infrastructure needs"/>
+  <properties
+      key="de_Name"
+      value="Infrastrukturbedarfe der Organisation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Infrastrukturbedarfe der Organisation umfassen die spezifischen Bedarfe an Produkten oder Dienstleistungen der Infrastruktur einer Organisation, einschließlich der Verpflichtungen gegenüber externen Stakeholder."/>
+</archimate:BusinessObject>

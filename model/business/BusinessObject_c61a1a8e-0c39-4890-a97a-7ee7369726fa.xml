@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Risk management strategy"/>
+  <properties
+      key="de_Name"
+      value="Risikomanagementstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Risikomanagementstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um das Risikomanagement im Rahmen eines Projekts durchzuführen&quot;."/>
 </archimate:BusinessObject>

@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysieren der Stakeholder-Anforderungen"
-    id="4b5db2e9-f33a-4fd9-beee-afb5f9c3c457"/>
+    id="4b5db2e9-f33a-4fd9-beee-afb5f9c3c457">
+  <properties
+      key="de_Name"
+      value="Analysieren der Stakeholder-Anforderungen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

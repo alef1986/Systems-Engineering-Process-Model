@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Measurement needs"/>
+  <properties
+      key="de_Name"
+      value="Bedarf an Messungen (???)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Messungen umfasst die von allen anwendbaren Lebenszyklusprozessen erforderlichen Bedarfe an Messungen, einschließlich der Bedarfe an Wirksamkeitskennzahlen (MOE), Leistungskennzahlen (MOP), technischen Leistungskennzahlen (TPM), Projektleistungskennzahlen und Leistungskennzahlen der Organisationsprozesse&quot;."/>
 </archimate:BusinessObject>

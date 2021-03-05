@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten der QS-Protokolle und -Berichte"
-    id="5317a75a-9c30-4ab6-a081-82032c592cfb"/>
+    id="5317a75a-9c30-4ab6-a081-82032c592cfb">
+  <properties
+      key="de_Name"
+      value="Verwalten der QS-Protokolle und -Berichte"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

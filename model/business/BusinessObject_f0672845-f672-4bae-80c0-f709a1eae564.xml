@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Preliminary validation criteria"/>
+  <properties
+      key="de_Name"
+      value="vorläufige Validierungskriterien"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufigen Validierungskriterien (zu untersuchende Kennzahlen) umfassen die Validierungsaktivitäten und auch das Validierungsumfeld des Zielsystems&quot;."/>
 </archimate:BusinessObject>

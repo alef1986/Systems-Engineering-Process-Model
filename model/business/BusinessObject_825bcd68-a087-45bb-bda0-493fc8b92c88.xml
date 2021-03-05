@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Qualified personnel"/>
+  <properties
+      key="de_Name"
+      value="qualifiziertes Personal"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;&quot;Die richtigen Leute mit den richtigen Fähigkeiten werden zum richtigen Zeitpunkt im Projekt eingesetzt&quot;&quot;."/>
 </archimate:BusinessObject>

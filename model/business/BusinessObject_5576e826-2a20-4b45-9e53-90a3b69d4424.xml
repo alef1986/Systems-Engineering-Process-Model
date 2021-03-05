@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wissensmanagementplan"
-    id="5576e826-2a20-4b45-9e53-90a3b69d4424"/>
+    id="5576e826-2a20-4b45-9e53-90a3b69d4424"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Wissensmanagementplan legt fest, wie die Organisation und die Projekte innerhalb der Organisation das richtige Maß an Wissen erfassen, damit sichergestellt ist, dass alle nützlichen Wissensressourcen zur Verfügung stehen.&#xD;&#xA;Er enthält:&#xD;&#xA;- eine Liste der zu berücksichtigenden Domänen,&#xD;&#xA;- Pläne für den Erhalt und die Pflege der Wissensressourcen im Rahmen ihrer Nutzungsdauer,&#xD;&#xA;- die Beschreibung der Arten von Wissensressourcen, die gesammelt und gepflegt werden sollen, zusammen mit einem für den Nutzer zweckdienlichen Klassifikationsschema,&#xD;&#xA;- Kriterien für die Annahme, die Qualifizierung und das Zurückziehen von Wissensressourcen,&#xD;&#xA;- Verfahren zur Steuerung von Änderungen an den Wissensressourcen und,&#xD;&#xA;- die Definition von Mechanismen zur Speicherung und zum Abrufen der Wissensressourcen.">
+  <properties
+      key="en_Name"
+      value="Knowledge management plan"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagementplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Wissensmanagementplan legt fest, wie die Organisation und die Projekte innerhalb der Organisation das richtige Maß an Wissen erfassen, damit sichergestellt ist, dass alle nützlichen Wissensressourcen zur Verfügung stehen.&#xD;&#xA;Er enthält:&#xD;&#xA;- eine Liste der zu berücksichtigenden Domänen,&#xD;&#xA;- Pläne für den Erhalt und die Pflege der Wissensressourcen im Rahmen ihrer Nutzungsdauer,&#xD;&#xA;- die Beschreibung der Arten von Wissensressourcen, die gesammelt und gepflegt werden sollen, zusammen mit einem für den Nutzer zweckdienlichen Klassifikationsschema,&#xD;&#xA;- Kriterien für die Annahme, die Qualifizierung und das Zurückziehen von Wissensressourcen,&#xD;&#xA;- Verfahren zur Steuerung von Änderungen an den Wissensressourcen und,&#xD;&#xA;- die Definition von Mechanismen zur Speicherung und zum Abrufen der Wissensressourcen."/>
+</archimate:BusinessObject>

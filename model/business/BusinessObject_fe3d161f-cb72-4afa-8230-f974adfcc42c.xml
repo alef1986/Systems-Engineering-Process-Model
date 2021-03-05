@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protokoll des Lebenszyklusmodell-Managements"
-    id="fe3d161f-cb72-4afa-8230-f974adfcc42c"/>
+    id="fe3d161f-cb72-4afa-8230-f974adfcc42c"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Protokoll des Lebenszyklusmodell-Management enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Lebenszyklusmodell-Management.">
+  <properties
+      key="en_Name"
+      value="Life cycle model management record"/>
+  <properties
+      key="de_Name"
+      value="Protokoll des Lebenszyklusmodell-Managements"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Protokoll des Lebenszyklusmodell-Management enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Lebenszyklusmodell-Management."/>
+</archimate:BusinessObject>

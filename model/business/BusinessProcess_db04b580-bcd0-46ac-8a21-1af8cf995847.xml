@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planen des Konfigurationsmanagements"
-    id="db04b580-bcd0-46ac-8a21-1af8cf995847"/>
+    id="db04b580-bcd0-46ac-8a21-1af8cf995847">
+  <properties
+      key="de_Name"
+      value="Planen des Konfigurationsmanagements"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

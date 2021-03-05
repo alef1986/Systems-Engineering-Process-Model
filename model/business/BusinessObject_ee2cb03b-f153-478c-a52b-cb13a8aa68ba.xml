@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Integrated system or system elements"/>
+  <properties
+      key="de_Name"
+      value="integriertes System oder Systemelement"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein integriertes System oder Systemelement ist ein für die Verifikation bereitstehendes, integriertes Systemelement oder System, bzw. das Ergebnis des Zusammenbaus der Systemelemente&quot;."/>
 </archimate:BusinessObject>

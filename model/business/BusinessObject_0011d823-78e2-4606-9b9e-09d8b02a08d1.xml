@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project lessons learned"/>
+  <properties
+      key="de_Name"
+      value="&quot;Lessons Learned&quot; des Projekts"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Lessons Learned&quot; des Projekts sind projektbezogene Lehren und Erkenntnisse. Sie sind das Ergebnisse einer Bewertung oder einer Beobachtung von durchgeführten Korrekturmaßnahmen, die zu verbesserten Leistung und zu erhöhter Leistungsfähigkeit beigetragen haben. &quot;Lessons Learned&quot; können sich ebenfalls aus der Bewertung oder Beobachtung eines positiven Ergebnisses ergeben, das keine anderen Korrekturmaßnahmen, sondern nur den Erhalt der positiven Maßnahmen erfordert (CJCS, 2012)&quot;."/>
 </archimate:BusinessObject>

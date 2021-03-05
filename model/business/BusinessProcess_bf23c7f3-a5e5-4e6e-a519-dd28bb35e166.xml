@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Festlegen und Autorisieren von Projekten"
-    id="bf23c7f3-a5e5-4e6e-a519-dd28bb35e166"/>
+    id="bf23c7f3-a5e5-4e6e-a519-dd28bb35e166">
+  <properties
+      key="de_Name"
+      value="Festlegen und Autorisieren von Projekten"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

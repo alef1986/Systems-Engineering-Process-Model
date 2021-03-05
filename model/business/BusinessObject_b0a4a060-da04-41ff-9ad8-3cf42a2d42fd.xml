@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Configuration baselines"/>
+  <properties
+      key="de_Name"
+      value="Referenzkonfigurationen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Referenzkonfigurationen sind archivierte Stände der tatsächlichen Konfigurationseinheiten zu einem bestimmten Zeitpunkt. Die erforderliche Dokumentation der Referenzkonfiguration wird rechtzeitig entwickelt und beschrieben, um die Entwicklung von Anforderungen, technische Überprüfungen, Beschaffungs- und Instandhaltungsstrategien sowie die Produktions zu unterstützen&quot;."/>
 </archimate:BusinessObject>

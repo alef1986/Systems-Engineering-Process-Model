@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten der Ergebnisse aus der Geschäfts- oder Auftragsanalyse"
-    id="b6d9f173-3056-44d2-ba0e-828ac87e9698"/>
+    id="b6d9f173-3056-44d2-ba0e-828ac87e9698">
+  <properties
+      key="de_Name"
+      value="Verwalten der Ergebnisse aus der Geschäfts- oder Auftragsanalyse"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

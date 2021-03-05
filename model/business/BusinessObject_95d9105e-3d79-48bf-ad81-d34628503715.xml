@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System architecture rationale"/>
+  <properties
+      key="de_Name"
+      value="Begründung der Systemarchitektur"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Begründung der Systemarchitektur ist die Erklärung für die Auswahl einer Architektur, die Auswahl der technologischen bzw. technischen Systemelemente und der Zuweisung der Systemanforderungen zu architektonischen Elementen (z. B. Funktionen, Eingabe- bzw. Ausgabeflüssen, Systemelementen, physikalischen Schnittstellen, architektonischen Besonderheiten, Informations- bzw. Datenelementen, Datenträger, Datenknoten, Verbindungen, Kommunikations-Ressourcen).&quot;"/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Measurement strategy"/>
+  <properties
+      key="de_Name"
+      value="Messstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Messstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um Messungen im Rahmen eines Projekts durchführen zu können. Die Messstrategie befasst sich mit dem Ansatz, wie eine Messung durchgeführt wird: sie beschreibt die Zielsetzung der Messung, identifiziert Infortmationsbedarfe und anwendbare Kennzahlen und legt Leistungs- und Auswertungsmethodiken fest&quot;."/>
 </archimate:BusinessObject>

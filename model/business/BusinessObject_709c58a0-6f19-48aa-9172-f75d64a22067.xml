@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project budget"/>
+  <properties
+      key="de_Name"
+      value="Projektbudget"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Projektbudget ist die Prognose der Kosten eines bestimmten Projekts. Es enthält die arbeitsleistungen, die Infrastruktur, die Beschaffungen und Kosten für unsterstützende Systeme, einschließlich der Reserven für das Risikomanagement&quot;."/>
 </archimate:BusinessObject>

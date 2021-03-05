@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Measurement record"/>
+  <properties
+      key="de_Name"
+      value="Messprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Messprotokoll enthält lesbaren Aufzeichnunge der Daten, Informationen oder des Wissens bezogen auf die Messung&quot;."/>
 </archimate:BusinessObject>

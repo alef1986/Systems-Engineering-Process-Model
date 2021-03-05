@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System requirements definition record"/>
+  <properties
+      key="de_Name"
+      value="Protokoll zur Definition der Systemanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Definition der Systemanforderungen enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Definition der Systemanforderungen&quot;."/>
 </archimate:BusinessObject>

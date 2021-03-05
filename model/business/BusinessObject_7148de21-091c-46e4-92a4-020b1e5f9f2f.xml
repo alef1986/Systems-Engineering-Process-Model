@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Configuration management strategy"/>
+  <properties
+      key="de_Name"
+      value="Konfigurationsmanagementstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Konfigurationsmanagementstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um Konfigurationsmanagement im Rahmen eines Projekts durchzuführen. Die Konfigurationsmanagementstrategie beschreibt und dokumentiert wie genehmigte Änderungen an gültigen Referenzkonfigurationen einheitlich und kontrolliert durchgeführt werden&quot;."/>
 </archimate:BusinessObject>

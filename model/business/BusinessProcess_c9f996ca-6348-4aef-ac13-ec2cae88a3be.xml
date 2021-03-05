@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vorbereiten der Zulieferung"
-    id="c9f996ca-6348-4aef-ac13-ec2cae88a3be"/>
+    id="c9f996ca-6348-4aef-ac13-ec2cae88a3be">
+  <properties
+      key="de_Name"
+      value="Vorbereiten der Zulieferung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

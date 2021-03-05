@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personalmanagementplan"
-    id="00c40702-c455-4cc7-b4e7-7e7ff622ac25"/>
+    id="00c40702-c455-4cc7-b4e7-7e7ff622ac25"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Personalmanagementplan umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die in der Organisation bzw. den Projekten notwendigen Qualifikationen zu identifizieren. Der Personalmanagementplan umfasst den Trainingsplan der Organisation und die Beauftragung von externem Personal.">
+  <properties
+      key="en_Name"
+      value="Human resource management plan"/>
+  <properties
+      key="de_Name"
+      value="Personalmanagementplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Personalmanagementplan umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die in der Organisation bzw. den Projekten notwendigen Qualifikationen zu identifizieren. Der Personalmanagementplan umfasst den Trainingsplan der Organisation und die Beauftragung von externem Personal."/>
+</archimate:BusinessObject>

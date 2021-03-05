@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vorbereiten der Definition der Bedarfe und Anforerungen der Stakeholder"
-    id="de4548fd-b8ed-4b09-8630-4f2e243b77c4"/>
+    id="de4548fd-b8ed-4b09-8630-4f2e243b77c4">
+  <properties
+      key="de_Name"
+      value="Vorbereiten der Definition der Bedarfe und Anforerungen der Stakeholder"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

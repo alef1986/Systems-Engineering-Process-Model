@@ -2,8 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bezahlung der Lieferung"
     id="d530c08e-86c5-4ed4-9493-8d1f6a253e42"
-    documentation="Die Bezahlung der Lieferung umfasst alle Zahlungen oder andere Entschädigungen für das gelieferte System. Sie beinhaltet sowohl das Entgegennahme, als auch die Bestätigung der Bezahlung.">
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Bezahlung der Lieferung umfasst alle Zahlungen oder andere Entschädigungen für das gelieferte System. Sie beinhaltet sowohl das Entgegennahme, als auch die Bestätigung der Bezahlung.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Supply payment"/>
+  <properties
+      key="de_Name"
+      value="Bezahlung der Lieferung"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Bezahlung der Lieferung umfasst alle Zahlungen oder andere Entschädigungen für das gelieferte System. Sie beinhaltet sowohl das Entgegennahme, als auch die Bestätigung der Bezahlung."/>
 </archimate:BusinessObject>

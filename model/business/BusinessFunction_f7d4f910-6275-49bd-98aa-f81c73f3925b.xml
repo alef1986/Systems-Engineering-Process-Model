@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Übergabe"
     id="f7d4f910-6275-49bd-98aa-f81c73f3925b"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.10.1] Der Zweck des Prozesses &quot;Übergabe&quot; besteht darin, ein System zu befähigen, die in den Stakeholder-Anforderungen spezifizierten Dienste in der Betriebsumgebung zu erbringen&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.10.1] Der Zweck des Prozesses &quot;Übergabe&quot; besteht darin, ein System zu befähigen, die in den Stakeholder-Anforderungen spezifizierten Dienste in der Betriebsumgebung zu erbringen&quot;.">
+  <properties
+      key="en_Name"
+      value="Transition process"/>
+  <properties
+      key="de_Name"
+      value="Übergabe"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.10.1] Der Zweck des Prozesses &quot;Übergabe&quot; besteht darin, ein System zu befähigen, die in den Stakeholder-Anforderungen spezifizierten Dienste in der Betriebsumgebung zu erbringen&quot;."/>
+</archimate:BusinessFunction>

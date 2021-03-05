@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architekturgestaltung"
     id="491183c1-dd93-428b-a1aa-e8ba4bd51c57"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.4.1] Der Zweck des Prozesses &quot;Architekturgestaltung&quot; besteht darin, alternative Systemarchitekturen zu entwickeln, eine oder mehrere Alternativen auszuwählen, die den Stakeholder-Anliegen entsprechen sowie die Systemanforderungen erfüllen und dies in einer Reihe konsistenter Ansichten darzustellen&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.4.1] Der Zweck des Prozesses &quot;Architekturgestaltung&quot; besteht darin, alternative Systemarchitekturen zu entwickeln, eine oder mehrere Alternativen auszuwählen, die den Stakeholder-Anliegen entsprechen sowie die Systemanforderungen erfüllen und dies in einer Reihe konsistenter Ansichten darzustellen&quot;.">
+  <properties
+      key="en_Name"
+      value="Architecture denition process"/>
+  <properties
+      key="de_Name"
+      value="Architekturgestaltung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.4.1] Der Zweck des Prozesses &quot;Architekturgestaltung&quot; besteht darin, alternative Systemarchitekturen zu entwickeln, eine oder mehrere Alternativen auszuwählen, die den Stakeholder-Anliegen entsprechen sowie die Systemanforderungen erfüllen und dies in einer Reihe konsistenter Ansichten darzustellen&quot;."/>
+</archimate:BusinessFunction>

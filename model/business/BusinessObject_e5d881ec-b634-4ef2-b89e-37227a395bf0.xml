@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Business or mission analysis strategy"/>
+  <properties
+      key="de_Name"
+      value="Strategie der Geschäfts- oder Auftragsanalyse"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie der Geschäfts- oder Auftragsanalyse umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die Geschäfts- oder Auftragsanalyse durchzuführen und um sischerzustellen, dass die Geschäftsbedarfe ausgearbeitet und in Form von Geschäftsanforderungen vorliegen&quot;."/>
 </archimate:BusinessObject>

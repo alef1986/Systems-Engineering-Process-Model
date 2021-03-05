@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Treffen und Verwalten von Entscheidungen"
-    id="9d59a4c2-13ed-4ef0-9c38-6f411feb1468"/>
+    id="9d59a4c2-13ed-4ef0-9c38-6f411feb1468">
+  <properties
+      key="de_Name"
+      value="Treffen und Verwalten von Entscheidungen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Auswerten von Projektportfolios"
-    id="720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d"/>
+    id="720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d">
+  <properties
+      key="de_Name"
+      value="Auswerten von Projektportfolios"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

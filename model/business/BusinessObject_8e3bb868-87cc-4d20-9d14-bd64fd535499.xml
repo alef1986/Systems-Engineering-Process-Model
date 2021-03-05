@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Preliminary interface definition"/>
+  <properties
+      key="de_Name"
+      value="vorläufige Schnittstellendefinition"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die vorläufige Schnittstellendefinition umfasst die vorläufigen logischen und physischen Aspekte zu internen Schnittstellen (zwischen den Systemelementen, aus denen das System besteht) und externen Schnittstellen (zwischen den System-Elementen des Systems und den Elementen außerhalb des Zielsystems)&quot;."/>
 </archimate:BusinessObject>

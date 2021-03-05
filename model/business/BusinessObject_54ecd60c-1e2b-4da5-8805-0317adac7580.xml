@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Decision situation"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungssituation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Entscheidungssituationen umfassen Entscheidungen in Bezug auf die Entscheidungspunkte in einem vereinbarten Zeitplan. Andere Wünsche in Bezug auf eine Entscheidung können von beliebigen Stakeholdern kommen und erste Informationen oftmals nun wenig mehr, als grobe Aussagen zur Situation. Entscheidungssituationen können in jedem Lebenszyklusprozess auftreten&quot;."/>
 </archimate:BusinessObject>

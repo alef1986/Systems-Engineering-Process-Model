@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Candidate configuration items"/>
+  <properties
+      key="de_Name"
+      value="mögliche Konfigurationseinheiten"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Konfigurationseinheiten sind alle Einheiten, die unter Konfigurationskontrolle gestellt werden sollen. Sie können in jedem Lebenszyklusprozess entstehen&quot;."/>
 </archimate:BusinessObject>

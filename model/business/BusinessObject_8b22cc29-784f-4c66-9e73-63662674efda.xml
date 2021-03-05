@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Acquisition need"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsbedarf"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Beschaffungsbedarf umfasst das Erkennen eines Bedarfes, der nicht innerhalb der Organisation, die den Bedarf hat, befriedigt oder kostengünstiger durch einen Zulieferer gedeckt werden kann&quot;."/>
 </archimate:BusinessObject>

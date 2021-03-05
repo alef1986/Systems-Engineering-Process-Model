@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planen der Projektbewertung und -steuerung"
-    id="7c7d2a1a-15a4-49e2-94e6-adb37030597e"/>
+    id="7c7d2a1a-15a4-49e2-94e6-adb37030597e">
+  <properties
+      key="de_Name"
+      value="Planen der Projektbewertung und -steuerung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

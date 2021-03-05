@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eingehen und Pflegen einer vertraglichen Vereinbarung"
-    id="171dcbc7-ce35-4191-8577-8e6eb90fcbfc"/>
+    id="171dcbc7-ce35-4191-8577-8e6eb90fcbfc">
+  <properties
+      key="de_Name"
+      value="Eingehen und Pflegen einer vertraglichen Vereinbarung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

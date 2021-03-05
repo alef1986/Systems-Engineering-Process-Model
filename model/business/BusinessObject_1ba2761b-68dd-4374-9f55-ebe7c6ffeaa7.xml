@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Decision report"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Entscheidungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Aktivitäten des Entscheidungsmanagements zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Er sollte eine Empfehlung für die weitere Vorgehensweise sowie einen damit verbundenen Umsetzungsplan und die gewonnenen, zentralen Erkenntnisse beinhalten. Diese sollten durch wirksame Visualisierungen des Handlungsraumes gewonnen und durch nicht-widerlegbare, wiederholbare und rückverfolgbare Analyseergebnisse gestützt werden.&#xD;&#xA;&#xD;&#xA;Entscheidungsträger möchten die grundlegenden Ursachen von übergeordneten Überlegungen verstehen und sich ihr eigenes Verständnis zu Vergleichsstudien bilden. Daher ist es von Vorteil wenn der Bericht so aufgebaut ist, dass er einfach verständlich von den übergeordneten Visualisierungen des Handlungsspielraumes bis in die detaillierten Analysen, die die Synthese stützen, führt&quot;."/>
 </archimate:BusinessObject>

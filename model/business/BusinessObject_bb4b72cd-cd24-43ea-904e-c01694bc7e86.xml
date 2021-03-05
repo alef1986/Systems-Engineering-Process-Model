@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Qualitätsmanagementprotokoll"
-    id="bb4b72cd-cd24-43ea-904e-c01694bc7e86"/>
+    id="bb4b72cd-cd24-43ea-904e-c01694bc7e86"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Qualitätsmanagementprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Qualitätsmanagement.">
+  <properties
+      key="en_Name"
+      value="Quality management record"/>
+  <properties
+      key="de_Name"
+      value="Qualitätsmanagementprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Qualitätsmanagementprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Qualitätsmanagement."/>
+</archimate:BusinessObject>

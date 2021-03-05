@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planen des Wissensmanagements"
-    id="2f36986c-1614-45ca-89c5-72fcff853e0b"/>
+    id="2f36986c-1614-45ca-89c5-72fcff853e0b">
+  <properties
+      key="de_Name"
+      value="Planen des Wissensmanagements"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

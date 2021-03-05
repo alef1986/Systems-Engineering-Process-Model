@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Liefern und Erhalten des Produkts oder der Dienstleistung"
-    id="878e9448-08f7-484a-9077-db816bc09d0c"/>
+    id="878e9448-08f7-484a-9077-db816bc09d0c">
+  <properties
+      key="de_Name"
+      value="Liefern und Erhalten des Produkts oder der Dienstleistung"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

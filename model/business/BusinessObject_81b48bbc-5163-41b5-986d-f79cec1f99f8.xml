@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Interface definition"/>
+  <properties
+      key="de_Name"
+      value="Schnittstellendefinition"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Schnittstellendefinition umfasst die logischen und physischen ASpekte von internen Schnittstellen (zwischen den Systemelementen aus denen das System besteht) und externen Schnittstellen (zwischen den Systemelementen und den Elementen außerhalb des Zielsystems)&quot;."/>
 </archimate:BusinessObject>

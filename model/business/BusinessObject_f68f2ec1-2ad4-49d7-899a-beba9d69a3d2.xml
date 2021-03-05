@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System function definition"/>
+  <properties
+      key="de_Name"
+      value="Definition der Systemfunktionen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Definition der Systemfunktionen umfasst die Definition der funktionalen Grenzen des Systems und der Funktionen die das System erfüllen muss&quot;."/>
 </archimate:BusinessObject>

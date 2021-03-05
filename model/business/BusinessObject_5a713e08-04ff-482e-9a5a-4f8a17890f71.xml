@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verified system"/>
+  <properties
+      key="de_Name"
+      value="verifiziertes System"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein verifiziertes System (oder Systemelement) ist ein System oder ein Bestandteil davon, der zur Übergabe bereit ist&quot;."/>
 </archimate:BusinessObject>

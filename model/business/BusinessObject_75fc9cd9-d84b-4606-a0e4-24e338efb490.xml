@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Measurement report"/>
+  <properties
+      key="de_Name"
+      value="Messungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Messungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Messungsaktivitäten zu kommunizieren.&#xD;&#xA;Er umfasst die Dokumentation der Aktivitäten rund um die Messergebnisse, die Messdaten, die gesammelt und analysiert und die Ergebnisse, die übermittelt wurden, sowie jegliche Verbesserungen oder Korrekturmaßnahmen, die durch die Messungen oder deren unterstützenden Daten getrieben werden&quot;."/>
 </archimate:BusinessObject>

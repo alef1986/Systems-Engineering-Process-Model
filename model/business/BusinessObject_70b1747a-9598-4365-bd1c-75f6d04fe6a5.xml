@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project assessment and control strategy"/>
+  <properties
+      key="de_Name"
+      value="Strategie zur Projektbewertung und -steuerung"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Projektbewertung und -steuerung umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die Projektbewertung und -steuerung im Rahmen eines Projekts durchzuführen&quot;."/>
 </archimate:BusinessObject>

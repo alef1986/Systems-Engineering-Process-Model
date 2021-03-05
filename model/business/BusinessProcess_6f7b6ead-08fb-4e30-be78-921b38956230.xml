@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysieren der Systemanforderungen"
-    id="6f7b6ead-08fb-4e30-be78-921b38956230"/>
+    id="6f7b6ead-08fb-4e30-be78-921b38956230">
+  <properties
+      key="de_Name"
+      value="Analysieren der Systemanforderungen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

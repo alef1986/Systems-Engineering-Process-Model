@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System elements"/>
+  <properties
+      key="de_Name"
+      value="Systemelemente"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Systemelement ist ein gemäß dem Beschaffungsvertrag erstellter oder beschaffter Bestandteil eines Systems&quot;."/>
 </archimate:BusinessObject>

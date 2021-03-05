@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definieren des Projekts"
-    id="b062f285-d23f-43d7-8b52-ee23b0532738"/>
+    id="b062f285-d23f-43d7-8b52-ee23b0532738">
+  <properties
+      key="de_Name"
+      value="Definieren des Projekts"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

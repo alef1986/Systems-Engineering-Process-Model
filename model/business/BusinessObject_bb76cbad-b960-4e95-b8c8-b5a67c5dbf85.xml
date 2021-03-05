@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Projektinfrastruktur"
-    id="bb76cbad-b960-4e95-b8c8-b5a67c5dbf85"/>
+    id="bb76cbad-b960-4e95-b8c8-b5a67c5dbf85"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Projektinfrastruktur umfasst alle Ressourcen und Dienstleistungen, die ein Projekt unterstützen. Dazu zählen: Einrichtungen auf Projektebene, Personal und Ressourcen für die Produktion, die Software-Entwicklung, die System-Umsetzung und die Integration, Verifikation, Validierung usw.">
+  <properties
+      key="en_Name"
+      value="Project infrastructure"/>
+  <properties
+      key="de_Name"
+      value="Projektinfrastruktur"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Projektinfrastruktur umfasst alle Ressourcen und Dienstleistungen, die ein Projekt unterstützen. Dazu zählen: Einrichtungen auf Projektebene, Personal und Ressourcen für die Produktion, die Software-Entwicklung, die System-Umsetzung und die Integration, Verifikation, Validierung usw."/>
+</archimate:BusinessObject>

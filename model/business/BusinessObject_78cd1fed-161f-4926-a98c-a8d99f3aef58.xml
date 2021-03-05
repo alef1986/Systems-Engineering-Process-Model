@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Maintenance record"/>
+  <properties
+      key="de_Name"
+      value="Wartungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Warungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Wartung&quot;."/>
 </archimate:BusinessObject>

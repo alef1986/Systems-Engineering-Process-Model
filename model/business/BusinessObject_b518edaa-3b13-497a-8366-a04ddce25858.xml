@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Candidate risks and opportunities"/>
+  <properties
+      key="de_Name"
+      value="mögliche Risiken und Chancen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Risiken und Chancen sind die Risiken sind die Risiken oder Möglichkeiten, die von jedem Stakeholder eingebracht werden können. Sie werden häufig im Rahmen des Prozesses &quot;Projektbewertung und -steuerung&quot; erkannt. Risiken bzw. Möglichkeiten können in jedem Lebenszyklusprozess entstehen&quot;."/>
 </archimate:BusinessObject>

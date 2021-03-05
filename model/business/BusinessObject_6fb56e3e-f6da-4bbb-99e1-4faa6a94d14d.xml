@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Interface definition update identification"/>
+  <properties
+      key="de_Name"
+      value="Kennzeichnung aktualisierter Schnittstellendefinitionen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Kennzeichnung aktualisierter Schnittstelldefinitionen umfasst die Kennzeichnung von Schnittstellen an denen Änderungen der Schnittstellenanforderungen und -definitionen durchgeführt wurden&quot;."/>
 </archimate:BusinessObject>

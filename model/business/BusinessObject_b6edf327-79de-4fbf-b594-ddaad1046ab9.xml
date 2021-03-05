@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Design traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit des Entwurfs"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit des Entwurfs bedeutet immer bidirektionale Nachverfolgbarkeit der Entwurfsmerkmale, Entwurfsmittel und der Anforderungen an die Systemelemente&quot;."/>
 </archimate:BusinessObject>

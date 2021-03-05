@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Störungen und Probleme behandeln"
-    id="01b77e2e-1050-4a30-b756-4f5e154ebf74"/>
+    id="01b77e2e-1050-4a30-b756-4f5e154ebf74">
+  <properties
+      key="de_Name"
+      value="Störungen und Probleme behandeln"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

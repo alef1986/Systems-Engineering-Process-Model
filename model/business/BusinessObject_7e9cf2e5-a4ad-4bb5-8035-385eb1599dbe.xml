@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Transition strategy"/>
+  <properties
+      key="de_Name"
+      value="Übergabestrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Übergabestrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um das System in die Betriebsumgebung zu überführen&quot;."/>
 </archimate:BusinessObject>

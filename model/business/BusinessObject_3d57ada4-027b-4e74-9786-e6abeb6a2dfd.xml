@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Information management strategy"/>
+  <properties
+      key="de_Name"
+      value="Informationsmanagementstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Informationsmanagementstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das Informationsmanagement im Rahmen eines Projekts durchzuführen&quot;."/>
 </archimate:BusinessObject>

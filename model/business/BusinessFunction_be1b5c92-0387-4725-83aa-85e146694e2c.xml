@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Messung"
     id="be1b5c92-0387-4725-83aa-85e146694e2c"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.7.1] Der Zweck des Prozesses &quot;Messung&quot; ist das Sammeln, Analysieren und Berichten von objektiven Daten und Informationen, um wirksames Steuern zu ermöglichen und die Qualität der Produkte, Dienstleistungen und Prozesse zu zeigen&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.7.1] Der Zweck des Prozesses &quot;Messung&quot; ist das Sammeln, Analysieren und Berichten von objektiven Daten und Informationen, um wirksames Steuern zu ermöglichen und die Qualität der Produkte, Dienstleistungen und Prozesse zu zeigen&quot;.">
+  <properties
+      key="en_Name"
+      value="Measurement process"/>
+  <properties
+      key="de_Name"
+      value="Messung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.7.1] Der Zweck des Prozesses &quot;Messung&quot; ist das Sammeln, Analysieren und Berichten von objektiven Daten und Informationen, um wirksames Steuern zu ermöglichen und die Qualität der Produkte, Dienstleistungen und Prozesse zu zeigen&quot;."/>
+</archimate:BusinessFunction>

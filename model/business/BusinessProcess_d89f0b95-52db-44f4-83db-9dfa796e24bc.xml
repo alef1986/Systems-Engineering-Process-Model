@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verteilen von Wissensbeständen in der Organisation"
-    id="d89f0b95-52db-44f4-83db-9dfa796e24bc"/>
+    id="d89f0b95-52db-44f4-83db-9dfa796e24bc">
+  <properties
+      key="de_Name"
+      value="Verteilen von Wissensbeständen in der Organisation"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Quality management guidelines"/>
+  <properties
+      key="de_Name"
+      value="Qualitätsmanagementrichtlinien"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Qualitätsmanagement-Richtlinien umfassen die Vorgaben für alle Praktiken rund um die Qualität innerhalb des Unternehmens oder innerhalb einzelner Projekte sowie im Rahmen der Ausführung der Prozesse des Systemlebenszyklus&quot;."/>
 </archimate:BusinessObject>

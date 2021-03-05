@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Accepted system or system element"/>
+  <properties
+      key="de_Name"
+      value="abgenommenes System oder Systemelement"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein abgenommenes System oder - Systemelement entspricht einem vom Zulieferer an den Beschaffer übergebenen System oder Systemelement, das dann dem Projekt zur Verfügung steht.&quot;"/>
 </archimate:BusinessObject>

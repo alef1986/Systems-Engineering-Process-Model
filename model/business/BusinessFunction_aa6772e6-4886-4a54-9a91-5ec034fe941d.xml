@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risikomanagement"
     id="aa6772e6-4886-4a54-9a91-5ec034fe941d"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.4.1] Der Zweck des Prozesses &quot;Risikomanagement&quot; ist das Erkennen, Analysieren, Behandeln und Beobachten von Risiken&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.4.1] Der Zweck des Prozesses &quot;Risikomanagement&quot; ist das Erkennen, Analysieren, Behandeln und Beobachten von Risiken&quot;.">
+  <properties
+      key="en_Name"
+      value="Risk management process"/>
+  <properties
+      key="de_Name"
+      value="Risikomanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.4.1] Der Zweck des Prozesses &quot;Risikomanagement&quot; ist das Erkennen, Analysieren, Behandeln und Beobachten von Risiken&quot;."/>
+</archimate:BusinessFunction>

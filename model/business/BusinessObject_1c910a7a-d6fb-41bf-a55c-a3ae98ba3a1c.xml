@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Information repository"/>
+  <properties
+      key="de_Name"
+      value="Informationsablage"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Informationsablage ist eine zentrale Ablage, die die rechtzeitige, vollständige, valide und - falls erforderlich - zugriffsbeschränkte Verwendung und Verteilung aller projektrelevanten Informationen unterstützt&quot;."/>
 </archimate:BusinessObject>

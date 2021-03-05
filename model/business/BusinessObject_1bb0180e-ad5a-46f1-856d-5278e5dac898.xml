@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System functional interface identification"/>
+  <properties
+      key="de_Name"
+      value="Identifikation der funktionalen Systemschnittstellen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Identifikation der funktionalen Systemschnittstellen umfasst das Ermitteln und Dokumentieren der funktionalen externen Schnittstellen des Systems sowie der dazugehörigen Anforderungen an den Informationsaustausch&quot;."/>
 </archimate:BusinessObject>

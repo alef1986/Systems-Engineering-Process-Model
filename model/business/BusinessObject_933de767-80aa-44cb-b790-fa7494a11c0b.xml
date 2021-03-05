@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personalmanagementprotokoll"
-    id="933de767-80aa-44cb-b790-fa7494a11c0b"/>
+    id="933de767-80aa-44cb-b790-fa7494a11c0b"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Personalmanagement-Protokoll enthält lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Personalmanagement.">
+  <properties
+      key="en_Name"
+      value="Human resource management record"/>
+  <properties
+      key="de_Name"
+      value="Personalmanagementprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Personalmanagement-Protokoll enthält lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Personalmanagement."/>
+</archimate:BusinessObject>

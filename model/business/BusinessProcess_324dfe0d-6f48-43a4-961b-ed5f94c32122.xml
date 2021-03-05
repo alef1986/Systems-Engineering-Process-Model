@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Durchführen der Übergabe"
-    id="324dfe0d-6f48-43a4-961b-ed5f94c32122"/>
+    id="324dfe0d-6f48-43a4-961b-ed5f94c32122">
+  <properties
+      key="de_Name"
+      value="Durchführen der Übergabe"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

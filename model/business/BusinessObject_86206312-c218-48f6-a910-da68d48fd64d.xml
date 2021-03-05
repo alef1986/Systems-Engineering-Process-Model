@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System design rationale"/>
+  <properties
+      key="de_Name"
+      value="Begründung des Systementwurfs"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Begründung des Systementwurfs ist die Erklärung für die Auswahl eines Entwurfs, die Auswahl der Systemelemente und die Zuweisung der Systemanforderungen zu den Systemelementen. Die Begründung enthält die Erklärung für die maßgeblichen gewählten Möglichkeiten und Mittel der Umsetzung.&quot;"/>
 </archimate:BusinessObject>

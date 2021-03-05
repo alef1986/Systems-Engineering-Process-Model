@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Architecture traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Architektur"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Architektur bedeutet immer bidirektionale Nachverfolgbarkeit der Architektureigenschaften.&quot;"/>
 </archimate:BusinessObject>

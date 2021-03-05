@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Transition report"/>
+  <properties
+      key="de_Name"
+      value="Übergabebericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Übergabebericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Übergabeaktivitäten zu kommunizieren.&#xD;&#xA;&#xD;&#xA;Er enthält die dokumentation der übergebenen Ergebnisse und eine Aufzeichgnung aller empfohlenen Korrekturmaßnahmen, wie Einschränkungen, Zugeständnisse und offene Fragestellungen. Auch Pläne, die bei Übergaben aufgetreten Probleme zu beheben, gehören dazu&quot;."/>
 </archimate:BusinessObject>

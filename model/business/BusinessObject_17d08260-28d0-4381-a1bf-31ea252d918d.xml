@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Verification strategy"/>
+  <properties
+      key="de_Name"
+      value="Verifikationsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Verifikationsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die ausgewählten Verifikationstätigkeiten durchzuführen, durch die Kosten und Risiken gesenkt und gleichzeitig das betriebsbezogene Systemverhalten maximal abdeckt wird&quot;."/>
 </archimate:BusinessObject>

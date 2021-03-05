@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten der ausgewählten Architektur"
-    id="910214b1-d90d-4433-bab9-267e9ca23637"/>
+    id="910214b1-d90d-4433-bab9-267e9ca23637">
+  <properties
+      key="de_Name"
+      value="Verwalten der ausgewählten Architektur"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

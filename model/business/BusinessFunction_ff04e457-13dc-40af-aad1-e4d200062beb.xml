@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wissensmanagement"
     id="ff04e457-13dc-40af-aad1-e4d200062beb"
-    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;Der Zweck des Prozesses &quot;Wissensmanagement&quot; ist es, die Fähigkeiten und Wissensbestände zu schaffen, mit denen die Organisation in die Lage versetzt wird, Chancen zu nutzen und bestehendes Wissen erneut anzuwenden&quot;."/>
+    documentation="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;Der Zweck des Prozesses &quot;Wissensmanagement&quot; ist es, die Fähigkeiten und Wissensbestände zu schaffen, mit denen die Organisation in die Lage versetzt wird, Chancen zu nutzen und bestehendes Wissen erneut anzuwenden&quot;.">
+  <properties
+      key="en_Name"
+      value="Knowledge management process"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;Der Zweck des Prozesses &quot;Wissensmanagement&quot; ist es, die Fähigkeiten und Wissensbestände zu schaffen, mit denen die Organisation in die Lage versetzt wird, Chancen zu nutzen und bestehendes Wissen erneut anzuwenden&quot;."/>
+</archimate:BusinessFunction>

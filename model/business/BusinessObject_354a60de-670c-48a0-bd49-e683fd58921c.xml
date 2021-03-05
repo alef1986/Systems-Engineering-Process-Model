@@ -4,6 +4,12 @@
     id="354a60de-670c-48a0-bd49-e683fd58921c"
     documentation="Ein beschafftes System (Produkt oder Dienstleistung) ist eine vom Zulieferer an den Beschaffer gemäß den Lieferbedingungen des Beschaffungsvertrages ausgeliefertes System oder Systemelement.">
   <properties
-      key="English Name"
+      key="en_Name"
       value="Acquired system"/>
+  <properties
+      key="de_Name"
+      value="beschafftes System"/>
+  <properties
+      key="de_Desc"
+      value="Ein beschafftes System (Produkt oder Dienstleistung) ist eine vom Zulieferer an den Beschaffer gemäß den Lieferbedingungen des Beschaffungsvertrages ausgeliefertes System oder Systemelement."/>
 </archimate:BusinessObject>

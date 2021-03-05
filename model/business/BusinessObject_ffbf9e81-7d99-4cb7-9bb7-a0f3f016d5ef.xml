@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Quality assurance plan"/>
+  <properties
+      key="de_Name"
+      value="Qualitätssicherungsplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Qualitätssicherungsplan umfasst eine Reihe von Qualitätssicherungsaktivitäten, die auf das Projekt zugeschnitten sind um die Entwicklung und SE Prozesse überwachen.&#xD;&#xA;Er beschreibt die Qualitätssicherung einer Organisation sowie anzuwendende Aktivitäten zur Prüfung, Bewertung und Überwachung.&#xD;&#xA;Dazu gehört eine Reihe von Richtlinien und Verfahren, einschließlich der spezifischen Methoden und Techniken, die als Praktiken der Qualitätssicherung sowohl innerhalb der Organisation als auch innerhalb einzelner Projekt gelten.&#xD;&#xA;Der Qualitätssicherungsplan enthält auch messbare Qualitätsziele für Prozesse und Systeme einschließlich der zugewiesenen Verantwortungen und Berechtigungen für das QM innerhalb der Organisation.&#xD;&#xA;Der Plan verweist auch auf Aktivitäten, die von anderen Organisationen durchgeführt werden oder auf Funktionen die von der Qualitätssicherungsorganisation überwacht oder auditiert werden&quot;."/>
 </archimate:BusinessObject>

@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Project control requests"/>
+  <properties
+      key="de_Name"
+      value="Projektsteuerungsanträge"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Projektsteuerungsanträge sind interne Projektvorgaben, die auf Handlungen beruhen, die sich aufgrund von Abweichungen zum Projektplan ergeben. Sie werden - falls erforderlich - sowohl dem Projektteam als auch dem Kunden mitgeteilt. Wenn Bewertungen mit einer Enrscheidungsschwelle verbunden sind, muss eine Entscheidung getroffen werden, ob fortgefahren werden soll oder nicht&quot;."/>
 </archimate:BusinessObject>

@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wissensmanagementsystem"
-    id="fbac47f8-6f26-4803-a3ff-780a7c5b66f7"/>
+    id="fbac47f8-6f26-4803-a3ff-780a7c5b66f7"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Wissensmanagementsystem ist ein System zur Verwaltung von Wissen, das erhalten werden soll. Es umfasst die zur Beurteilung der Eignung vorhandenen Wissen für das Projekt sowie Erkenntnisse aus der Durchführung der SE-Prozesse der Organisation für das projekt. Das Wissensmanagementsystem sollte Mechanismen enthalten, die es erlauben, die Wissensbestände zu erkennen und auf sie zuzugreifen sowie einzuschätzen, in welchem Grad sie für das Projekt anwendbar sind. Es kann in jedem Lebenszyklusprozess genutzt werden.">
+  <properties
+      key="en_Name"
+      value="Knowledge management system"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagementsystem"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Wissensmanagementsystem ist ein System zur Verwaltung von Wissen, das erhalten werden soll. Es umfasst die zur Beurteilung der Eignung vorhandenen Wissen für das Projekt sowie Erkenntnisse aus der Durchführung der SE-Prozesse der Organisation für das projekt. Das Wissensmanagementsystem sollte Mechanismen enthalten, die es erlauben, die Wissensbestände zu erkennen und auf sie zuzugreifen sowie einzuschätzen, in welchem Grad sie für das Projekt anwendbar sind. Es kann in jedem Lebenszyklusprozess genutzt werden."/>
+</archimate:BusinessObject>

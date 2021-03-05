@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten des Risikoprofils"
-    id="e87fe7c8-b199-4bff-a4db-4743991f977b"/>
+    id="e87fe7c8-b199-4bff-a4db-4743991f977b">
+  <properties
+      key="de_Name"
+      value="Verwalten des Risikoprofils"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

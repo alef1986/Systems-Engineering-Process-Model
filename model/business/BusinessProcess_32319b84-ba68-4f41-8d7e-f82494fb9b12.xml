@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fähigkeiten erwerben und bereitstellen"
-    id="32319b84-ba68-4f41-8d7e-f82494fb9b12"/>
+    id="32319b84-ba68-4f41-8d7e-f82494fb9b12">
+  <properties
+      key="de_Name"
+      value="Fähigkeiten erwerben und bereitstellen"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

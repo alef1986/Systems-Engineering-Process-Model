@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwalten der Integration"
-    id="0cc327c0-35aa-4fae-920c-469880bba0f3"/>
+    id="0cc327c0-35aa-4fae-920c-469880bba0f3">
+  <properties
+      key="de_Name"
+      value="Verwalten der Integration"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

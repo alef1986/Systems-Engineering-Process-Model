@@ -1,4 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portfoliomanagementsplan"
-    id="9721fa66-8382-49c8-abee-486d08ca2d8d"/>
+    id="9721fa66-8382-49c8-abee-486d08ca2d8d"
+    documentation="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Portfoliomanagementplan umfasst die Vorgehensweisen, Zeitpläne, Ressourcen nd konkrete Überlegungen, um ein Projektportfolio zu definieren.">
+  <properties
+      key="en_Name"
+      value="Portfolio management plan"/>
+  <properties
+      key="de_Name"
+      value="Portfoliomanagementsplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Portfoliomanagementplan umfasst die Vorgehensweisen, Zeitpläne, Ressourcen nd konkrete Überlegungen, um ein Projektportfolio zu definieren."/>
+</archimate:BusinessObject>

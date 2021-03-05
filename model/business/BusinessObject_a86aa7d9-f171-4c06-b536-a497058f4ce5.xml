@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="System requirements"/>
+  <properties
+      key="de_Name"
+      value="Systemanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Systemanforderungen beschreiben, was das System - inwieweit und unter welchen Bedingungen - tun muss, um die Projekt- und Entwurfsvorgaben zu erfüllen. Sie enthalten verschiedenen Typen von Anforderungen, wie z. B. zur Funktion, Leistungsfähigkeit, zu Schnittstellen, zum Verhalten (z. B. Zustände und Betriebsarten, Reaktionsverhalten, Verhalten bei Fehlern oder beim Versagen), Betriebsbedingungen (z. B. Sicherheit, Zuverlässigkeit, menschliche Einflüsse, Umweltbedingungen), Transport, Lagerung, physische Rahmenbedingungen, Realisierung, Integration, Verifikation, Validierung, Herstellung, Wartung, Entsorgungsvorgaben sowie geltende Normen dazu. Systemanforderungen werden in einer &quot;Spezifikation der Systemanforderungen&quot; (System Requirements Specification, SyRS) oder kurz Systemspezifikation erfasst. Sie umfasst die Anfroderungen auf allen Ebenen der Systemhierarchie&quot;."/>
 </archimate:BusinessObject>

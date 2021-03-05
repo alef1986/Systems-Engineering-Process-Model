@@ -6,4 +6,10 @@
   <properties
       key="en_Name"
       value="Operation constraints"/>
+  <properties
+      key="de_Name"
+      value="betriebsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die betriebsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das Sysem, die sich aus der Betriebsstrategie ergeben, einschließlich der Kosten, des Zeitrahmens und der technischen Einschränkungen.&quot;"/>
 </archimate:BusinessObject>

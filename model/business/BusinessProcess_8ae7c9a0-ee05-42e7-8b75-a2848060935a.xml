@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konzepte und Ansichten möglicher alternativer Architekturen entwickeln"
-    id="8ae7c9a0-ee05-42e7-8b75-a2848060935a"/>
+    id="8ae7c9a0-ee05-42e7-8b75-a2848060935a">
+  <properties
+      key="de_Name"
+      value="Konzepte und Ansichten möglicher alternativer Architekturen entwickeln"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>

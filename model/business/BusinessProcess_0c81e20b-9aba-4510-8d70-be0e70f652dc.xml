@@ -1,4 +1,10 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bewerten möglicher Architekturvarianten"
-    id="0c81e20b-9aba-4510-8d70-be0e70f652dc"/>
+    id="0c81e20b-9aba-4510-8d70-be0e70f652dc">
+  <properties
+      key="de_Name"
+      value="Bewerten möglicher Architekturvarianten"/>
+  <properties
+      key="de_Desc"/>
+</archimate:BusinessProcess>
