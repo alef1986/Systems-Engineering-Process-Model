@@ -12,4 +12,4 @@ Second version of the product created with support of the "Knowledge Management 
 
 German interactive version of the product (v.1.0): https://gfse.de/prozessmodell
 
-![Process Model](https://alef1986.github.io/Systems-Engineering-Process-Model/extDocsImages/prozessmodell.png) 
+![Process Model](https://alef1986.github.io/Systems-Engineering-Process-Model/Huge_BlackBackground_Texts.png) 
