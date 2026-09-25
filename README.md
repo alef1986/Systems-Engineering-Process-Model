@@ -1,15 +1,30 @@
-# Systems Engineering Process Model
-Product of INCOSE
+# ⚠️ REPOSITORY MOVED ⚠️
+
+**This repository is no longer maintained and has been officially moved to the INCOSE organization GitHub.**
+
+👉 **New Official Repository: [https://github.com/INCOSE/process-model](https://github.com/INCOSE/process-model)**
+
+Please update your bookmarks and direct any new issues, pull requests, or forks to the new repository.
+
+---
+
+# Systems Engineering Process Model (Archive)
+
+*This is the archived personal repository for the enCO2 process model. For the latest updates, please visit the [official INCOSE repository](https://github.com/INCOSE/process-model).*
+
+Product of INCOSE.  
 Landing page of the product (v.2.0): https://www.incose.org/process-model, it includes:
 - English interactive process model
-- Downloadable tailorable source files for Archi too, XML Open Exchange Format, CSV-files
+- Downloadable tailorable source files for Archi tool, XML Open Exchange Format, CSV-files
 
-Created on: 27.06.2019
-Updated on: 04.05.2023, v.2.0
+**Dates:**
+- Created on: 27.06.2019
+- Updated on: 04.05.2023, v.2.0 (Last update in this repository)
 
-Initial product created in the working group "Terminologie im Systems Engineering" of the German chapter of INCOSE
-Second version of the product created with support of the "Knowledge Management and Ontologies" working group of INCOSE
+**History & Acknowledgements:**
+- Initial product created in the working group "Terminologie im Systems Engineering" of the German chapter of INCOSE.
+- Second version of the product created with support of the "Knowledge Management and Ontologies" working group of INCOSE.
 
 German interactive version of the product (v.1.0): https://gfse.de/prozessmodell
 
-![Process Model](https://alef1986.github.io/Systems-Engineering-Process-Model/extDocsImages/INCOSE_Processmodel_gephi.png) 
+![Process Model](https://alef1986.github.io/Systems-Engineering-Process-Model/extDocsImages/INCOSE_Processmodel_gephi.png)
